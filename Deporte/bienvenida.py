@@ -2,7 +2,7 @@ import os,sys
 #from abdominales import*
 
 print(os.getcwd())
-sys.path.append("C:\Users\Diego\Desktop\python") 
+#sys.path.append("C:\Users\Diego\Desktop\python")
 
 
 def greetings():
