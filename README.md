@@ -1,4 +1,2 @@
-
-#Repositorio de Diego Aldunate
-Aldunate5\
-daaldunate@uc.cl
+# Repositorio de Diego Aldunate
+Aldunate5; daaldunate@uc.cl
