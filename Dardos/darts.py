@@ -1,6 +1,7 @@
 import practica
+#import Puntaje
 import os
-#import Double_Down
+import back_down
 
 def juego ():
     print("Bienvenido")
@@ -12,7 +13,7 @@ def juego ():
     print("5. Salir")
     game=int(input())
     if game==1:
-        print("en proceso")
+        back_down.run()
     elif game==2:
         print("en proceso")
     elif game==3:
