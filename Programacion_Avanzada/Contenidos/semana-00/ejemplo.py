@@ -7,3 +7,4 @@ class MiClase:
 
     def __init__(self, argumento):
         self.argumento = argumento
+
