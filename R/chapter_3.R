@@ -35,3 +35,28 @@ identical(mean(x),avg(x))
 search() #orden de prioridad
 #stats::filter();dplyr::filter 
 #se menciona el package, y luego la funcion que pertenece
+
+compute_s_n<-function(n){
+  x<-1:n
+  sum(x)
+}
+a=compute_s_n(25)
+m<-25
+s_n=vector(length=m) #empty vector largo m
+for (n in 1:m){
+  s_n[n]<-compute_s_n(n)
+}
+print(s_n)
+n<-1:m
+plot(n,s_n)
+
+####### vectorization ##########
+x<-1:10
+y<-1:10
+sqrt(x) #aplica funcion a cada elemento de vector
+x*y
+
+sapply(x, sqrt) #aplica funcion a cada elemento de un tipo de informacion
+z<-matrix(1:12,3,4)
+z1<-lapply(z,sqrt) #sapply,apply, etc..
+print(z1)
