@@ -1,0 +1,5831 @@
++---Abel Peres Castrillo
+|       Luciernagas Azules.mobi
+|       
++---Abraham B. Yehoshua
+|       Una Mujer en Jerusalen.prc
+|       
++---Adolfo Bioy Casares
+|       Bibliografia detallada.prc
+|       Clave para un amor.prc
+|       Cuentos.prc
+|       Descanso de caminantes.prc
+|       Diario de la guerra del cerdo.prc
+|       Dormir al sol.prc
+|       El calamar opta por su tinta.prc
+|       El caso de los viejitos voladores.prc
+|       El gran Serafin.prc
+|       El sue�o de los heroes.prc
+|       En memoria de Paulina.prc
+|       La aventura de un fotografo en La Plata.prc
+|       La invencion de Morel.prc
+|       La trama celeste - Las aventuras del capit*n Morris.prc
+|       Noumeno.prc
+|       Plan de evasion.prc
+|       Un campeon desparejo.prc
+|       Una mu�eca rusa.prc
+|       
++---Adriana Trigiani
+|       Lucia, Lucia.prc
+|       Valentine, Valentine.prc
+|       
++---Agatha Christie
+|       Accidente.prc
+|       Acuerdate de mi.mobi
+|       Asesinato en Bardsley Mews.prc
+|       Asesinato en el campo de golf.prc
+|       Asesinato en el Orient Express.prc
+|       Asesinato en la calle Hickory.prc
+|       Asesinato en Mesopotamia.prc
+|       Cafe solo.prc
+|       Camino hacia el pasado.mobi
+|       Cartas sobre la mesa.mobi
+|       Cinco cerditos.prc
+|       Cita con la muerte.prc
+|       Despues del funeral.prc
+|       Diez negritos.prc
+|       Diez negritos.zip
+|       Doble culpabilidad.prc
+|       Doble pista.prc
+|       Dos ni�as vestidas de azul.mobi
+|       El acantilado.prc
+|       El asesinato de Roger Ackroyd.prc
+|       El canto del cisne.prc
+|       El caso de la dama acongojada.prc
+|       El caso de la doncella perfecta.prc
+|       El caso de la esposa de mediana edad.prc
+|       El caso de la mujer rica.prc
+|       El caso de los anonimos.prc
+|       El caso del baile de la Victoria.prc
+|       El caso del bungalow.prc
+|       El caso del empleado de la city.prc
+|       El caso del esposo descontento.prc
+|       El caso del soldado descontento.prc
+|       El club de los martes.prc
+|       El crimen de la cinta metrica.prc
+|       El cuadro.prc
+|       El cuarto hombre.prc
+|       El enigm*tico se�or Quinn.mobi
+|       El espejo del muerto.prc
+|       El expreso de Plymouth.prc
+|       El extra�o caso de sir Arthur Carmichael.prc
+|       El geranio azul.prc
+|       El inferior.prc
+|       El ladron de la Navidad.mobi
+|       El misterio de Cornwall.prc
+|       El misterio de la guia de ferrocarriles.mobi
+|       El misterio de las siete esferas.prc
+|       El misterio de Listerdale.prc
+|       El misterio de Market Basing.prc
+|       El misterio de Sans Souci.prc
+|       El misterio de Sittaford.prc
+|       El misterio del cofre espa�ol.prc
+|       El misterio del jarron azul.prc
+|       El misterio del tren azul.prc
+|       El misterioso caso de Styles.mobi
+|       El or*culo de Delfos.prc
+|       El pasado secreto de Suzanne Reardon.mobi
+|       El podenco de la muerte.prc
+|       El pudding de navidad.prc
+|       El rey de bastos.prc
+|       El rey de trebol.prc
+|       El robo de los planos del submarino.prc
+|       El secreto de Chimneys.prc
+|       El segundo gong.prc
+|       El tercer piso.prc
+|       El testigo mudo.prc
+|       El tren de las 4.50.prc
+|       El truco de los espejos.prc
+|       En el hotel Bertram's.prc
+|       Hacia cero.prc
+|       Inocencia tr*gica.prc
+|       Intriga en Bagdad .mobi
+|       Jane busca trabajo.prc
+|       La actriz.prc
+|       La ahogada.prc
+|       La aventura de la cocinera.prc
+|       La aventura del se�or Eastwood.prc
+|       La bola dorada de la oportunidad.prc
+|       La caja de bombones.prc
+|       La casa de Shiraz.prc
+|       La casa de sus sue�os.prc
+|       La casa del idolo de Astarte.prc
+|       La casa torcida.prc
+|       La esmeralda del raj*.prc
+|       La gitana.prc
+|       La herencia de los Lemesurier.prc
+|       La hierba mortal.prc
+|       La huella del pulgar de San Pedro.prc
+|       La llamada de las alas.prc
+|       La locura de Greenshaw.prc
+|       La l*mpara.prc
+|       La masculinidad de Eduardo Robinson.prc
+|       La mina perdida.prc
+|       La muchacha del tren.prc
+|       La muerte de Lord Edgware.prc
+|       La mu�eca de la modista.prc
+|       La perla de precio.prc
+|       La puerta de Bagdad.prc
+|       La puerta del destino.prc
+|       La rosa de sangre.prc
+|       La se�al en el cielo.prc
+|       La se�al roja.prc
+|       La se�ora Mc Ginty ha muerto.prc
+|       La se�orita de compa�ia.prc
+|       La telara�a.prc
+|       La venganza de Nofret.prc
+|       La ultima sesion.prc
+|       Las aventuras de Johnnie Waverly.prc
+|       Las manzanas.prc
+|       Lingotes de oro.prc
+|       Los cuatro grandes.prc
+|       Los cuatro sospechosos.prc
+|       Los elefantes pueden recordar.prc
+|       Los relojes.prc
+|       Los trabajos de Hercules.prc
+|       Manchas de sangre en el suelo.prc
+|       Matar es f*cil.prc
+|       Matrimonio de sabuesos.prc
+|       Miss Marple y trece problemas.prc
+|       Misterio en el Caribe.prc
+|       Muerte en El Nilo.prc
+|       Muerte en la vicaria.prc
+|       Muerte en las nubes.prc
+|       Movil versus oportunidad.prc
+|       Nido de avispas.prc
+|       Nemesis.prc
+|       Peligro inminente.prc
+|       Pleamares de la vida.prc
+|       Poirot en Egipto.prc
+|       Poirot infringe la ley.prc
+|       Poirot investiga.prc
+|       Primeros casos de Poirot.prc
+|       Problema en el mar.prc
+|       Problema en Pollensa.prc
+|       S. O. S..prc
+|       Sangre en la piscina.prc
+|       Santuario.prc
+|       Se anuncia un asesinato.mobi
+|       Telon, ultimo caso de Poirot.prc
+|       Testigo de cargo.prc
+|       Tiene usted todo lo que desea.prc
+|       Tragedia en tres actos.prc
+|       Tragedia navide�a.prc
+|       Trayectoria de Boomerang.prc
+|       Tres ratones ciegos.prc
+|       Tri*ngulo en Rodas.prc
+|       Un cadaver en la biblioteca.prc
+|       Un cantar por seis peniques.prc
+|       Un crimen dormido.prc
+|       Un domingo fructifero.prc
+|       Un pu�ado de centeno.mobi
+|       Un triste cipres.prc
+|       Una broma extra�a.prc
+|       Una hija es una hija.prc
+|       Una visita inesperada.prc
+|       Villa Filomena.prc
+|       Villa Ruise�or.prc
+|       �Como crece tu jardin'.prc
+|       �Donde est* el testamento'.prc
+|       
++---Agnette Friis
+|       El ni�o de la maleta.mobi
+|       
++---Agustin Fern*ndez Mallo
+|       Nocilla Experience [ESP].mobi
+|       
++---Agustin Vidal
+|       La llave maestra.mobi
+|       
++---Agustin Marangoni
+|       Gutierrez.awz
+|       
++---Alain Robbe-Grillet
+|       La casa de citas [ESP].mobi
+|       
++---Alan Barclay
+|       Casi extinguidos.prc
+|       Solamente un eco.prc
+|       
++---Alan Dean Foster
+|       Abandonado en las estrellas.prc
+|       Alien el octavo pasajero.prc
+|       El abismo negro (guion para Disney).prc
+|       El Krang de los Tar Aiym.prc
+|       El regalo de un hombre inutil.prc
+|       Tragedia en el Dark Star.prc
+|       
++---Alan Furst
+|       El Corresponsal.prc
+|       
++---Albert Camus
+|       La peste.prc
+|       
++---Albert Einstein
+|       Mi credo humanista.mobi
+|       Sobre la Teoria de la Relatividad [ESP].mobi
+|       
++---Albert S*nchez Pi�ol
+|       La piel fria.azw
+|       
++---Alberto Pena
+|       Gestiona mejor tu vida.mobi
+|       
++---Alberto V*zquez Figueroa
+|       Anaconda.mobi
+|       Centauros.mobi
+|       Cienfuegos I.mobi
+|       Cienfuegos II - Caribes.mobi
+|       Cienfuegos III - Azabache.mobi
+|       Cienfuegos IV - Montenegro.mobi
+|       Cienfuegos V - Brazofuerte.mobi
+|       Cienfuegos VI - Xaragua.mobi
+|       Cienfuegos VII - Tierra de bisontes.mobi
+|       El inca.mobi
+|       Garoe.mobi
+|       La puerta del Pacifico.mobi
+|       
++---Aldous Huxley
+|       Un mundo feliz.mobi
+|       
++---Alejandra Pizarnik
+|       Poesia completa.mobi
+|       
++---Alejandro Dumas
+|       Amaury.mobi
+|       El conde de Montecristo.mobi
+|       El hombre de la m*scara de hierro.mobi
+|       El tulip*n negro.mobi
+|       Historia de un muerto contada por el mismo.mobi
+|       La dama de las camelias.mobi
+|       Los tres mosqueteros.mobi
+|       Veinte a�os despues.mobi
+|       
++---Alejandro Nu�ez Alonso
+|       El Lazo De Purpura.mobi
+|       
++---Alessandro Barrico
+|       City.mobi
+|       El alma de Hegel y las vacas de Wisconsi.mobi
+|       Esta historia.mobi
+|       Iliada.mobi
+|       Seda.mobi
+|       Sin sangre.mobi
+|       Tierras de cristal.mobi
+|       
++---Alex Kava
+|       Bajo sospecha.mobi
+|       Cazador de almas.mobi
+|       Sin aliento.mobi
+|       
++---Alexander Lloyd
+|   \---Cronicas de Pridayn
+|           01 - El libro de los tres.mbp
+|           01 - El libro de los tres.prc
+|           02 - El caldero m*gico.prc
+|           03 - El castillo de Llyr.prc
+|           04 - Taran el vagabundo.mbp
+|           04 - Taran el vagabundo.prc
+|           05 - El gran rey.prc
+|           
++---Alfonso Mateo Sagasta
+|       Ladrones De Tinta.mobi
+|       
++---Alfonso alvarez Villar
+|       Confusion en el hospital.prc
+|       El misterio del Mary Celeste.prc
+|       La tumba del astronauta.prc
+|       
++---Alfred Attanasio
+|       El dragon y el unicornio.prc
+|       El lobo y la corona.prc
+|       Radix.prc
+|       
++---Alfredo de Hoces
+|       Memorias de un ingeniero.azw
+|       
++---Algernon Blackwood
+|       El Sacrificio.prc
+|       El wendigo.prc
+|       John Silence investigador psiquico.prc
+|       La casa del pasado.prc
+|       Una victima del espacio superior.prc
+|       
++---Alicia Gimenez Bartlett
+|       Donde Nadie Te Encuentre.mobi
+|       
++---Allan Folsom
+|       Cero absoluto.mobi
+|       La huida.mobi
+|       
++---Almudena de Arteaga
+|       El desafio de las damas.mobi
+|       La esclava de marfil.mobi
+|       La princesa �boli.mobi
+|       la vida privada del emperador.mobi
+|       Maria de Molina.mobi
+|       angeles custodios.mobi
+|       
++---Almudena Grandes
+|       Atlas de geografia humana.prc
+|       El corazon helado.prc
+|       Ines y la alegria.mobi
+|       Los aires dificiles.prc
+|       Malena es un nombre de tango.prc
+|       Modelos de mujer.prc
+|       
++---Alphonse Allais
+|       El Captain Cap.prc
+|       
++---Alten Steve
+|       El testamento maya.mobi
+|       
++---Alvaro Pombo
+|       El temblor del heroe.mobi
+|       
++---Alys Clare
+|       Los misterios de la abadia 1 La novicia asesinada.mobi
+|       Los misterios de la abadia 2 Los moradores del bosque.mobi
+|       Los misterios de la abadia 3 La posada de la muerte.mobi
+|       Los misterios de la abadia 4 El enigma de sor Alba.mobi
+|       Los misterios de la abadia 5 La muerte fiel.mobi
+|       
++---Amin Maalouf
+|       Leon El Africano.mobi
+|       Los Jardines de Luz.prc
+|       Samarcanda.mobi
+|       Las cruzadas vistas por los �rabes.mobi
+|       
++---Amitav Ghosh
+|       El cromosoma Calcuta.azw
+|       
++---Amos Oz
+|       Conocer a una mujer.prc
+|       De repente en lo profundo del bosque.mobi
+|       
++---Amelie Nothomb
+|       Diccionario de nombres propios.azw
+|       
++---Ana Cabrera Vivanco
++---Ana Frank
+|       El diario de Ana Frank.mobi
+|       
++---Ana Maria Matute
+|       Olvidado Rey Gudu.mobi
+|       Paraiso Inhabitado.prc
+|       
++---Andrea Camilleri
+|       Ardores de agosto.mbp
+|       Ardores de agosto.mobi
+|       El ladron de meriendas.mobi
+|       El miedo de Montalbano.mobi
+|       El olor de la noche.mobi
+|       El perro de Terracota.mobi
+|       El primer caso de Montalbano.mobi
+|       La excursion a Tindari.mobi
+|       La forma del agua.mobi
+|       La luna de papel.mobi
+|       La muerte de Amalia Sacerdote.mobi
+|       La nochevieja de Montalbano.mobi
+|       La paciencia de la ara�a.mobi
+|       La pista de arena.mobi
+|       La voz del violin.mobi
+|       Las alas de la esfinge.mobi
+|       Un giro decisivo.mobi
+|       Un mes con Montalbano.mobi
+|       
++---Andreas Faber
+|       Jesus Murio y vivio en Cachemira.mobi
+|       
++---Andrew Klavan
+|       Ejecucion inminente.mobi
+|       
++---Andrew Pyper
+|       Plagio mortal - Andrew Pyper.mobi
+|       
++---Andrzej Sapkowski
+|       (Geralt De Rivia 00) - Camino sin retorno.mobi
+|       (Geralt De Rivia 01) - El ultimo deseo.mobi
+|       (Geralt De Rivia 02) - La espada del destino.mobi
+|       (Geralt De Rivia 03) - La sangre de los elfos.mobi
+|       (Geralt De Rivia 04) - Tiempo de odio.mobi
+|       (Geralt De Rivia 05) - Bautismo de fuego.mobi
+|       (Geralt De Rivia 06) - La Torre de la golondrina.mobi
+|       (Geralt De Rivia 07) - La dama del lago.mobi
+|       
++---Andres Pascual
+|       El Guardi*n de la Flor de Loto.prc
+|       
++---Andres Perez Dominguez
+|       El violinista de Mauthausen.mobi
+|       
++---Anita Amirrezvani
+|       El Rojo de las Flores.mobi
+|       
++---Anna Casanovas
+|       A fuego lento.azw
+|       
++---Anne Holt
+|       Castigo.azw
+|       La Diosa Ciega.prc
+|       
++---Anne Perry
+|   |   angeles en las tinieblas.mobi
+|   |   
+|   \---Thomas Pitt
+|           01- Los crimenes de Cater Street.mobi
+|           02- Los cad*veres de Callander Square.mobi
+|           03- La secta de Paragon Walk.mobi
+|           04- El callejon de los resucitados.mobi
+|           05- El ahogado del T*mesis.azw
+|           06- Los robos de Rutland Place.mobi
+|           07- Venganza en Devils Acre.azw
+|           08- Envenenado en Cardington Crescent.azw
+|           09- Silencio en Hanover Close.azw
+|           10- Los asesinatos de Bethelem Road.azw
+|           11- Incendios en Highgate Rise.azw
+|           12- Chantaje en Belgrave Square.mobi
+|           13- El Caso de Farriers Lane.azw
+|           14- El Degollador de Hyde Park.azw
+|           23- Los secretos de Connaught Square.azw
+|           Una Visita Navidena - Anne Perry.mobi
+|           
++---Anne Rice
+|       Camino a Can*.prc
+|       Cronicas vampiricas 07, Merrick.mobi
+|       Cronicas vampiricas 08, Sangre y oro.mobi
+|       Cronicas vampiricas 09, El santuario.mobi
+|       Cronicas vampiricas 10, C*ntico de sangre.mobi
+|       El ladron de cuerpos.mobi
+|       El Ni�o Judio.mobi
+|       El rapto de la bella durmiente.mobi
+|       El vampiro Armand.mobi
+|       Entrevista con el vampiro.mobi
+|       La hora del *ngel.mobi
+|       La reina de los condenados.mobi
+|       La voz del diablo.prc
+|       Lestat el vampiro.mobi
+|       Memnoch el diablo.mobi
+|       
++---Anselm Audley
+|       Cruzada.mobi
+|       Herejia.prc
+|       Inquisicion.mobi
+|           
++---Anthony Boucher
+|       Nellthu.prc
+|       
++---Anthony Bruno
+|       Seven.mobi
+|       
++---Anthony Burgess
+|       La Naranja Mecanica.prc
+|       
++---Anthony Hope
+|       El prisionero de Zenda.mobi
+|       
++---Antoine B. Daniel
+|       01.La princesa del sol.mobi
+|       02.La luz de Machu Picchu.mobi
+|       03.El oro de Cuzco.mobi
+|       
++---Antoine De Saint-Exupery
+|       El principito.mobi
+|       
++---Anton Szandor Lavey
+|       La biblia sat*nica.mobi
+|       
++---Antonia Corrales
+|       Epitafio de un asesino.mobi
+|       La decima clave.mobi
+|       En un rincon del alma.azw
+|       
++---Antonio Blay
+|       Lectura rapida.prc
+|       
++---Antonio Buero Vallejo
+|       La Fundacion.mobi
+|       
++---Antonio Burgos
+|       Gatos sin fronteras.mobi
+|       
++---Antonio Cabanas
+|       El Hijo Del Desierto.mobi
+|       El ladron de tumbas.mobi
+|       El sue�o milenario.mobi
+|       La conjura del faraon.mobi
+|       
++---Antonio Gala
+|       El pedestal de las estatuas.mobi
+|       La regla de tres.prc
+|       Las afueras de Dios.prc
+|       Los papeles de agua.prc
+|       
++---Antonio Gomez Rufo
+|       La leyenda del falso traidor.mobi
+|       
++---Antonio Lobo Antunes
+|       Ayer no te vi en Babilonia [ESP].mobi
+|       
++---Antonio Mu�oz Molina
+|       Ardor guerrero .mbp
+|       Ardor guerrero .mobi
+|       Cordoba de los Omeyas.mobi
+|       El invierno en Lisboa.mobi
+|       El jinete polaco.mobi
+|       En ausencia de Blanca.mobi
+|       Los misterios de Madrid.mobi
+|       Sefarad.mobi
+|       
++---Antonio Rabinad
+|       El ni�o asombrado.azw
+|       
++---Antonio Salas
+|       El Palestino.mobi
+|       
++---Antonio Sk*rmeta
+|       El baile de la Victoria.mobi
+|       El cartero de Neruda (Ardiente Paciencia).mobi
+|       
++---Antonio Soler
+|       El Nombre que Ahora Digo - Soler_ Antonio.mobi
+|       
++---Antony Beevor
+|       Berlin La caida 1945.mobi
+|       El dia D.azw
+|       El misterio de Olga Chejova.mobi
+|       La batalla de Creta.mobi
+|       La guerra civil espa�ola.mobi
+|       Las ultimas cartas de Stalingrado.mobi
+|       Stalingrado.mobi
+|       
++---Anonimo
+|       Beowulf.mobi
+|       El Lazarillo de Tormes.mobi
+|       El libro sin nombre.mobi
+|       Las mil y una noches.prc
+|       Los evangelios apocrifos.mobi
+|       
++---Apsley Cherry
+|   \---Garrard
+|           El Peor Viaje del Mundo.prc
+|           
++---Aravind Adiga
+|       El tigre blanco.azw
+|       
++---Arkadi Babchenko
+|       La guerra mas cruel.mobi
+|       
++---Arnaldur Indridason
+|       El Hombre del Lago.mobi
+|       La Voz.mobi
+|       Las Marismas.mobi
+|       Silencio Sepulcral.mobi
+|       
++---Arthur C. Clarke
+|   |   Alba de Saturno (con imagenes).prc
+|   |   Antes Del Eden.prc
+|   |   Crimen En Marte.prc
+|   |   Dinosaurios.prc
+|   |   El fin de la infancia.mobi
+|   |   El Juego Del Escondite.prc
+|   |   El Muro De Oscuridad.prc
+|   |   El Pacifista.prc
+|   |   En El Cometa.prc
+|   |   Encuentro En El Alba.prc
+|   |   Expedicion A La Tierra.prc
+|   |   Fuera De La Cuna.prc
+|   |   Hagase La Luz.prc
+|   |   La Estrella.prc
+|   |   La Luz De Las Tinieblas.prc
+|   |   La Melodia Ideal.prc
+|   |   La Salida De Saturno.prc
+|   |   La Ultima Orden.prc
+|   |   Leccion De Historia.prc
+|   |   Los Nueve Mil Millones De Nombres De Dios.prc
+|   |   Maelstrom 2.prc
+|   |   Masa Critica.prc
+|   |   No Habra Otro Manana.prc
+|   |   Odio.prc
+|   |   Perra Estrella.prc
+|   |   Perturbacion Solar.prc
+|   |   Problemas De Horario.prc
+|   |   Quien Esta Ahi.prc
+|   |   Recuerdo A Babilonia.prc
+|   |   Refugiado.prc
+|   |   Seleccion De Relatos Cortos.prc
+|   |   Silencio Por Favor.prc
+|   |   Un Ligero Caso De Insolacion.prc
+|   |   Un Procesador De Textos Accionado Por Vapor.prc
+|   |   Una Mona En La Casa.prc
+|   |   Verano En Icaro.prc
+|   |   Voces De Un Mundo Distante.prc
+|   |   
+|   +---Rama
+|   |       Cita Con Rama 2.prc
+|   |       Cita con Rama.prc
+|   |       El jardin de rama.prc
+|   |       Rama revelada.prc
+|   |       
+|   +---Una Odisea Espacial
+|   |       2001 Una Odisea Espacial.prc
+|   |       2010 Odisea DOS .mbp
+|   |       2010 Odisea DOS .prc
+|   |       2061  odisea tres.prc
+|   |       3001  Odisea Final.prc
+|   |       
+|   \---Venus Prime
+|           1 - M*xima Tension .mbp
+|           1 - M*xima Tension .prc
+|           2 - Torbellino.prc
+|           3 - El juego del escondite.prc
+|           4 - El encuentro con medusa.prc
+|           5 - La luna de diamante .prc
+|           6 - Los seres radiantes.prc
+|           
++---Arthur Conan Doyle
+|       El Archivo de Sherlock Holmes [ESP].mobi
+|       El Caso de los Siete Relojes [ESP].mobi
+|       El Mundo Perdido.mobi
+|       El Sabueso de los Baskerville [ESP].mobi
+|       El Signo de los Cuatro [ESP].mobi
+|       El Valle del Terror [ESP].mobi
+|       Estudio en Escarlata [ESP].mobi
+|       La Reaparicion de Sherlock Holmes [ESP].mobi
+|       Las Aventuras de Sherlock Holmes [ESP].mobi
+|       Memorias de Sherlock Holmes [ESP].mobi
+|       Sherlock Holmes Sigue en Pie [ESP].mobi
+|       Su ultimo saludo en el escenario [ESP].mobi
+|       
++---Arthur Golden
+|       Memorias de una Geisha.mobi
+|       
++---Arthur Machen
+|       Los tres impostores.mobi
+|       
++---Arturo Barea
+|       La forja de un rebelde 1 - La forja.mobi
+|       La forja de un rebelde 2 - La ruta.mobi
+|       La forja de un rebelde 3 - La llama.mobi
+|       
++---Arturo Perez-Reverte
+|       Cabo Trafalgar.mobi
+|       Corsarios de Levante [ESP].mobi
+|       El Asedio [ESP].mobi
+|       El Caballero del Jubon Amarillo [ESP].mobi
+|       El club Dumas.mobi
+|       El maestro de esgrima.mobi
+|       El oro del rey [ESP].mobi
+|       El pintor de batallas.mobi
+|       El sol de Breda [ESP].mobi
+|       La Carta Esferica.mobi
+|       La piel del tambor.mobi
+|       La reina del sur.mobi
+|       La sombra del aguila.mobi
+|       La tabla de Flandes.mobi
+|       Las aventuras del Capit*n Alatriste [ESP].mobi
+|       Limpieza de sangre  [ESP].mobi
+|       Patente De Corso.mobi
+|       Territorio comanche.mobi
+|       Un dia de colera.mobi
+|       
++---Asa Larsson
+|       Aurora boreal.prc
+|       Sangre derramada.azw
+|       
++---Ayn Rand
+|       La Rebelion de Atlas.mobi
+|       
++---Ayrampo Pinget
+|       Metal Rojo.mobi
+|       
++---Barbara Wood
+|       Los Manuscritos De Magdala.mobi
+|       Tierra sagrada.mobi
+|       
++---Becca Fitzpatrick
+|       Crescendo.mobi
+|       
++---Belinda Starling
+|       La encuadernadora de libros prohibidos.mobi
+|       
++---Ben Bova
+|       Hombres De Buena Voluntad.prc
+|       Inspiracion.prc
+|       Jupiter.prc
+|       Llamadas De Amor.prc
+|       Los Fabricantes Del Tiempo.prc
+|       
++---Ben H. Winters
+|       Sentido y Sensibilidad y Monstruos Marinos.mobi
+|       
++---Ben Kane
+|       La legion olvidada.mobi
+|       
++---Benito Perez Galdos
+|   |   Fortunata y Jacinta.mobi
+|   |   
+|   +---Episodios Nacionales
+|   |       EN01 Trafalgar.mobi
+|   |       EN02 La corte de Carlos IV.mobi
+|   |       EN03 El 19 de Marzo y el 2 de Mayo.mobi
+|   |       EN04 Bailen.mobi
+|   |       EN05 Napoleon en Chamartin.mobi
+|   |       EN06 Zaragoza.mobi
+|   |       EN07 Gerona.mobi
+|   |       EN08 Cadiz.mobi
+|   |       EN09 Juan Martin el Empecinado.mobi
+|   |       EN10 La batalla de los Arapiles.mobi
+|   |       EN11 El equipaje del Rey Jose.mobi
+|   |       
+|   \---Torquemada
+|           01 Torquemada en la hoguera.mobi
+|           02 Torquemada en la cruz.mobi
+|           03 Torquemada en el Purgatorio.mobi
+|           04 Torquemada y San Pedro.mobi
+|           
++---Benjamin Black
+|       El Lemur.mobi
+|       El Secreto de Christine.mobi
+|       
++---Bernard Beckett
+|       Genesis.mobi
+|       
++---Bernard Cornwell
+|   |   Arqueros del rey.azw
+|   |   Azincourt.mobi
+|   |   Northumbria 1 - El ultimo reino.mobi
+|   |   Northumbria 2 - Svein.mobi
+|   |   Northumbria 3 - Los se�ores del norte.mobi
+|   |   Stonehenge.mobi
+|   |   Tristan e Isolda.mobi
+|   |   
+|   +---Cronicas del Se�or de la Guerra
+|   |       Cronicas del Senor de la Guerra 1 - El Rey del Invierno.mobi
+|   |       Cronicas del Senor de la Guerra 2 - El Enemigo de Dios.mobi
+|   |       Cronicas del Senor de la Guerra 3 - Excalibur.mobi
+|   |       
+|   \---Sharpe
+|           01 Sharpe y el aguila del imperio.mobi
+|           02 Sharpe y el oro de los espa�oles.mobi
+|           03 Sharpe y sus fusileros.mobi
+|           
++---Bernard Werber
+|       El Dia de las Hormigas.mobi
+|       Las Hormigas.mobi
+|       
++---Bernardo Atxaga
+|       Cuentos.mobi
+|       Memorias de una vaca.mobi
+|       Obabakoak.mobi
+|       Siete Casas En Francia.mobi
+|       
++---Berta Marse
+|       Fantasias animadas.mobi
+|       
++---Betty Mahmoody
+|       No Sin Mi Hija.mobi
+|       
++---Bill Bryson
+|       Breve historia de casi todo.azw
+|       
++---Blanca Miosi
+|       El manuscrito 1 El secreto.azw
+|       
++---Boris Izaguirre
+|       Villa Diamante.mobi
+|       
++---Boris Vian
+|       Con las mujeres no hay manera.mobi
+|       El lobo hombre.mobi
+|       ESCUPIRE SOBRE VUESTRA TUMBA.mobi
+|       
++---Bram Stoker
+|       Dr*cula.mobi
+|       La Joya de las Siete Estrellas.mobi
+|       
++---Brandon Sanderson
+|       Elantris.prc
+|       
++---Brent Weeks
+|       Al filo de las sombras.azw
+|       El Camino De Las Sombras.mobi
+|       
++---Bret Easton Ellis
+|       American Psycho.mobi
+|       Los confidentes.mobi
+|       
++---Brian Herbert
+|       Cazadores de Dune.azw
+|       Gusanos de arena de Dune.azw
+|       
++---Brian W. Aldiss
+|       A cabeza descalza.prc
+|       Afuera.prc
+|       Barbagris.prc
+|       Capullo en flor.prc
+|       Criaturas del apogeo.prc
+|       Cuando la Tierra este muerta.prc
+|       Dr*cula Desencadenado.prc
+|       El exterior.prc
+|       El hombre en su tiempo.prc
+|       El suave dilema.prc
+|       El tapiz de Malacia.prc
+|       El verano casi habia concluido.prc
+|       El *rbol de saliva.prc
+|       En la arena.prc
+|       Enemigos del sistema.prc
+|       Entorno total.prc
+|       Epilogo.prc
+|       Espacio y tiempo.prc
+|       Frankenstein desencadenado.prc
+|       Galaxias como granos de arena.prc
+|       Hacia adelante.prc
+|       Heliconia Invierno.prc
+|       Heliconia Primavera.prc
+|       Heliconia Verano.prc
+|       Herejias del dios inmenso.prc
+|       Imperios gal*cticos I.prc
+|       Imperios gal*cticos II.prc
+|       Imperios gal*cticos III.prc
+|       Imperios gal*cticos IV.prc
+|       Intangibles S A..prc
+|       Invern*culo.prc
+|       La boveda del tiempo.prc
+|       La estrella imposible.prc
+|       La nave estelar.prc
+|       La noche en que todo el tiempo.prc
+|       Las ultimas ordenes.prc
+|       Los mejores relatos de ciencia ficcion.prc
+|       Los oscuros a�os luz.prc
+|       Los superjuguetes duran todo el verano.prc
+|       Nataniel.prc
+|       Plenisol.prc
+|       Pobre guerrero.prc
+|       Quien puede reemplazar a un hombre (1958).prc
+|       Seleccion de relatos cortos.prc
+|       Suave dilema.prc
+|       T.prc
+|       Trama estelar.prc
+|       Un mundo devastado.prc
+|       Viaje al infinito.prc
+|       �ltimas ordenes.prc
+|       
++---Bruno Traven
+|       El Barco de los Muertos.mobi
+|       
++---C. J. Cherryh
+|       La estacion Downbelow.azw
+|       
++---C. S. Lewis
+|   |   01 - El leon, la bruja y el armario.mobi
+|   |   02 - El principe Caspi*n.prc
+|   |   03 - La travesia del Explorador del amanecer.prc
+|   |   04 - La silla de Plata.prc
+|   |   05 - El caballo y su ni�o.prc
+|   |   06 - El Sobrino del Mago.prc
+|   |   07 - La ultima batalla.prc
+|   |   
+|   \---Repetidos (escoger mejor version)
+|           El caballo y su ni�o .prc
+|           El leon, la bruja y el armario .prc
+|           El principe Caspi*n .prc
+|           El Sobrino del Mago .prc
+|           La silla de Plata .prc
+|           La travesia del Explorador del amanecer .prc
+|           La ultima batalla.prc
+|           
++---C. Virgil Gheorghiu
+|       La hora 25.mobi
+|       
++---C. W. Ceram
+|       Dioses, tumbas y sabios.mobi
+|       El misterio de los hititas.mobi
+|       
++---Caleb Carr
+|       El Alienista.mobi
+|       El Angel De La Oscuridad.mobi
+|       El Caso Del Secretario Italiano.mobi
+|       
++---Camilla Lackberg
+|       Crimen en directo .prc
+|       La princesa de hielo.mobi
+|       Las hijas del frio.mobi
+|       Los gritos del pasado.azw
+|       
++---Camilo Jose Cela
+|       La Cruz De San Andres.mobi
+|       Nuevo Viaje a La Alcarria.mobi
+|       
++---Carl Sagan
+|       Biblioteca de Alejandria.prc
+|       Ciencia Ficcion un punto de vista Personal.prc
+|       Ciencia Y Tecnologia Avances Y Retrocesos.prc
+|       Contacto [ESP].mobi
+|       Cosmos [ESP].prc
+|       El cerebro de Broca [ESP].mobi
+|       El mundo y sus Demonios [ESP].mobi
+|       La Carga del Escepticismo.prc
+|       Los Dogon.prc
+|       Miles de Millones.prc
+|       Ovnis y dragones.prc
+|       Roswell.prc
+|       Un Punto Azul Palido Una Vision Del Futuro Humano En El Espacio.prc
+|       
++---Carl-Johan Vallgren
+|       Historia de un Amor Maravilloso.mobi
+|       
++---Carlo Frabetti
+|       Ciencia Ficcion - Seleccion.prc
+|       
++---Carlos Casta�eda
+|       LAS ENSE�ANZAS DE DON JUAN.mobi
+|       RELATOS DE PODER.mobi
+|       UNA REALIDAD APARTE.mobi
+|       VIAJE A IXTLAN.mobi
+|       
++---Carlos Clavijo
+|       El hijo de la vid.mobi
+|       
++---Carlos Fuentes
+|       Cambio de piel.prc
+|       La frontera de cristal.prc
+|       La muerte de Artemio Cruz.prc
+|       Los a�os con Laura Diaz.prc
+|       
++---Carlos Gagini
+|       La Caida del Aguila.prc
+|       
++---Carlos Ruiz Zafon
+|       El juego del *ngel.azw
+|       El palacio de la medianoche.mobi
+|       El principe de la niebla.mobi
+|       La sombra del viento.mobi
+|       Las luces de septiembre.mobi
+|       Marina.mobi
+|       El prisionero del cielo.mobi
+|       
++---Carlos Sisi
+|       Los caminantes.azw
+|       Necropolis.mobi
+|       Hades Nebula .mobi
+|       
++---Carme Riera
+|       El Verano del Ingles.prc
+|       
++---Carmen Amoraga
+|       El Tiempo Mientras Tanto.mobi
+|       
++---Carmen Posadas
+|       Invitacion a un asesinato.mobi
+|       La cinta roja.mobi
+|       
++---Carmen Santos
+|       Dias de Menta y Canela.prc
+|       
++---Catherine Jinks
+|       El Inquisidor.mobi
+|       El Secreto del Inquisidor.mobi
+|       
++---Cecelia Ahern
+|       Donde termina el arco iris.mobi
+|       Posdata. Te amo.mobi
+|       Si pudieras verme ahora
+|       
++---Cesar Mallorqui
+|       El Juego de Cain.prc
+|       
++---Cesarina Vighy
+|       El ultimo verano - Cesarina Vighy.mobi
+|       
++---Charlaine Harris
+|       A Touch of Dead(ESP).mobi
+|       Vampiros sure�os 01 - Muerto hasta el anochecer.mobi
+|       Vampiros sure�os 03 - Club Muerto.mobi
+|       Vampiros sure�os 04.1 - Muerto para el Mundo.mobi
+|       Vampiros sure�os 04.2 - Una Palabra como respuesta.mobi
+|       Vampiros sure�os 05 - Absolutamente Muerto.mobi
+|       Vampiros sure�os 06.1 - Definitivamente Muerta.mobi
+|       Vampiros sure�os 06.2 - Hortera.mobi
+|       Vampiros sure�os 07 - Todos Juntos Muertos.mobi
+|       Vampiros sure�os 08 - De muerta a peor.mobi
+|       Vampiros sure�os 09 - Muerto y bien muerto.mobi
+|       Vampiros sure�os 10 - Un muerto en la familia.mobi
+|       Viviendo muerto en Dallas.mobi
+|       
++---Charles Bukowski
+|       El Capit*n Salio a Comer y Los Marineros.mobi
+|       Factotum.mobi
+|       La M*quina de Follar.mobi
+|       Mujeres.prc
+|       Pulp.mobi
+|       Se Busca Una Mujer.mobi
+|       
++---Charles Dickens
+|       Cancion de Navidad [ESP].prc
+|       Casa Desolada Vol 1 [ESP].prc
+|       Casa Desolada Vol 2 [ESP].prc
+|       Cuento De Navidad [ESP].prc
+|       David Copperfield [ESP].prc
+|       El Armario Viejo [ESP].prc
+|       El Baron De Grogzwig [ESP].prc
+|       El Grillo Del Hogar [ESP].prc
+|       El Guardavias [ESP].prc
+|       El Manuscrito De Un Loco [ESP].prc
+|       El Misterio De Edwin Drood [ESP].prc
+|       El Presidente Del Jurado [ESP].prc
+|       El Relato De Ni�o [ESP].prc
+|       El Relato Del Pariente Pobre [ESP].prc
+|       El Varon De Grogzwig [ESP].prc
+|       El Velo Negro [ESP].prc
+|       Escritos Sobre Su Obra [ESP].prc
+|       Fantasmas De Navidad [ESP].prc
+|       Grandes Esperanzas.mobi
+|       Grillo Del Hogar [ESP].prc
+|       Guardavias [ESP].prc
+|       Historia De Dos Ciudades [ESP].prc
+|       Historias De Fantasmas [ESP].prc
+|       Juicio Por Asesinato [ESP].prc
+|       La Casa Hechizada [ESP].prc
+|       La Guardabarrera [ESP].prc
+|       La Historia de los Duendes que secuestraron a un enterrador [ESP].prc
+|       La Historia De Nadie [ESP].prc
+|       La Historia del Tio del Viajante [ESP].prc
+|       La Historia del Viajante de Comercio [ESP].prc
+|       La Muerte Del Borracho [ESP].prc
+|       La Novia del Ahorcado [ESP].prc
+|       La Visita del Se�or Testador [ESP].prc
+|       Oliver Twist [ESP].prc
+|       Papeles Postumos Del Club Pickwick Vol 1 [ESP].prc
+|       Papeles Postumos Del Club Pickwick Vol 2 [ESP].prc
+|       Papeles Postumos Del Club Pickwick Vol 3 [ESP].prc
+|       Para Leer Al Atardecer [ESP].prc
+|       Proceso Por Asesinato [ESP].prc
+|       Sentimental [ESP].prc
+|       Tiempos dificiles [ESP].mobi
+|       Una Confesion Encontrada En Una Prision De La Epoca De Carlos II [ESP].prc
+|       
++---Charles Esdaile
+|       Las guerras de Napoleon.mobi
+|       
++---Charlotte Roche
+|       Zonas humedas.azw
+|       
++---Chester Himes
+|       Algodon en Harlem [ESP].mobi
+|       El Gran Sue�o de Oro [ESP].mobi
+|       Todos Muertos [ESP].mobi
+|       
++---Chitra Banejee Divakaruni
+|       La se�ora de las especias.prc
+|       
++---Chris Stewart
+|       Entre limones .azw
+|       
++---Christian Jacq
+|       La reina Sol.mobi
+|       La venganza de los dioses 1.mobi
+|       Ramses 1 - El hijo de la luz.mobi
+|       Ramses 2 - El templo de millones de a�os.mobi
+|       Ramses 3 - La batalla de Kadesh.mobi
+|       Ramses 4 - La dama de Abu Simbel.mobi
+|       Ramses 5 - Bajo la acacia de Occidente.mobi
+|       
++---Christopher Anvil
+|       El brujo cautivo.prc
+|       La meseta.prc
+|       
++---Christopher Moore
+|       Chupate esa.azw
+|       El bufon.azw
+|       El *ngel m*s tonto del mundo.mobi
+|       La comedia del diablo.mobi
+|       La sanguijuela de mi ni�a.mobi
+|       Un trabajo muy sucio.azw
+|       
++---Christopher Paolini
+|       Brisingr.mobi
+|       Eldest.mobi
+|       Eragon.mobi
+|       
++---Chuck Palahniuk
+|       Asfixia.prc
+|       Diario Una novela.mobi
+|       El club de lucha.prc
+|       Error humano.mobi
+|       Fantasmas.mobi
+|       Nana.mobi
+|       Snuff.mobi
+|       Superviviente.mobi
+|       
++---Chufo Llorens
+|       Catalina, la fugitiva de San Benito.mobi
+|       La saga de los malditos.mobi
+|       Te dare la tierra.mobi
+|       
++---Clara S*nchez
+|       Lo que Esconde Tu Nombre.prc
+|       
++---Clive Barker
+|       Almas perdidas.mobi
+|       Almas torturadas.mobi
+|       El corazon condenado (Hellraiser).mobi
+|       El gran espectaculo secreto.mobi
+|       El ladron de dias.mobi
+|       Libros Sangrientos 1.mobi
+|       Libros Sangrientos 2.mobi
+|       Libros Sangrientos 3.mobi
+|       Libros Sangrientos 4.mobi
+|       Libros Sangrientos 5.mobi
+|       Libros Sangrientos 6.mobi
+|       Sortilegio.mobi
+|       
++---Clive Cussler
+|       !Rescaten El Titanic!.mbp
+|       !Rescaten El Titanic!.mobi
+|       Alerta Nocturna.mobi
+|       Amenaza bajo el Mar.mobi
+|       Crisis Polar.mobi
+|       Cyclops.mobi
+|       Dragon.mobi
+|       El Buda de Oro.mobi
+|       El Imperio del Agua.mobi
+|       El Navegante.mobi
+|       El Oro de los Incas.mobi
+|       El Secreto de la Atlantida.mobi
+|       El Tesoro de Alejandria.mobi
+|       El Tesoro del Khan.mobi
+|       El Triangulo del Pacifico.mobi
+|       Hielo Ardiente.mobi
+|       Iceberg.mobi
+|       Incursion Nocturna.mobi
+|       La Ciudad Perdida.mobi
+|       La Costa de los Diamantes.mobi
+|       La cueva de los vikingos.mobi
+|       La Odisea de Troya.mobi
+|       La Piedra Sagrada.mobi
+|       Muerte Blanca.mobi
+|       Oro Azul.mobi
+|       Panico en la Casa Blanca.mobi
+|       Peligro en el Mediterraneo.mobi
+|       Sahara.mobi
+|       Secta Letal.mobi
+|       Serpiente.mobi
+|       Tormenta en el Artico.mobi
+|       Viento letal.mobi
+|       Vixen 03.mobi
+|       
++---Colin Falconer
+|       La Ruta de la Seda.prc
+|       
++---Colleen McCullough
+|       1 - El primer hombre de Roma.mobi
+|       2 - La corona de hierba.mobi
+|       3 - Favoritos de la fortuna.mobi
+|       4 - Las mujeres de Cesar.mobi
+|       5 - Cesar.mobi
+|       6 - El caballo de Cesar.mobi
+|       
++---Conan
+|       01 - Conan.prc
+|       02 - Conan El Cimmerio.prc
+|       03 - Conan El Pirata.prc
+|       04 - Conan El Vagabundo.prc
+|       05 - Conan El Aventurero.prc
+|       06 - Conan El Bucanero.prc
+|       07 - Conan El Invencible.prc
+|       08 - Conan El Defensor.prc
+|       09 - Conan El Guerrero.prc
+|       10 - Conan El Invicto.prc
+|       11 - Conan El Usurpador.prc
+|       12 - Conan El Conquistador.prc
+|       13 - Conan El Vengador.prc
+|       14 - Conan Y El Camino De Los Reyes.prc
+|       15 - Conan De Aquilonia.prc
+|       16 - Conan - La Espada De Skelos.prc
+|       17 - Conan De Las Islas.prc
+|       18 - Conan El Libertador.prc
+|       19 - Conan el Rebelde.prc
+|       20 - Conan Y El Dios Arana.prc
+|       21 - Conan El Triunfador.prc
+|       22 - Conan El Destructor.prc
+|       23 - Conan El Intrepido.prc
+|       24 - Conan El Victorioso.prc
+|       
++---Connie Willis
+|       El Libro del Dia del Juicio Final.prc
+|       
++---Cormac McCarthy
+|       The Road  [ESP].mobi
+|       
++---Cornell Woolrich
+|       Asesinato En El Restaurante Automatico.mobi
+|       Charlie Saldra Esta Noche.mobi
+|       El Negro Sendero Del Miedo.mobi
+|       La Novia Vestia De Negro.mobi
+|       
++---Cory Doctorow
+|       Cuando los administradores de sistema gobernaron la Tierra.mobi
+|       
++---Craig Rusell
+|       Cuento de muerte [ESP].mobi
+|       Resurreccion [ESP].mobi
+|       
++---Cristina Morato
+|       Cautiva en Arabia.mobi
+|       
++---Cesar Aira
+|       La villa.mobi
+|       
++---Cesar Vidal
+|       El Escriba del Faraon.mobi
+|       El Fuego del Cielo.mobi
+|       El Legado del Cristianismo en la Cultura Occidental.mobi
+|       El Medico de Sefarad.mobi
+|       El Testamento del Pescador.mobi
+|       La Noche de la Tempestad.mobi
+|       Los Evangelios Gnosticos.mobi
+|       Los Hijos de la Luz.mobi
+|       Los Manuscritos del Mar Muerto.mobi
+|       
++---Dan Brown
+|       El codigo Da Vinci.azw
+|       El simbolo perdido.mobi
+|       La conspiracion.mobi
+|       La fortaleza digital.azw
+|       angeles y demonios.mbp
+|       angeles y demonios.prc
+|       
++---Dan Parkinson
+|       Historias perdidas 05 - Los enanos Gully.mobi
+|       Naciones enanas 01 - El pacto de la forja.mobi
+|       Naciones enanas 02 - El reino de los Thanes.mobi
+|       Naciones enanas 03 - Derkin El primer Rey.mobi
+|       
++---Dan Simmons
+|       El Terror.mobi
+|       Hyperion 1, Hyperion.mobi
+|       Hyperion 2, La Caida de Hyperion.mobi
+|       Hyperion 3, Endymion.mobi
+|       Hyperion 4, El Ascenso de Endymion.mobi
+|       Hyperion 5, Huerfanos de la Helice (v2).mobi
+|       Ilion 1 - El Asedio.mobi
+|       Ilion 2 - La Rebelion.mobi
+|       Los vampiros de la mente.mobi
+|       Olympo 1 - La guerra.mobi
+|       Olympo 2 - La caida.mobi
+|       Un Verano Tenebroso.mobi
+|       
++---Daniel Defoe
+|       Las Nuevas Aventuras de Robinson Crusoe.mobi
+|       Robinson Crusoe.mobi
+|       
++---Daniel Stulin
+|       Conspiracion Octopus.mobi
+|       Los secretos del club Bilderberg.azw
+|       
++---Danielle Steel
+|       Destinos Errantes.prc
+|       
++---Danielle Trussoni
+|       Angelology.mbp
+|       Angelology.mobi
+|       
++---Dante Alighieri
+|       Divina Comedia.mobi
+|       
++---Darren Shan
+|       Cirque du Freak 01 - El Tenebroso Cirque du Freak.mobi
+|       Cirque du Freak 02 - El Asistente del Vampiro.mobi
+|       Cirque du Freak 03 - Tuneles de Sangre.mobi
+|       Cirque du Freak 04 - La Monta�a de los Vampiros.mobi
+|       Cirque du Freak 05 - La Ordalia de la Muerte.mobi
+|       Cirque du Freak 06 - El Principe Vampiro.mobi
+|       Cirque du Freak 07 - Cazadores del Crepusculo.mobi
+|       Cirque du Freak 08 - Aliados de la Noche.mobi
+|       Cirque du Freak 09 - Asesinos del Alba.mobi
+|       Cirque du Freak 10 - El Lago de las Almas.mobi
+|       Cirque du Freak 11 - El Se�or de las Sombras.mobi
+|       Cirque du Freak 12 - Hijos del Destino.mobi
+|       
++---Dashiel Hammett
+|       Aquel Asunto Del Rey.mobi
+|       El Primer Hombre Delgado.mobi
+|       La Maldicion De Los Dain.mobi
+|       
++---David Allen
+|       Organizate con eficacia.prc
+|       
++---David Baldacci
+|       A Cualquier Precio [ESP].mobi
+|       Buena Suerte [ESP].mobi
+|       Control total [ESP].mobi
+|       El Juego de Las Horas [ESP].mobi
+|       El ultimo hombre [ESP].mobi
+|       Juegos de Guerra [ESP].mobi
+|       La Ganadora [ESP].mobi
+|       La Pura Verdad [ESP].mobi
+|       Los Coleccionistas [ESP].mobi
+|       Poder Absoluto [ESP].mobi
+|       Una Fraccion de Segundo [ESP].mobi
+|       Una Muerte Sospechosa [ESP].mobi
+|       
++---David Brin
+|   |   El Cartero.prc
+|   |   El Efecto Practica.prc
+|   |   El Triunfo de la Fundacion.mobi
+|   |   Gente de barro.prc
+|   |   Tierra.prc
+|   |   
+|   \---Elevacion
+|           1 - Navegante Solar.prc
+|           2 - Marea Estelar.prc
+|           3 - La Rebelion De Los Pupilos.prc
+|           
++---David Eddings
+|   +---Cronicas de Belgarath
+|   |       1 - La senda de la profecia.prc
+|   |       2 - La reina de la hechiceria.prc
+|   |       3 - La luz del Orbe.prc
+|   |       4 - El castillo de la Magia.prc
+|   |       5 - La ciudad de las tinieblas.prc
+|   |       
+|   +---Cronicas de Mallorea
+|   |       1 - Los Guardianes del Oeste.prc
+|   |       2 - El Rey de los Murgos.prc
+|   |       3 - El Senor de los Demonios.prc
+|   |       4 - La Hechicera de Darshiva.prc
+|   |       5 - La Vidente de Kell.prc
+|   |       
+|   \---Elenium
+|           01- El Trono de Diamante.prc
+|           02 - El Caballero Del Rubi.prc
+|           03 - La Rosa de Zafiro.prc
+|           
++---David Forrest
+|       El robo del gran dinosaurio.mobi
+|       
++---David Goodis
+|       Disparen Sobre El Pianista [ESP].mobi
+|       La Calle Sin Retorno [ESP].mobi
+|       La Victima [ESP].mobi
+|       
++---David Guterson
+|       Mientras nieva sobre los cedros .azw
+|       
++---David Icke
+|       El amor infinito es la unica verdad, todo lo dem*s es ilusion.prc
+|       El mayor secreto.azw
+|       Soy yo, soy libre.prc
+|       
++---David Mitchell
+|       El atlas de las nubes.prc
+|       
++---David Safier
+|       Jesus me quiere.prc
+|       Maldito karma.azw
+|       
++---David Wellington
+|       Zombie Island.mobi
+|       
++---Daina Chaviano
+|       La isla de los amores infinitos.prc
+|       
++---Dean R. Koontz
+|       Fantasmas.mobi
+|       Fuego Frio.mobi
+|       Reino de Tinieblas.mobi
+|       
++---Deaver Jeffery
+|       El Jardin de las Fieras.mobi
+|       
++---Delphine Bertholon
+|       Nunca Olvides Que Te Quiero.mobi
+|       
++---Dennis Lehane
+|       Cualquier Otro Dia.mobi
+|       Mystic River.mobi
+|       Shutter Island.mobi
+|       
++---Dennis McKiernan
+|       La Maldicion del Dragon 1.prc
+|       La Maldicion del Dragon 2.prc
+|       
++---Diana Gabaldon
+|       Atrapada en el Tiempo.mobi
+|       Diana Gabaldon - Viento y Ceniza.mobi
+|       Forastera.mobi
+|       La Cruz Ardiente.mobi
+|       Tambores de Oto�o.mobi
+|       Viajera.mobi
+|       
++---Diane Setterfield
+|       El cuento numero trece.mobi
+|       
++---Dimitri Bilenkin
+|       El oleaje marciano.prc
+|       La puerta cerrada.prc
+|       Operacion Dios Cosmico.prc
+|       
++---Dmitry Glukhovsky
+|       Metro 2033.mobi
+|       Metro 2034.mobi
+|       
++---Domingo Villar
+|       La playa de los ahogados.mobi
+|       Ojos de agua.mobi
+|       
++---Dominique Lapierre
+|       Oh, Jerusalen.mobi
+|       
++---Don Wislow
+|       El Invierno De Frankie Machine.mobi
+|       El Poder Del Perro.mobi
+|       
++---Donna Leon
+|       Amigos en las Altas Esferas.mobi
+|       Aqua Alta.mobi
+|       El Peor Remedio.mobi
+|       Justicia Uniforme.mobi
+|       La Chica de sus Sue�os.mobi
+|       La Otra Cara de la Verdad.mobi
+|       Malas Artes.mobi
+|       Mientras Dormian.mobi
+|       Muerte en la Fenice.mobi
+|       Muerte en un pais extra�o.mobi
+|       Muerte y Juicio.mobi
+|       Nobleza Obliga.mobi
+|       Piedras Ensangrentadas.mobi
+|       Pruebas Falsas.mobi
+|       Testamento Mortal.mobi
+|       Un Mar de Problemas.mobi
+|       Veneno de Cristal.mobi
+|       Vestido para la Muerte.mobi
+|       
++---Doris Lessing
+|       Diario de una buena vecina.prc
+|       El sue�o m*s dulce.prc
+|       Relatos Africanos.mobi
+|       
++---Douglas Adams
+|       01 Guia del Autoestopista Gal*ctico.prc
+|       02 El Restaurante del Fin del Mundo.mobi
+|       03 La Vida, el Universo y Todo lo Dem*s.prc
+|       04 Hasta Luego, y Gracias por el Pescado.mobi
+|       05 Informe Sobre la Tierra. Fundamentalmente Inofensiva.mobi
+|       Dirk Gently, agencia de investigaciones holisticas.mobi
+|       El Don De Volar.prc
+|       El Joven Zaphod Y Un Trabajo Seguro.prc
+|       Practicamente innocuo.prc
+|       
++---Douglas Niles
+|   +---Islas De Moonshares
+|   |       01 - El pozo de las Tinieblas.prc
+|   |       02 - El Dios de la Muerte.prc
+|   |       03 - La Vengaza de Bhaal.prc
+|   |       
+|   \---Maxtica
+|           01 - Yelmos de Hierro.mbp
+|           01 - Yelmos de Hierro.prc
+|           02 - Erixitl de Palul.prc
+|           03 - Qotal y Zaltec.mbp
+|           03 - Qotal y Zaltec.prc
+|           
++---Douglas Preston
+|       Blasfemia.mobi
+|       Contracorriente.mobi
+|       El Circulo Oscuro.mobi
+|       El Codice Maya.mobi
+|       El idolo perdido.mobi
+|       El Libro de los Muertos.mobi
+|       El Relicario.mobi
+|       Jennie.mobi
+|       La Ciudad Sagrada.mobi
+|       La Danza de la Muerte.mobi
+|       La danza del cementerio.mobi
+|       La Mano del Diablo.mobi
+|       Los Asesinatos De Manhattan.mobi
+|       Mas all* del Hielo.mobi
+|       Naturaleza Muerta.mobi
+|       Nivel 5.mobi
+|       Pantano de sangre.mobi
+|       Tiranosaurio.mobi
+|       
++---Dragonlance
+|   +---Cronicas de la Dragonlance
+|   |       Weis, Margaret &amp; Hickman, Tracy - 1 - El retorno de los dragones.prc
+|   |       Weis, Margaret &amp; Hickman, Tracy - 2 - La tumba de Huma.prc
+|   |       Weis, Margaret &amp; Hickman, Tracy - 3 - La reina de la oscuridad v2.prc
+|   |       
+|   +---El Regimiento de Kang
+|   |       Weis &amp; Perrin - Enanos y Draconianos.prc
+|   |       
+|   +---Guerra de Caos
+|   |       Niles, Douglas - Gilthas, Orador de los Soles.prc
+|   |       
+|   +---Guerreros
+|   |       Perrin, Don - Theros Ironfeld.prc
+|   |       
+|   +---Heroes de la Dragonlance
+|   |       Knaak, Richard A - 01 - La leyenda de Huma.prc
+|   |       Nancy, Varian Berberick, - 02 - Espada de reyes.prc
+|   |       Williams, Michael - 03 - El caballero de Solamnia.prc
+|   |       Williams, Michael - El Caballero Galen.prc
+|   |       Williams, Teri y Michael - Takhisis.prc
+|   |       
+|   +---Los Compa�eros de la Dragonlance
+|   |       1 - Porath, Ellen &amp; Anthony, Mark - Qualinost.prc
+|   |       2 - Kirchoff, Mary &amp; Winter, Steve - El incorregible Tas.prc
+|   |       3- Daniell, Tina - Kitiara Uth Matar.prc
+|   |       4 - Williams, Michael - El codigo y la medida.prc
+|   |       5 - Porath, Ellen - Pedernal y acero.prc
+|   |       6 - Daniell, Tina - Mithas y Karthay.prc
+|   |       
+|   \---Villanos
+|           Kirchoff, Mary - El Ala Negra.prc
+|           Niles, Douglas - Emperador de Ansalon.prc
+|           Perrin, Don - Theros Ironfeld.prc
+|           
++---Dulce Chacon
+|       Cielos de Barro.mobi
+|       
++---E. M. Cioran
+|       Breviario de podredumbre.doc - E. M. Cioran.mobi
+|       Silogismos de la amargura - E. M. Cioran.mobi
+|       
++---Ed Greenwood &amp; Jeff Grubb
+|       01 - Cormyr.prc
+|       02 - Las siete plagas.prc
+|       03 - La muerte del dragon.prc
+|       
++---Eden Phillpotts
+|       Los Rojos Redmayne.mobi
+|       
++---Edgar Allan Poe
+|       Cuentos Completos.prc
+|       El corazon delator.mobi
+|       El escarabajo de oro.mobi
+|       El pozo y el pendulo.mobi
+|       La caida de la Casa Usher.mobi
+|       Los Crimenes de la calle Morgue.mobi
+|       Poemas.mobi
+|       
++---Edgar Wallace
+|       El Dia de la Concordia.mobi
+|       El Hombre del Antifaz Blanco.mobi
+|       El Hombre del Hotel Carlton.mobi
+|       El Hombre que no era Nadie.mobi
+|       El Jeroglifico.mobi
+|       El Misterio de la Vela Doblada.mobi
+|       El Terror y Otros Cuentos.mobi
+|       El Vagabundo del Norte.mobi
+|       La Caida de Mr. Reader.mobi
+|       La Cuarta Plaga.mobi
+|       La Puerta de las Siete Cerraduras.mobi
+|       
++---Editorial Bruguera - Varios
+|       Autores, Varios - Bruguera Seleccion 26_335.prc
+|       varios, Autores - BRUGUERA 34� SELECCI�N_337.prc
+|       varios, Autores - BRUGUERA 36� SELECCI�N_336.prc
+|       
++---Edmund Crispin
+|       El Caso De La Mosca Dorada.mobi
+|       
++---Eduardo Galeano
+|       -_Bocas_del_ti.azw
+|       El futbol a sol y sombra.azw
+|       El libro de los abrazos.mobi
+|       Espejos Una Historia Casi Universal.azw
+|       Patas Arriba La Escuela Del Mundo Al Reves.azw
+|       
++---Eduardo Mendoza
+|       El Asombroso Viaje de Pomponio Flato [ESP].mobi
+|       El Laberinto de las Aceitunas [ESP].mobi
+|       El Misterio de la Cripta Embrujada [ESP].mobi
+|       El Ultimo Trayecto de Horacio Dos [ESP].mobi
+|       La Aventura del Tocador de Se�oras [ESP].prc
+|       Pio Baroja.mobi
+|       Ri�a de gatos. Madrid 1936.mobi
+|       Sin noticias de Gurb [ESP].mobi
+|       Tres Vidas de Santos [ESP].mobi
+|       
++---Eduardo Punset
+|       El Viaje a la Felicidad [ESP].mobi
+|       El viaje al amor.mobi
+|       El viaje al poder de la mente.mobi
+|       Por que somos como somos  [ESP].mobi
+|       
++---Eduardo Sacheri
+|       La Pregunta De Sus Ojos.prc
+|       
++---Eduardo Vaquerizo
+|       Danza De Tinieblas.mobi
+|       La �ltima Noche de Hipatia.prc
+|       
++---Edward Rutherfurd
+|       London I.mobi
+|       Rusos I.mobi
+|       Rusos II.mobi
+|       
++---Edwin Abbott
+|       Planilandia.prc
+|       
++---Eiji Yoshikawa
+|       Musashi 1 - El Camino Del Samurai.mobi
+|       Musashi 2 - El Arte De La Guerra.mbp
+|       Musashi 2 - El Arte De La Guerra.mobi
+|       Musashi 3 - El Camino De La Espada.mbp
+|       Musashi 3 - El Camino De La Espada.mobi
+|       Musashi 4 - El Codigo Bushido.mobi
+|       Musashi 5 - El Camino De La Vida Y De La Muerte.mobi
+|       
++---Elaine Cunningham
+|   \---Los Arpistas
+|           1 - La Venganza Elfa.mbp
+|           1 - La Venganza Elfa.prc
+|           2 - Cancion Elfica.prc
+|           3 - Sombras de Plata.prc
+|           4 - El Bastion del Espino.mbp
+|           4 - El Bastion del Espino.prc
+|           5 - Las Esferas De Suenos.prc
+|           
++---Elena Fortun
+|       Celia en el colegio - Elena Fortun.mobi
+|       
++---Elia Barcelo
+|       Consecuencias naturales.prc
+|       Disfraces terribles.prc
+|       El mundo de Yarek.prc
+|       Piel.prc
+|       Ritos.prc
+|       Sagrada.prc
+|       
++---Eliette Abecassis
+|       Clandestino.prc
+|       El oro y la ceniza.mobi
+|       La repudiada.prc
+|       Qumran 02 - El Tesoro Del Templo.mobi
+|       Qumran 03 - La Ultima Tribu.mobi
+|       Qumran.mobi
+|       Un feliz acontecimiento.prc
+|       
++---Elisabeth G. Iborra
+|       Anecdotas de Enfermeras.mobi
+|       
++---Elisabeth Gilbert
+|       Come, Reza, Ama.mobi
+|       
++---Elisabeth Kostova
+|       El Rapto del Cisne.mobi
+|       La Historiadora.mobi
+|       
++---Elizabeth Eyre
+|       El secreto del cardenal.mobi
+|       La muerte de la duquesa.mobi
+|       
++---Ellen Kushner
+|       A Punta de Espada.prc
+|       
++---Ellery Queen
+|       Aventuras De Ellery Queen.mobi
+|       El Misterio De Los Polvos.mobi
+|       El Misterio Del Ataud Griego.mobi
+|       El Origen Del Mal.mobi
+|       La Maravilla De Los Diez Dias.mobi
+|       La Tragedia De Z.mobi
+|       Los Cuatro Johns.mobi
+|       
++---Eloy Moreno
+|       El boligrafo de gel verde.mobi
+|       
++---Elvira Lindo
+|       Manolito Gafotas 1 - Manolito Gafotas.mobi
+|       Manolito Gafotas 2 - !Como molo!.mobi
+|       Manolito Gafotas 3 - Pobre Manolito.mobi
+|       Manolito Gafotas 4 - Los trapos sucios.mobi
+|       Manolito Gafotas 5 - Manolito on the road.mobi
+|       Manolito Gafotas 6 - Yo y el imbecil.mobi
+|       Manolito Gafotas 7 - Manolito tiene un secreto.mobi
+|       
++---Elvira Menendez
+|       El Corazon del Oceano.prc
+|       
++---Emilio Calderon
+|       El judio de Shangai.mobi
+|       El mapa del creador.mobi
+|       El secreto de la porcelana.mobi
+|       
++---Emilio Salgari
+|       Amina la vengadora.mobi
+|       El Capit*n del Djuma.mobi
+|       El capit*n tormenta.mobi
+|       El corsario negro.mobi
+|       El filtro de los Califas.mobi
+|       El tren volador.mobi
+|       En el mar de las perlas.mobi
+|       Honorata De Wan Guld.mobi
+|       La Montana De Luz.mobi
+|       La perla del Rio Rojo.mobi
+|       La reina de los caribes.mobi
+|       Las hijas de los Faraones.mobi
+|       Los Misterios De La Jungla.mobi
+|       Los tigres de Mompracem.mobi
+|       Panteras de Argel.mobi
+|       Sandokan el rey del mar.mobi
+|       aguilas de la estepa.mobi
+|       
++---Emilio Zola
+|       La Taberna.mobi
+|       
++---Emily Bronte
+|       Cumbres borrascosas.prc
+|       
++---Enid Blyton
+|       Los Cinco 01 - Los Cinco y el tesoro de la Isla.mobi
+|       Los Cinco 02 - Otra aventura de los cinco.mobi
+|       Los Cinco 03 - Los Cinco se escapan.mobi
+|       Los Cinco 04 - Los Cinco en el Cerro del Contrabandista.mobi
+|       Los Cinco 05 - Los Cinco otra vez en la Isla Kirrin.mobi
+|       Los Cinco 06 - Los Cinco en la caravana.mobi
+|       Los Cinco 07 - Los Cinco se van al Camping.mobi
+|       Los Cinco 08 - Los Cinco se ven en apuros.mobi
+|       Los Cinco 09 - Los Cinco frente a la aventura.mobi
+|       Los Cinco 10 - Un fin de semana  de los cinco.mobi
+|       Los Cinco 11 - Los Cinco lo pasan estupendo.mobi
+|       Los Cinco 12 - Los Cinco se divierten.mobi
+|       Los Cinco 13 - Los Cinco en el paramo misterioso.mobi
+|       Los Cinco 14 - Los Cinco junto al mar.mobi
+|       Los Cinco 15 - Los Cinco tras el pasadizo secreto.mobi
+|       Los Cinco 16 - Los Cinco en la Granja Finniston.mobi
+|       Los Cinco 17 - Los Cinco en peligro.mobi
+|       Los Cinco 18 - Los Cinco en Billycock Hill.mobi
+|       Los Cinco 19 - Los Cinco han de resolver un enigma.mobi
+|       Los Cinco 20 - Los Cinco juntos otra vez.mobi
+|       Los Cinco 21 - Los Cinco en la roca del diablo.mobi
+|       
++---Enrique Amorin
+|       El Asesino Desvelado [ESP].mobi
+|       
++---Enrique Dans
+|       Todo va a cambiar.mobi
+|       
++---Enrique Lafourcade
+|       Palomita blanca.mobi
+|       
++---Enrique Moriel
+|       La Ciudad Sin Tiempo.mobi
+|       
++---Enrique Vila-Matas
+|       Bartleby y Compania.mobi
+|       
++---Eric Frattini
+|       El laberinto del agua.mobi
+|       Kidom,los verdugos del mossad.mobi
+|       
++---Eric Rucker Eddison
+|       La Serpiente Uroboros.prc
+|       
++---Erich Von Daniken
+|       El Retorno de los Dioses.mobi
+|       
++---Erika Leonard James
+|       Cincuenta sombras de Grey.mobi
+|       Cincuenta sombras mas oscuras.mobi
+|       
++---Ernest Hemingway
+|       Adios a las armas.mobi
+|       Aguas primaverales.mobi
+|       Al romper el alba.mobi
+|       El viejo y el mar.mobi
+|       Fiesta.mobi
+|       Islas A La Deriva.mobi
+|       Las nieves del Kilimanjaro.mobi
+|       Muerte en la tarde.mobi
+|       Tener y no tener.mobi
+|       
++---Ernesto S*bato
+|       Antes del Fin.prc
+|       El Tunel.prc
+|       
++---Ernst H. Gombrich
+|       Breve Historia del Mundo.mobi
+|       
++---Erwin Rommel
+|       Memorias.azw
+|       
++---Espido Freire
+|       Melocotones Helados.mobi
+|       
++---Esteban Martin
+|       El Pintor de Sombras.prc
+|       
++---Eugenio Fuentes
+|       Cuerpo a cuerpo.mobi
+|       Las Manos del Pianista.prc
+|       
++---Evelio Rosero
+|       Los Ejercitos.prc
+|       
++---Evelyn Waugh
+|       Evelin Waugh - Elena.mobi
+|       
++---F. Scott Fitzgerald
+|       Cuentos Completos.prc
+|       
++---Falsarius Chef
+|       Cocina para Impostores.mobi
+|       
++---Federico Andahazi
+|       El anatomista.prc
+|       El conquistador.mobi
+|       El principe.prc
+|       El secreto de los flamencos.mobi
+|       
++---Federico Lorenz
+|       Malvinas, una Guerra Argentina.mobi
+|       
++---Federico Moccia
+|       Perdona pero quiero casarme contigo.mobi
+|       Perdona si te llamo amor.mobi
+|       Tengo ganas de ti.azw
+|       Tres metros sobre el cielo.mobi
+|       
++---Fernando de Rojas
+|       La Celestina.mobi
+|       
++---Fernando S*nchez Drago
+|       La Prueba del Laberinto.mobi
+|       
++---Fernando Trujillo
+|       El secreto del tio Oscar [ESP].mobi
+|       La ultima jugada [ESP].mobi
+|       
++---Fernando Vallejo
+|       El Desbarrancadero.prc
+|       La Virgen de los Sicarios.prc
+|       
++---Fiodor Dostoievski
+|       Crimen y Castigo.mobi
+|       Diario de un escritor y otros escritos.mobi
+|       El jugador.mobi
+|       Los hermanos Karamazov.mobi
+|       Memorias de la casa muerta.mobi
+|       
++---Flann O'Brien
+|       Cronica de Dalkey.mobi
+|       El tercer policia.mobi
+|       La boca pobre.mobi
+|       
++---Florencia Bonelli
+|       Lo que Dicen Tus Ojos.prc
+|       Marlene.prc
+|       
++---Frances y Richard Lockridge
+|       La Muerte Habla En Voz Baja.mobi
+|       
++---Francis Scott Fitzgerald
+|       Cuentos completos.prc
+|       El extra�o caso de Benjamin Button.mobi
+|       El gran Gatsby.mobi
+|       
++---Francisco de Quevedo
+|       Historia de la vida del Buscon.mobi
+|       Juguetes de la ni�ez y travesuras del ingenio.mobi
+|       Los sue�os.mobi
+|       
++---Francisco Pavon
+|       Historias De Plinio.mobi
+|       
++---Frank Baer
+|       El Puente De Alcantara 1.mobi
+|       El Puente De Alcantara 2.mobi
+|       
++---Frank Herbert
+|       Dune 02 (El mesias de dune).mobi
+|       Dune 03 (Hijos de dune).mobi
+|       Dune 04 (Dios emperador de dune).mobi
+|       Dune 05 (Herejes de dune).mobi
+|       Dune 06 (La casa capitular dune).mobi
+|       DUNE.mobi
+|       
++---Frank McCourt
+|       El profesor.mobi
+|       Las cenizas de angela.mobi
+|       Lo es.mobi
+|       
++---Frank Schatzing
+|       El Quinto Dia.mobi
+|       
++---Franz Kafka
+|       El Proceso.prc
+|       La condena.mobi
+|       La metamorfosis.mobi
+|       
++---Fred Uhlman
+|       Reencuentro.mobi
+|       
++---Fred Vargas
+|       El Hombre De Los Circulos Azules.mobi
+|       
++---Frederick Forsyth
+|       Chacal.mobi
+|       El Afgano.mobi
+|       El ciudadano.mobi
+|       El Cuarto Protocolo.mobi
+|       El Emperador y Otros Relatos.mobi
+|       El Fantasma de Manhattan.mobi
+|       El guia y Otros Relatos.mobi
+|       El Manifiesto Negro.mobi
+|       El Manipulador.mobi
+|       El milagro.mobi
+|       El Negociador.mobi
+|       El Pu�o de Dios.mobi
+|       El Veterano.mobi
+|       La Alternativa del Diablo.mobi
+|       Los Perros de la Guerra.mobi
+|       Odessa.mobi
+|       Vengador.mobi
+|       
++---Frederik Pohl
+|       El encuentro.mobi
+|       Homo Plus.mobi
+|       Los anales de los Heechees.mobi
+|       Los exploradores de Portico.mobi
+|       Mercaderes del Espacio.mobi
+|       Portico.mobi
+|       Tras el incierto horizonte [Completa].prc
+|       
++---Friedrich Nietzsche
+|       Asi hablo Zaratustra [ESP].mbp
+|       Asi hablo Zaratustra [ESP].mobi
+|       Como se filosofa a martillazos.mobi
+|       Ecce homo.mobi
+|       El anticristo.mobi
+|       El estado griego.mobi
+|       El nacimiento de la tragedia.mobi
+|       Homero y la filologia clasica.mobi
+|       La genealogia de la moral.mobi
+|       La lucha contra el demonio.mobi
+|       La lucha de Homero.mobi
+|       La mujer griega.mobi
+|       Mas alla del bien y del mal.mobi
+|       Sobre musica y palabra.mobi
+|       
++---Fritz Leiber
+|       Imaginaciones Horribles.mobi
+|       La saga de Fafhrd y el Ratonero Gris - 1.mobi
+|       La saga de Fafhrd y el Ratonero Gris - 2.mobi
+|       La saga de Fafhrd y el Ratonero Gris - 3.mobi
+|       La saga de Fafhrd y el Ratonero Gris - 4.mobi
+|       La saga de Fafhrd y el Ratonero Gris - 5.mobi
+|       La saga de Fafhrd y el Ratonero Gris - 6.mobi
+|       La saga de Fafhrd y el Ratonero Gris - 7.mobi
+|       
++---Fulcanelli
+|       El Misterio de las Catedrales.mobi
+|       
++---Felix Urabayen
+|       El Barrio Maldito.mobi
+|       
++---Gabriel Garcia M*rquez
+|       Cien a�os de soledad [ESP].prc
+|       Cronica de una muerte anunciada.mobi
+|       Doce cuentos peregrinos.mobi
+|       El amor en los tiempos del colera [ESP].prc
+|       El general en su laberinto [ESP].prc
+|       Ojos de perro azul [ESP].mobi
+|       Un Manual Para Ser Ni�o.mobi
+|       
++---Gaelen Foley
+|       Corazon de hielo.prc
+|       Deseos Prohibidos.prc
+|       
++---Garth Nix
+|       Nix, Garth - Abhorsen 1 - Sabriel.mbp
+|       Nix, Garth - Abhorsen 1 - Sabriel.mobi
+|       Nix, Garth - Abhorsen 2 - Lirael, la Guardiana de la Memoria.mobi
+|       Nix, Garth - Abhorsen 3 - Abhorsen, La Novena Puerta.mobi
+|       
++---Gary Greenberg
+|       101 Mitos de la Biblia.mobi
+|       
++---Gary Jennings
+|       Azteca.mobi
+|       El Viajero.mobi
+|       Halcon.mobi
+|       Lentejuelas.mobi
+|       Oto�o Azteca.mobi
+|       Sangre Azteca.mobi
+|       
++---Gavriel Guy Kay
+|       1 - El Arbol Del Verano.prc
+|       2 - Fuego Errante.prc
+|       3 - Sendero de tinieblas.mbp
+|       3 - Sendero de tinieblas.prc
+|       
++---George H. White
+|       Cerebros electronicos.mobi
+|       Dos mundos frente a frente.mobi
+|       El planeta misterioso.mobi
+|       El reino de las tinieblas.mobi
+|       Guerra de automatas.mobi
+|       La conquista de un imperio.mobi
+|       La guerra verde.mobi
+|       La horda amarilla.mobi
+|       Llego de lejos.mobi
+|       Los hombres de venus.mobi
+|       Redencion no contesta.mobi
+|       Salida hacia la Tierra.mobi
+|       Thorbod, la raza maldita.mobi
+|       
++---George Norman Lippert
+|       James Potter y la Encrucijada de los May.mobi
+|       James Potter y La Maldicion del Guardian.mobi
+|       
++---George Orwell
+|       1984 [ESP].mobi
+|       Rebelion en la Granja [ESP].mobi
+|       
++---George R. R. Martin
+|   |   Canciones que cantan los muertos.mobi
+|   |   El caballero errante.mobi
+|   |   La espada leal.mobi
+|   |   Los viajes de Tuf.mobi
+|   |   Muerte de la luz.mobi
+|   |   Sueno del Fevre.mobi
+|   |   
+|   \---Cancion de hielo y fuego
+|           [CHF 01] Juego de tronos.mobi
+|           [CHF 02] Choque de Reyes.mobi
+|           [CHF 03] Tormenta de Espadas I.mobi
+|           [CHF 03] Tormenta de Espadas II.azw
+|           [CHF 04] Festin de cuervos.mobi
+|           Danza de Dragones.azw
+|           
++---Georges Simenon
+|       Barrio negro.mobi
+|       El pasajero clandestino.mobi
+|       En casa de los Krull.mobi
+|       Los anillos de la memoria.mobi
+|       Por si algo me ocurriera.mobi
+|       
++---Gerald Alper
+|       La novia mecanica.prc
+|       Me llamo Vladimir Sloifoiski.prc
+|       
++---Gerald Durrell
+|       Bichos y dem*s parientes.azw
+|       El cumplea�os del arca.mobi
+|       El jardin de los dioses.azw
+|       La excursion.azw
+|       Tierra de murmullos.mobi
+|       Un novio para mam*.azw
+|       Un zoo en mi equipaje.azw
+|       
++---Gianrico Carofiglio
+|       cover.jpg
+|       metadata.opf
+|       Testigo Involuntario.mobi
+|       
++---Giles Milton
+|       La nariz de Edward Trencom.azw
+|       
++---Gioconda Belli
+|       El Infinito en la Palma de la Mano.mobi
+|       Poemas y otros escritos.mobi
+|       Sofia de los presagios.mobi
+|       Waslala.mobi
+|       
++---Giorgio Faletti
+|       Yo soy Dios - Giorgio Faletti.mobi
+|       
++---Giorgio Scerbanenco
+|       Muerte En La Escuela.mobi
+|       
++---Gisbert Haefs
+|       Anibal, La novela de cartago.mobi
+|       Troya.mobi
+|       
++---Glenn Cooper
+|       La biblioteca de los muertos.mobi
+|       
++---Gonzalo Giner
+|       El sanador de caballos.mobi
+|       
++---Gonzalo Torrente Ballester
+|       Los gozos y las sombras I, II y III.azw
+|       
++---Gore Vidal
+|       Creacion.mobi
+|       Juliano el apostata.mobi
+|       
++---Graham Greene
+|       El libro de cabecera del espia.prc
+|       
++---Graham Joyce
+|       Amigos nocturnos.azw
+|       
++---Greg Bear
+|       Eon.azw
+|       Eternidad.azw
+|       Fundacion y caos.prc
+|       La fragua de Dios.prc
+|       La radio de Darwin.mobi
+|       Legado.azw
+|       Los ni�os de Darwin.azw
+|       Musica en la sangre.prc
+|       Petra.prc
+|       Quantico.mobi
+|       Reina de los *ngeles.prc
+|       Vitales.prc
+|       
++---Gregory Benford
+|   |   Alto abismo.prc
+|   |   Cosmo.prc
+|   |   Cronopaisaje.prc
+|   |   El temor de la fundacion.prc
+|   |   En carne extrana.prc
+|   |   Hitler victorioso.azw
+|   |   La caida del viento oeste.prc
+|   |   La pulsacion.prc
+|   |   Rio abajo.prc
+|   |   Sudario de estrellas.prc
+|   |   
+|   \---Centro gal*ctico
+|           0 - Sinopsis de la Saga.prc
+|           1 - En el oceano de la noche.prc
+|           2 - A traves del mar de soles.prc
+|           3 - Gran rio del espacio.prc
+|           4 - Mareas De Luz.prc
+|           5 - Abismo Frenetico.prc
+|           6 - Navegante de la luminosa eternidad.prc
+|           
++---Groucho Marx
+|       El camino a la ruina de un inversor no profesional.mobi
+|       Groucho y Yo [ESP].mobi
+|       Memorias de un Amante Sarnoso [ESP].mobi
+|       Por que lo llaman amor cuando quieren decir sexo.mobi
+|       
++---Guillermo del Toro
+|       Nocturna.mobi
+|       Oscura.mobi
+|       
++---Gustave Flaubert
+|       Bouvard y Pecuchet.mobi
+|       La educacion sentimental (I).mobi
+|       La educacion sentimental (II).mobi
+|       Madame Bovary.azw
+|       Memorias de un loco y otros textos de juventud.mobi
+|       Salambo.mobi
+|       Tres cuentos.mobi
+|       
++---Gustavo Adolfo Becquer
+|       Leyendas.mobi
+|       
++---Gustavo Moreno
+|       Sin tetas no hay paraiso [ESP].mobi
+|       
++---H. G. Wells
+|       Cuentos del Espacio y del Tiempo [ESP].mobi
+|       El Hombre invisible.mobi
+|       La Guerra de los Mundos [ESP].prc
+|       La Maquina del Tiempo [ESP].mobi
+|       Los Primeros Hombres en la Luna [ESP].mobi
+|       
++---H. Rider Haggard
+|       Las minas del rey Salomon.mobi
+|       
++---Hank Janson
+|       La Violacion del Tiempo.mobi
+|       
++---Hanny Alders
+|       El Se�or de los C*taros.prc
+|       
++---Hans Magnus Enzensberger
+|       El diablo de los numeros.mobi
+|       
++---Hans Ruesch
+|       El Pais de las Sombras Largas.mobi
+|       
++---Harlan Coben
+|       El bosque.mobi
+|       El inocente.mobi
+|       Golpe de efecto.mobi
+|       Motivo de ruptura.mobi
+|       Muerte en el hoyo 18.mobi
+|       No se lo digas a nadie.mobi
+|       Por siempre jam*s.mobi
+|       Solo una mirada.azw
+|       Tiempo muerto.mobi
+|       Un paso en falso.mobi
+|       
++---Harold Lamb
+|       Ciro El Grande.mobi
+|       Gengis Khan.mobi
+|       
++---Harper Lee
+|       Matar un ruise�or.mobi
+|       
++---Harriet Beecher
+|       La caba�a del tio Tom.mobi
+|       
++---Harry Paterson
+|       Operacion Valhalla.mobi
+|       
++---Haruki Murakami
+|       1Q84.mobi
+|       Al sur de la frontera al oeste del sol.prc
+|       Cronica del p*jaro que da cuerda al mundo.mobi
+|       Kafka en la orilla.mobi
+|       Sauce ciego ,mujer dormida.mobi
+|       Sputnik mi amor.mobi
+|       Tokio blues (Norwegian wood).mobi
+|       
++---Hector Estigarribia
+|       HISTORIAS ASOMBROSAS.mobi
+|       
++---Helen Fielding
+|       El Diario De Bridget Jones.mobi
+|       
++---Henning Mankell
+|       El cerebro de Kennedy .mobi
+|       El chino.mobi
+|       El hijo del viento.mobi
+|       El retorno del profesor de baile.mobi
+|       La leona blanca.mobi
+|       La quinta mujer.mobi
+|       Tea-Bag.mobi
+|       Zapatos italianos.mobi
+|       
++---Henry Miller
+|       Tropico de Cancer.jpg
+|       Tropico de Cancer.mobi
+|       
++---Herbert Werner
+|       Ataudes de acero.azw
+|       
++---Herman Hesse
+|       Cuentos.prc
+|       El lobo estepario.prc
+|       
++---Herman Melville
+|       Moby Dick [ESP].mobi
+|       
++---Hern*n Casciari
+|       El pibe que arruinaba las fotos .prc
+|       Espa�a Perdiste.mobi
+|       
++---Honore Balzac
+|       Eugenia Grandet [ESP].mobi
+|       
++---Horacio Quiroga
+|       Cuentos de Amor de Locura y de Muerte .mobi
+|       
++---Howard Fast
+|       Espartaco.mobi
+|       Mis Gloriosos Hermanos.mobi
+|       
++---Howard Phillips Lovecraft
+|       Al Azif - El Necronomicon.prc
+|       El Horror de Dunwich.mobi
+|       La Llamada de Cthulhu.mobi
+|       Narrativa completa.mobi
+|       
++---Hugh Laurie
+|       Una Noche de Perros [ESP].mobi
+|       
++---Iain Banks
+|       Aire muerto.mbp
+|       Aire muerto.mobi
+|       Pasos sobre el cristal.mobi
+|       
++---Ian Caldwell
+|       El enigma del cuatro.mobi
+|       
++---Ian Kershaw
+|       Hitler.prc
+|       
++---Ian McEwan
+|       Expiacion.prc
+|       Sabado.prc
+|       
++---Iker Jimenez
+|       Enigmas Sin Resolver.mobi
+|       
++---Ildefonso Falcones
+|       La catedral del mar [ESP].prc
+|       La mano de Fatima [ESP].prc
+|       
++---Ira Levin
+|       La Astilla [ESP].mobi
+|       La Semilla del Diablo [ESP].mobi
+|       Un Dia Perfecto.mobi
+|       
++---Irene Nemirovsky
+|       Suite Francesa.prc
+|       
++---Irvin Yalom
+|       El dia que Nietzsche lloro .prc
+|       
++---Irvine Welsh
+|       Porno.mobi
+|       Secretos de Alcoba de los Grandes Chefs.mobi
+|       Trainspotting.mobi
+|       
++---Isaac Asimov
+|   |   100 PREGUNTAS BASICAS SOBRE LA CIENCIA.mobi
+|   |   Breve Historia de la quimica [ESP].mobi
+|   |   El fin de la eternidad.mobi
+|   |   El Hombre bicentenario [ESP].mobi
+|   |   El Sol brilla luminoso [ESP].mobi
+|   |   Guia De La Biblia (Antiguo Testamento).mobi
+|   |   Guia De La Biblia (Nuevo Testamento).mobi
+|   |   Los propios dioses.mobi
+|   |   Yo Robot [ESP].prc
+|   |   
+|   +---Fundacion
+|   |       (Fundacion 01) Preludio a La Fundacion.mobi
+|   |       (Fundacion 02)Hacia La Fundacion.mobi
+|   |       (Fundacion 03)Fundacion [ESP].mobi
+|   |       (Fundacion 04) Fundacion e Imperio.mbp
+|   |       (Fundacion 04) Fundacion e Imperio.mobi
+|   |       (Fundacion 05) Segunda Fundacion.mbp
+|   |       (Fundacion 05) Segunda Fundacion.mobi
+|   |       (Fundacion 06) Los limites de la fundacion.mobi
+|   |       (Fundacion 07) Fundacion y Tierra.mobi
+|   |       
+|   +---Historia Universal Asimov
+|   |       (HUA 01)El Cercano Oriente.mobi
+|   |       (HUA 02) La tierra de Canaan.mobi
+|   |       (HUA 03) Los egipcios - Isaac Asimov.mobi
+|   |       (HUA 04) Los Griegos.mobi
+|   |       (HUA 05) La Republica Romana.mobi
+|   |       (HUA 06) El Imperio Romano.mobi
+|   |       (HUA 07)Constantinopla.mobi
+|   |       (HUA 08) La Alta Edad Media.mobi
+|   |       (HUA 09) La Formacion de Inglaterra.mobi
+|   |       (HUA 10) La Formacion De Francia.mobi
+|   |       (HUA 11)La formacion de America del Norte.mobi
+|   |       (HUA 12) El Nacimiento De Los Estados Unidos.mobi
+|   |       (HUA 13) Los Estados Unidos Desde 1816 Hasta La Guerra Civil.mobi
+|   |       (HUA 14) Los Estados Unidos Desde La Guerra Civil Hasta La Primera Guerra Mundial.mobi
+|   |       
+|   +---Imperio
+|   |       (Imperio 01) En la arena estelar.mobi
+|   |       (Imperio 03) Un guijarro en el cielo.mobi
+|   |       
+|   +---Lucky Star
+|   |       (Lucky Star 01) El Ranger Del Espacio.mobi
+|   |       (Lucky Star 02) Los Piratas De Los Asteroides.mobi
+|   |       (Lucky Star 03) Los Oceanos De Venus.mobi
+|   |       (Lucky Star 04) El Gran Sol De Mercurio.mobi
+|   |       (Lucky Star 05) Las Lunas De Jupiter.mobi
+|   |       (Lucky Star 06) Los Anillos De Saturno.mobi
+|   |       
+|   \---Robots
+|           (Robots 01) Bovedas de acero.mobi
+|           (Robots 02) El sol desnudo.mobi
+|           (Robots 03) Los Robots del amanecer.mobi
+|           (Robots 04) Los Robots y el Imperio.mobi
+|           
++---Isabel Allende
+|       De Amor Y De Sombra.mobi
+|       El bosque de los pigmeos.prc
+|       El plan infinito [ESP].prc
+|       Ines del alma mia.prc
+|       La Isla bajo el Mar [ESP].mobi
+|       La Suma de los Dias.mobi
+|       Retrato en Sepia.prc
+|       
++---Isabel Coixet
+|       La Vida Es Un Guion.mobi
+|       
++---Isabel San Sebastian
+|       Astur.mobi
+|       La Visigoda.mobi
+|       
++---Ismail Kadare
+|       Cronica de la ciudad de piedra.prc
+|       El gran invierno.azw
+|       
++---Ivan y Gonzalo Garcia-Pelayo
+|       La fabulosa historia de los Pelayos.mobi
+|       
++---Ivo Andric
+|       Un puente sobre el Drina.mobi
+|       
++---J. A. Cebri*n
+|       Galeria de favoritos.mobi
+|       La Aventura De Los godos .mobi
+|       Pasajes de la historia I.mobi
+|       pasajes del terror.mobi
+|       
++---J. D. Salinger
+|       El guardi*n entre el centeno.mobi
+|       
++---J. F. Bone
+|       Reencarnacion.prc
+|       
++---J. J. Benitez
+|       Al Fin Libre [ESP].prc
+|       Caballo de Troya 1 [ESP].prc
+|       Caballo de Troya 2 [ESP].prc
+|       Caballo de Troya 3 [ESP].prc
+|       Caballo de Troya 4 [ESP].prc
+|       Caballo de Troya 5 [ESP].prc
+|       Caballo de Troya 6 [ESP].prc
+|       Caballo de Troya 7 [ESP].prc
+|       Caballo de Troya 8 [ESP].prc
+|       El Misterio de la Virgen de Guadalupe [ESP].prc
+|       El Papa Rojo [ESP].prc
+|       El Testamento de San Juan [ESP].prc
+|       Existio Otra Humanidad [ESP].prc
+|       La Gloria del Olivo [ESP].prc
+|       La Rebelion de Lucifer [ESP].prc
+|       Los Astronautas de Yave [ESP].prc
+|       Magica Fe [ESP].prc
+|       Mis enigmas.mobi
+|       Ovnis, S.O.S. a la humanidad [ESP].prc
+|       Ricky B [ESP].prc
+|       Yo, Julio Verne [ESP].prc
+|       
++---J. K. Rowling
+|       Animales Fantasticos y Donde Encontrarlos.prc
+|       Harry Potter y el Caliz de Fuego.mobi
+|       Harry Potter y el Misterio del Principe.mobi
+|       Harry Potter y el Prisionero de Azkab*n.mobi
+|       Harry Potter y la camara secreta [ESP].mobi
+|       Harry Potter y la Orden del Fenix.mobi
+|       Harry Potter y la piedra filosofal [ESP].mobi
+|       Harry Potter y Las Reliquias de la Muerte.mobi
+|       Quidditch a traves de los tiempos.prc
+|       
++---J. M. Coetzee
+|       Desgracia.prc
+|       Infancia.prc
+|       Juventud.prc
+|       La Edad de Hierro.prc
+|       
++---J. R. R. Tolkien
+|       Cuentos Inconclusos I.mobi
+|       De la muerte y los hijos de Eru.mobi
+|       Egidio, el granjero de Ham [ESP].mobi
+|       El herrero de Wootton Major.mobi
+|       El Hobbit - Ilustrado.mobi
+|       El Hobbit Anotado [ESP].prc
+|       El hobbit [ESP].mobi
+|       El Libro de los Cuentos Perdidos II.mobi
+|       El se�or de los Anillos I, La Comunidad del Anillo - Ilustrado.mobi
+|       El se�or de los Anillos I, La Comunidad del Anillo [ESP].mobi
+|       El se�or de los anillos II, Las Dos Torres - Ilustrado [ESP].azw
+|       El se�or de los anillos II, Las Dos Torres [ESP].mobi
+|       El se�or de los anillos III, El Retorno del Rey [ESP].mobi
+|       El Silmarillion [ESP].mobi
+|       Hoja de niggle.mobi
+|       La Cabana de los Juegos Perdidos.mobi
+|       La Historia de Beren y Luthien.mobi
+|       Las aventuras de Tom Bombadil.mobi
+|       
++---J. V. Jones
+|   \---La Espada Oscura
+|           1 - El Clan Granizo Negro.prc
+|           2 - La Caverna De Hielo Negro.mbp
+|           2 - La Caverna De Hielo Negro.prc
+|           3 - La Guerra De Los Clanes.prc
+|           
++---Jack London
+|       El silencio blanco.mobi
+|       La llamada de la selva.mobi
+|       La Quimera del Oro.mobi
+|       
++---Jack Mckinney
+|       01_ Saga Macross - Genesis.mobi
+|       02_ Saga Macross - Battle Cry.mobi
+|       03_ Saga Macross - Homecoming.mobi
+|       04_ Saga Macross - Battle Himn.mobi
+|       05_ Saga Macross - Force of Arms.mobi
+|       06_ Saga Macross - Doomsday.mobi
+|       07_ Zentraedi Rebellion.mobi
+|       08_ The Masters Gambit.mobi
+|       09_ The Sentinels - Devil's Hand.mobi
+|       10_ The Sentinels - Dark Powers.mobi
+|       11_ The Sentinels - Death Dance.mobi
+|       12_ The Sentinels - World Killers.mobi
+|       13_ The Sentinels - Rubicon.mobi
+|       14_ The Robotech Masters - Southern Cross.mobi
+|       15_ The Robotech Masters - Metal Fire.mobi
+|       16_ The Robotech Masters - The Final Nightmare.mobi
+|       17_ Before the Invid Storm.mobi
+|       18_ La Nueva Generacion - Invid Invasion.mobi
+|       19_ La Nueva Generacion - Metamorphosis.mobi
+|       20_ La Nueva Generacion - Symphony of Light.mobi
+|       21_ The End of the Circle.mobi
+|       
++---Jack Vance
+|       Ciclo de Tschai 1 - Los chasch.mobi
+|       Ciclo de Tschai 2 - Los wankh.mobi
+|       Ciclo de Tschai 3 - Los dirdir.mobi
+|       Ciclo de Tschai 4 - Los pnume.mobi
+|       Los principes demonio 1- El rey estelar.mobi
+|       Los principes demonio 2 - La maquina de.mobi
+|       Los principes demonio 3 - El palacio del.mobi
+|       Los principes demonio 4 - El rostro.mobi
+|       Los principes demonio 5 - El libro de lo.mobi
+|       
++---Jacobo Arenas
+|       cese_el_fuego.azw
+|       Diario_Marquetalia.azw
+|       
++---Jacques Cardona
+|       El arquitecto de los cielos .prc
+|       
++---James Blish
+|       Gigantes en la tierra.prc
+|       Grupo Galactico.prc
+|       Semillas estelares.prc
+|       Siglo De Pleno Verano.prc
+|       Tension Superficial.prc
+|       Un caso de conciencia .prc
+|       Una Cuestion de Energia.prc
+|       
++---James Clavell
+|       Shogun.mobi
+|       
++---James Cowan
+|       El Sue�o de un Cartografo.mobi
+|       
++---James Ellroy
+|       L.A. Confidential.mobi
+|       Trilogia americana 1 - America.mobi
+|       Trilogia americana 2 - Seis de los grandes.prc
+|       Trilogia americana 3 - Sangre vagabunda.prc
+|       
++---James Fenimore Cooper
+|       El ultimo mohicano.mobi
+|       
++---James Graham Ballard
+|       Ahora Cero.prc
+|       Bilenio.prc
+|       Catastrofe Aerea.prc
+|       Cronopolis.prc
+|       Cuando el mundo se disuelva.prc
+|       Cuentos.prc
+|       El Astronauta Muerto.prc
+|       El Delta En El Crepusculo.prc
+|       El Dia Eterno.prc
+|       El Gigante Ahogado.prc
+|       El Hombre Imposible.prc
+|       El Huracan Cosmico.prc
+|       El Imperio Del Sol.prc
+|       El Jardin Del Tiempo.prc
+|       El Mundo Sumergido.prc
+|       El Viento De La Nada.prc
+|       Escape.prc
+|       Esperare En Murak.prc
+|       La Gioconda Del Mediodia Crepuscular.prc
+|       La isla de cemento.prc
+|       La Jaula De Los Reptiles.prc
+|       Las tumbas de tiempo.prc
+|       Las Voces Del Tiempo.prc
+|       Los locos.prc
+|       Mangon.prc
+|       Milenio Negro.prc
+|       Mitos Del Futuro Proximo.prc
+|       Pajaro De Tormentas Sonador De Tormentas.prc
+|       Tiempo De Pasaje.prc
+|       Trece A Centauro.prc
+|       Vermilion Sands.prc
+|       
++---James Joyce
+|       Retrato del artista adolescente.prc
+|       Ulises.prc
+|       
++---James M. Cain
+|       El Cartero Siempre Llama Dos Veces.mobi
+|       El Estafador.mobi
+|       Pacto de Sangre.mobi
+|       
++---James Patterson
+|       Alex Cross 02 - El coleccionista de amantes.mobi
+|       Alex Cross 04 - El gato y el raton.mbp
+|       Alex Cross 04 - El gato y el raton.mobi
+|       Alex Cross 09 - El lobo de Siberia.mbp
+|       Alex Cross 09 - El lobo de Siberia.mobi
+|       Alex Cross 10 - Los puentes de Londres.mobi
+|       Alex Cross 11 - Mary, Mary.mobi
+|       La Hora de la Ara�a [ESP].mobi
+|       
++---Jane Austen
+|       Emma.prc
+|       Sentido y sensibilidad.prc
+|       
++---Janice Y. K. Lee
+|       La maestra de piano.azw
+|       
++---Jared Diamond
+|       Colapso.mobi
+|       �porque es divertido el sexo�.mobi
+|       
++---Jasper Fforde
+|       El caso Jane Eyre.mobi
+|       
++---Javier Cercas
+|       Anatomia de un instante.mobi
+|       
++---Javier Gonz*lez
+|       Navigatio.mobi
+|       
++---Javier Lorenzo
+|       El Ultimo Soldurio.mobi
+|       
++---Javier Marias
+|       Cuando fui mortal.mobi
+|       Manana en la batalla piensa en mi.mobi
+|       Travesia del Horizonte.prc
+|       
++---Javier Moro
+|       Pasion India.prc
+|       
++---Javier Negrete
+|       Alejandro Magno y las *guilas de Roma.mobi
+|       Atl*ntida.mobi
+|       Salamina.mobi
+|       Se�ores del Olimpo.mobi
+|       
++---Javier Perz
+|       La crin de Damocles.mobi
+|       
++---Javier Sierra
+|       El angel perdido.mobi
+|       El secreto egipcio de Napoleon.mobi
+|       En Busca De La Edad De Oro.mobi
+|       La Cena Secreta.mobi
+|       La ruta prohibida.mobi
+|       Las Puertas Templarias.mobi
+|       
++---Jean M. Auel
+|   \---Los Hijos de la Tierra
+|           El Clan del Oso Cavernario.mobi
+|           El Valle de los Caballos.mobi
+|           Las Llanuras del Transito.mobi
+|           Los Cazadores De Mamuts.mobi
+|           Los Refugios de Piedra.mobi
+|           
++---Jean Paul Sartre
+|       La nausea.prc
+|       
++---Jean Ray
+|       Malpertuis [ESP].mobi
+|       
++---Jean-Christophe Grange
+|       El Imperio de los Lobos.mobi
+|       La Linea Negra.mobi
+|       
++---Jeff Abbott
+|       Panico.mobi
+|       
++---Jeff Carlson
+|       La plaga.mobi
+|       
++---Jeff Lindsay
+|       Dexter 01 - El Oscuro Pasajero.mobi
+|       Dexter 02 - Querido Dexter.mobi
+|       Dexter 03 - Dexter en la Oscuridad.mobi
+|       Dexter 04 - Por Decision Propia.mobi
+|       
++---Jeffery Deaver
+|   |   El jardin de las fieras.azw
+|   |   La estancia azul.mobi
+|   |   La silla vacia.mobi
+|   |   
+|   \---Lincoln Rhyme
+|           1 - El coleccionista de huesos.mobi
+|           4 - El mono de piedra.mobi
+|           6 - La carta numero 12.mobi
+|           
++---Jens Lapidus
+|       Trilogia negra de Estocolmo I - Dinero f*cil.azw
+|       Trilogia negra de Estocolmo II - Nunca la jodas.azw
+|       
++---Jeremy Taylor
+|       Enigmas de la historia.azw
+|       
++---Jerome K. Jerome
+|       Tres hombres en una barca (sin contar un perro).mobi
+|       Tres ingleses en Alemania.mobi
+|       
++---Jeronimo Tristante
+|       (Victor Ros 01) El Misterio de la Casa Aranda.mobi
+|       (Victor Ros 02) El Caso De La Viuda Negra.mobi
+|       (Victor Ros 03) El Enigma de la Calle Calabria.mobi
+|       1969.mobi
+|       
++---Jesus Callejo
+|       Duendes, Guia de los seres magicos de Espa�a.mobi
+|       Gnomos Guia de los seres magicos de Espa�a.mobi
+|       
++---Jesus S*nchez Adalid
+|       El Cautivo.mobi
+|       El Mozarabe.mobi
+|       Felix de Lusitania.mobi
+|       La Luz del Oriente.mobi
+|       Los milagros del vino.mobi
+|       
++---Jim Butcher
+|       Dresden 1 -Tormenta.mobi
+|       Dresden 2 - Luna Llena.mobi
+|       
++---Jim Hougan
+|       El ultimo Merovingio.prc
+|       
++---Jim Thompson
+|       1280 almas [ESP].mobi
+|       
++---Jo Nesbo
+|       La estrella del diablo.mobi
+|       Nemesis.mobi
+|       Petirrojo.azw
+|       
++---Joao Aguiar
+|       Viriato, Iberia contra Roma.mobi
+|       
++---Joaquin Barrero
+|       La niebla herida.mobi
+|       
++---Joe Haldeman
+|       La Guerra Interminable.mobi
+|       
++---Joe Hill
+|       Cuernos.mobi
+|       Fantasmas.mobi
+|       
++---Johan Theorin
+|       La tormenta de nieve.mobi
+|       
++---John Ajvide Lindqvist
+|       Dejame entrar.mobi
+|       
++---John Banville
+|       Copernico.mobi
+|       El Mar.mobi
+|       
++---John Boyd
+|       El Mercader de Inteligencia.prc
+|       La ultima astronave de la tierra.prc
+|       Los polinizadores del Eden.prc
+|       
++---John Boyne
+|       El ni�o con el pijama de rayas.prc
+|       La casa del proposito especial.azw
+|       
++---John Brunner
+|       Al borde de la nada (La ciudad envuelta).mobi
+|       Angeles o monstruos.mobi
+|       Bueno es hablar.mobi
+|       Eclipse total.mobi
+|       El crisol del tiempo.mobi
+|       El hombre completo.mobi
+|       El hombre que podia suministrarnos elefa.mobi
+|       El jinete en la onda de shock.mobi
+|       El mensaje de los astros.mobi
+|       El rebano ciego.mobi
+|       El ultimo hombre solitario.mobi
+|       En el nombre del hombre.mobi
+|       En la estacion de engalanar los pozos.mobi
+|       En las estrellas.mobi
+|       Histrion del espacio.mobi
+|       Judas.mobi
+|       Jugadores del juego de la gente.mobi
+|       La facil salida.mobi
+|       Las casillas de la ciudad.mobi
+|       Las cosas que son Dioses.mobi
+|       Los hombres sin alma o los vitanulls.mobi
+|       Los ritos de Ohe.mobi
+|       Orbita inestable.mobi
+|       Para eso estan los amigos.mobi
+|       Sentencias de muerte.mobi
+|       Todos sobre Zanzibar.mobi
+|       Una oportunidad para la simetria.mobi
+|       
++---John Case
+|       Codigo Genesis.prc
+|       
++---John Connolly
+|       Charlie Parker 01 - Todo lo que Muere.mobi
+|       Charlie Parker 02 - El Poder de las Tinieblas.mobi
+|       Charlie Parker 03 - Perfil Asesino.mobi
+|       Charlie Parker 04 - El Camino Blanco.mobi
+|       Charlie Parker 05 - El Angel Negro.mobi
+|       Charlie Parker 06 - Los Atormentados.mobi
+|       Charlie Parker 07 - Los Hombres de la Guadana.mobi
+|       Charlie Parker 08 - Los Amantes.mobi
+|       Todo Lo Que Muere.mobi
+|       
++---John Darnton
+|       Experimento.mobi
+|       Neanderthal.mobi
+|       anima.azw
+|       
++---John Dickson Carr
+|       El ocho de espadas.mobi
+|       
++---John Fante
+|       Espera a la primavera.prc
+|       Preguntale al polvo.prc
+|       
++---John Franklin Bardin
+|       El percheron mortal.prc
+|       
++---John Grisham
+|       Camara De Gas.prc
+|       Causa Justa.prc
+|       El Cliente.prc
+|       El Informe Pelicano.mobi
+|       El Intermediario.prc
+|       El Jurado (the Runaway Jury).prc
+|       El Rey De Los Pleitos (the King Of Torts).prc
+|       El socio.prc
+|       El Testamento.prc
+|       El Ultimo Jurado.prc
+|       El Ultimo Partido.prc
+|       Fachada.prc
+|       La apelacion.prc
+|       La Citacion.prc
+|       La Granja.prc
+|       La Hermandad.prc
+|       La Tapadera.prc
+|       Legitima Defensa the Rainmaker.prc
+|       Siete vidas.prc
+|       Tiempo de Matar.prc
+|       Una Navidad Diferente.prc
+|       
++---John Hawks
+|       El Rio Oscuro.mobi
+|       Viajero.mobi
+|       
++---John Hersey
+|       Hiroshima.mobi
+|       
++---John Irving
++---John Katzenbach
+|       Al Calor Del Verano.mobi
+|       El Hombre Equivocado.mobi
+|       El psicoanalista.mobi
+|       Juegos de ingenio.prc
+|       Juicio Final.mobi
+|       La Guerra de Hart.mobi
+|       La historia del loco.mobi
+|       La sombra.mobi
+|       Un asunto pendiente.mobi
+|       
++---John Kennedy Toole
+|       La Biblia de neon.mobi
+|       La conjura de los necios.mobi
+|       
++---John Le Carre
+|       Amigos Absolutos.mobi
+|       Asesinato de calidad.prc
+|       El amante ingenuo y sentimental.mobi
+|       El espejo de los espias.mobi
+|       El espia que surgio del frio.mobi
+|       El honorable colegial.mobi
+|       El infiltrado.mobi
+|       El jardinero fiel.mobi
+|       El peregrino secreto.mobi
+|       El sastre de Panama.mobi
+|       El topo.mobi
+|       El Traidor Del Siglo.mobi
+|       La Casa Rusia.mobi
+|       La chica del tambor.mobi
+|       La gente de Smiley.mobi
+|       Llamada para el muerto.mobi
+|       Nuestro Juego.mobi
+|       Single and Single.mobi
+|       Un asesinato de calidad.mobi
+|       Un espia perfecto.mobi
+|       Un traidor como los nuestros.prc
+|       Una pequena ciudad en Alemania.mobi
+|       
++---John Scalzi
+|       La vieja guardia.prc
+|       
++---John Steinbeck
+|       Al este del eden.mobi
+|       De ratones y hombres.mobi
+|       La taza de oro.mobi
+|       Las uvas de la ira.mobi
+|       Los hechos del rey Arturo y sus nobles caballeros.mobi
+|       Tortilla flat.mobi
+|       
++---John Twelve Hawks
+|       El rio oscuro.azw
+|       El viajero.azw
+|       
++---John Varley
+|       Gea 01 - Titan.mbp
+|       Gea 01 - Titan.mobi
+|       Gea 02 - La Hechicera.mobi
+|       
++---John Verdon
+|       Se lo que estas pensando [ESP].mobi
+|       
++---John Wyndham
+|       El dia de los trifidos.azw
+|       Las cris*lidas.mobi
+|       Los cuclillos de Midwich.mobi
+|       Semillas del tiempo.mobi
+|       
++---Jon Fasman
+|       La biblioteca del cartografo [ESP].mobi
+|       
++---Jon Krakauer
+|       Hacia rutas salvajes.mobi
+|       
++---Jonathan Carroll
+|       El fantasma enamorado.mobi
+|       El museo del perro.azw
+|       Los dientes de los *ngeles.azw
+|       Manzanas blancas.azw
+|       Sopa de cristales.azw
+|       
++---Jonathan Littell
+|       Las benevolas.azw
+|       
++---Jonathan Rabb
+|       La Conspiracion de los Herejes.prc
+|       Rosa.prc
+|       
++---Jonathan Swift
+|       Los viajes de Gulliver.mobi
+|       
++---Jorge Amado
+|       Do�a Flor y Sus Dos Maridos.prc
+|       Gabriela, Clavo y Canela.prc
+|       
++---Jorge Bucay
+|       Amarse con los ojos abiertos.mobi
+|       Cuentos para pensar.mobi
+|       Dejame que te cuente.mobi
+|       El camino de la felicidad.mobi
+|       El camino de las lagrimas.mobi
+|       El camino del encuentro.mobi
+|       
++---Jorge Luis Borges
+|       Antologia de la literatura fantastica.mobi
+|       Cuentos breves y extraordinarios.mobi
+|       El Aleph.mobi
+|       El Disco.prc
+|       El Libro de arena.mobi
+|       El Oro de los tigres.mobi
+|       Ficciones.mobi
+|       Historia de la eternidad.mobi
+|       Historia universal de la infamia.mobi
+|       Introduccion a la literatura inglesa.mobi
+|       La Biblioteca De Babel.prc
+|       La Cifra.mobi
+|       La LoterIa De Babilonia.prc
+|       La Moneda de hierro.mobi
+|       Las Muertes Concentricas.mobi
+|       Las Ruinas Circulares.prc
+|       Leopoldo Lugones.mobi
+|       Libro de los libros, Literaturas antiguas.mobi
+|       Libro de sue�os.mobi
+|       Libro del cielo y del infierno.mobi
+|       Literaturas germanicas medievales.mobi
+|       Los conjurados.mobi
+|       Luna de enfrente.mobi
+|       Otras inquisiciones.mobi
+|       Peque�a Antologia.mobi
+|       Que es el budismo.mobi
+|       Siete noches.mobi
+|       Tion Uqbar Orbis Tertius.prc
+|       UtopIa De Un Hombre Que EstA Cansado.prc
+|       
++---Jose Antonio Labordeta
+|       Memorias De Un Beduino En El Congreso De Los Diputados.mobi
+|       
++---Jose F. Alc*ntara
+|       La sociedad de control.mobi
+|       
++---Jose Luis Corral Lafuente
+|       El Cid.mobi
+|       Numancia.mobi
+|       
++---Jose Luis Galar
+|       La Frontera Dormida.mobi
+|       
++---Jose Luis Sampedro
+|       El Amante Lesbiano.mobi
+|       La sonrisa etrusca.mobi
+|       Octubre,octubre.mobi
+|       
++---Jose Maria Gironella
+|       Ha Estallado La Paz.mobi
+|       Los Cipreses Creen En Dios.mobi
+|       Los Hombres Lloran Solos.mobi
+|       Un millon de muertos.mobi
+|       
++---Jose Miguel Pallares
+|       Tiempo Prestado.mobi
+|       
++---Jose Saramago
+|       Cain [ESP].prc
+|       El evangelio segun Jesucristo [ESP].prc
+|       El Viaje del Elefante [ESP].prc
+|       Ensayo sobre la ceguera [ESP].prc
+|       Ensayo sobre la lucidez.mobi
+|       Las Intermitencias de la Muerte.mobi
+|       Memorial del convento.mobi
+|       
++---Jose Zorrilla
+|       Don Juan Tenorio.mobi
+|       
++---Josefina Aldecoa
+|       Historia de una maestra.mobi
+|       
++---Joseph Campbell
+|       El heroe de las mil caras.mobi
+|       
++---Joseph Conrad
+|       El Corazon de las Tinieblas.mobi
+|       Lord Jim.mobi
+|       
++---Joseph Gelinek
+|       El violin del diablo.mobi
+|       La Decima Sinfonia.prc
+|       
++---Joseph Joffo
+|       Un saco de canicas.mobi
+|       
++---Josh Bazell
+|       Burlando a la Parca.azw
+|       
++---Jostein Gaarder
+|       El enigma y el espejo.mobi
+|       El mundo de Sofia.mobi
+|       La joven de las naranjas.mobi
+|       Los ni�os de Sukhavati.mobi
+|       
++---Jose Antonio Pagola
+|       Jesus - Aproximacion historica.azw
+|       
++---Jose Carlos Somoza
+|       Dafne Desvanecida.mobi
+|       El Cebo.mobi
+|       La Caja de Marfil.mobi
+|       La Caverna de las Ideas.mobi
+|       La Dama Numero Trece.mobi
+|       Zigzag.mobi
+|       
++---Jose Luis Galar
++---Jose Luis Mu�oz
+|       El Mal Absoluto.mobi
+|       
++---Joyce Carol Oates
+|       La Hija del Sepulturero.prc
+|       
++---Juan Carlos Onetti
+|       Coleccion de Cuentos.prc
+|       
++---Juan Eslava Gal*n
+|       Califas, Guerreros, Esclavas y Eunucos.mobi
+|       El Catolicismo Explicado a las ovejas.mobi
+|       El Fraude De La Sabana Santa Y Las Reliquias De Cristo.mobi
+|       El Mercenario de Granada.mobi
+|       En busca del unicornio.mobi
+|       Historia de Espa�a contada para escepticos.mobi
+|       Los Dientes Del Dragon.mobi
+|       Roma De Los Cesares.mobi
+|       Tumbaollas y hambrientos.mobi
+|       Una Historia de la Guerra Civil que no va a gustar a nadie.mobi
+|       Yo Anibal.mobi
+|       
++---Juan Garcia Atienza
+|       La maquina de matar.prc
+|       La Meta Secreta De Los Templarios.mbp
+|       La Meta Secreta De Los Templarios.mobi
+|       Limpio y justiciero.prc
+|       Lo puesto y un paraguas.prc
+|       Los viajeros de las gafas azules.prc
+|       Servicio de puerta a puerta.prc
+|       
++---Juan Gomez Jurado
+|       Contrato con Dios.prc
+|       El emblema del traidor.prc
+|       
++---Juan Jose Mill*s
+|       El mundo.prc
+|       Lo que se de los hombrecillos.mobi
+|       No mires debajo de la cama.prc
+|       
++---Juan Jose Saer
+|       Las Nubes.prc
+|       
++---Juan Manuel de Prada
+|       La Tempestad.prc
+|       
++---Juan Marse
+|       El amante biling�e.prc
+|       El embrujo de Shanghai.prc
+|       �ltimas tardes con Teresa.prc
+|       
++---Juan Ramon Jimenez
+|       Platero y Yo.mobi
+|       
++---Juan Villoro
+|       El testigo.prc
+|       
++---Julia Navarro
+|       Dime quien soy.mobi
+|       La biblia de barro.mobi
+|       La hermandad de la s*bana santa.mobi
+|       La sangre de los inocentes.mobi
+|       
++---Julian May
+|       1 - La Tierra Multicolor.prc
+|       2 - El torque de oro.prc
+|       3 - El rey nonato.prc
+|       4 - El adversario.prc
+|       
++---Julio Cort*zar
+|       62 modelo para armar.prc
+|       Alguien que anda por ahi.mbp
+|       Alguien que anda por ahi.prc
+|       Bestiario (v2).mobi
+|       Deshoras.prc
+|       El perseguidor.prc
+|       Final del juego.prc
+|       Historias de cronopios y de  famas.prc
+|       Juegos.mobi
+|       La otra orilla.prc
+|       Los premios.prc
+|       Octaedro.prc
+|       Pasajes.mobi
+|       Queremos tanto a Glenda.prc
+|       Rayuela.prc
+|       Ritos.mobi
+|       Salvo el Crepusculo.mobi
+|       Todos los fuegos el fuego.prc
+|       
++---Julio Ramon Ribeyro
+|       11 cuentos.mobi
+|       Prosas apatridas aumentadas.mobi
+|       
++---Julio Verne
+|       Alrededor de la Luna [ESP].prc
+|       Ante la bandera [ESP].prc
+|       Aventura de tres Rusos y tres Ingleses [ESP].prc
+|       Aventuras de un nino irlandes [ESP].prc
+|       Cesar Cascabel [ESP].prc
+|       Cinco semanas en globo [ESP].prc
+|       Clovis Dardentor [ESP].prc
+|       De Glasgow a Charleston [ESP].prc
+|       De la Tierra a la Luna [ESP].prc
+|       Dos anos de vacaciones [ESP].prc
+|       El archipielago en llamas [ESP].prc
+|       El camino de Francia [ESP].prc
+|       El Castillo de los Carpatos [ESP].prc
+|       El Chancellor [ESP].prc
+|       El faro del fin del  mundo [ESP].prc
+|       El maestro Zacarias [ESP].prc
+|       El Pueblo Aereo [ESP].prc
+|       El rayo verde [ESP].prc
+|       El secreto de Maston [ESP].prc
+|       El secreto de Wilhelm Storitz [ESP].prc
+|       El testamento de un excentrico [ESP].prc
+|       El volcan de oro [ESP].prc
+|       Ensayos discursos poemas y cartas [ESP].prc
+|       Familia sin nombre [ESP].prc
+|       Gil Braltar [ESP].prc
+|       Hector Servadac [ESP].prc
+|       La Agencia Thomson y cia [ESP].prc
+|       La esfinge de los hielos [ESP].prc
+|       La isla misteriosa.mobi
+|       La vuelta al mundo en 80 dias [ESP].prc
+|       Las Indias negras [ESP].prc
+|       Las Tribulaciones de un Chino en China [ESP].prc
+|       Los amotinados de bounty [ESP].prc
+|       Los forzadores del bloqueo [ESP].prc
+|       Los hijos del Capitan Grant [ESP].prc
+|       Los hijos del Tio Robinson [ESP].prc
+|       Los n*ufragos del Jonathan.mobi
+|       Miguel Strogoff [ESP].prc
+|       Paris en el siglo XX [ESP].prc
+|       Un capitan de quince anos [ESP].prc
+|       Una Ciudad Flotante [ESP].prc
+|       Veinte mil leguas de viaje submarino [ESP].prc
+|       Viaje al Centro de la Tierra [ESP].prc
+|       
++---Junichi Watanabe
+|       Ginko, la Primera Doctora.prc
+|       
++---Justin Cronin
+|       El pasaje.mobi
+|       
++---Justo Navarro
+|       Accidentes intimos.prc
+|       Finalmusik.prc
+|       
++---Kader Abdolah
+|       El reflejo de las palabras.mobi
+|       
++---Kate Jacobs
+|       El Club de los Viernes Se Reune de Nuevo.prc
+|       El Club De Los Viernes.mobi
+|       
++---Kate Morton
+|       El jardin olvidado.mobi
+|       
++---Kate Sedley
+|       La posada siniestra.prc
+|       
++---Katherine Howe
+|       El Libro de los Hechizos.mobi
+|       
++---Katherine Neville
+|       El circulo magico.mobi
+|       El Fuego.mobi
+|       El ocho.mobi
+|       Riesgo calculado.mobi
+|       
++---Katherine Pancol
+|       El vals lento de las tortugas.prc
+|       Los Ojos Amarillos De Los Cocodrilos.mobi
+|       
++---Kathy Reichs
+|       La Huella del Diablo.mobi
+|       Testigos del Silencio.mobi
+|       
++---Kazuo Ishiguro
+|       Los inconsolables.prc
+|       Los restos del dia.mobi
+|       Nunca me abandones.mobi
+|       Un artista del mundo flotante.prc
+|       
++---Ken Follett
+|       Alto riesgo.azw
+|       El esc*ndalo Modigliani.azw
+|       El hombre de San Petersburgo.azw
+|       El tercer gemelo.azw
+|       En el blanco.azw
+|       La caida de los gigantes.azw
+|       La clave est* en Rebeca.mobi
+|       La isla de las tormentas.mobi
+|       Los pilares de la tierra [2� Version].mobi
+|       Los pilares de la tierra.azw
+|       Un mundo sin fin.azw
+|       Una fortuna peligrosa.mobi
+|       Vuelo final.mobi
+|       El invierno del mundo.mobi
+|       
++---Ken Grimwood
+|       Volver a empezar.azw
+|       
++---Khaled Hosseini
+|       Cometas en el cielo [ESP].prc
+|       Mil soles esplendidos [ESP].prc
+|       
++---Kim Stanley Robinson
+|       Marte Rojo.mobi
+|       
++---Kiran Desai
+|       El Legado de la Perdida.prc
+|       
++---Kjell Eriksson
+|       La Princesa de Burundi - Kjell Eriksson.mobi
+|       
++---Kjell Ola Dahl
+|       Un Paso en Falso.prc
+|       
++---Kurt Vonnegut
+|       Cuna de gato.mobi
+|       Dios le bendiga, Mr. Rosewater.mobi
+|       Madre noche.mobi
+|       P*jaro de celda.mobi
+|       
++---Kurt Wallander
+|       Kurt Wallander 01 - Asesinos sin rostro.mobi
+|       Kurt Wallander 02 - Los perros de Riga.mobi
+|       Kurt Wallander 03 - La leona blanca.mobi
+|       Kurt Wallander 04 - El hombre sonriente.mobi
+|       Kurt Wallander 05 - La falsa pista.mobi
+|       Kurt Wallander 06 - La quinta mujer.mobi
+|       Kurt Wallander 07 - Pisando los talones.mobi
+|       Kurt Wallander 08 - Cortafuegos.mobi
+|       Kurt Wallander 09 - La piramide.mobi
+|       Kurt Wallander 10 - Antes de que hiele.mobi
+|       Kurt Wallander 11 - El hombre inquieto.mobi
+|       
++---Kyoichi Katayama
+|       Un Grito de Amor desde el Centro del Mundo.prc
+|       
++---L. J. Smith
+|       Alba Negra.mobi
+|       Alma Gemela.mobi
+|       Angel Negro.mobi
+|       Cazadora.mobi
+|       El Buen Orador.mobi
+|       El Elejido.mobi
+|       Hijas de la Oscuridad.mobi
+|       Vampiro Secreto.mobi
+|       Witchlight.mobi
+|       
++---Larry Niven
+|   |   Cae una l*grima.prc
+|   |   coge un caballo.prc
+|   |   Crashlander.prc
+|   |   El canto de las sirenas.prc
+|   |   El hombre del agujero.prc
+|   |   El Martillo de Lucifer.mobi
+|   |   El Mundo De Los Ptavvs.prc
+|   |   El Ojo De Un Pulpo.prc
+|   |   El Protector.prc
+|   |   El Tercer Brazo.mobi
+|   |   En El Nucleo de la Galaxia.prc
+|   |   Encalmados en el Infierno.prc
+|   |   Handicap.prc
+|   |   Hay Un Lobo En Mi Maquina Del Tiempo.prc
+|   |   Historias Del Espacio Reconocido.prc
+|   |   Hombre De Acero.prc
+|   |   Inferno.prc
+|   |   Juramento De Fidelidad.prc
+|   |   La Paja En El Ojo De Dios 2.prc
+|   |   La Paja en el Ojo de Dios.mobi
+|   |   Limites.prc
+|   |   Llanero.prc
+|   |   Los Arboles Integrales.prc
+|   |   Luna Inconstante.prc
+|   |   Neutron Star.prc
+|   |   Pajaro En Mano.prc
+|   |   Protector.prc
+|   |   Reincidencia sospechosa.prc
+|   |   Ruido De Pasos.prc
+|   |   Seguro A Cualquier Velocidad.prc
+|   |   Seleccion De Relatos Cortos.prc
+|   |   Serie Convergente.prc
+|   |   Un Mundo Fuera Del Tiempo.prc
+|   |   Un Presente De La Tierra.prc
+|   |   Vuela de noche.prc
+|   |   
+|   +---Historia Del Futuro
+|   |       1 - El Mercenario.prc
+|   |       2 - El Soldado.prc
+|   |       
+|   \---Mundo Anillo
+|           0 - Protector.mobi
+|           1 - Mundo Anillo.mobi
+|           2 - Los Ingenieros del Mundo Anillo.mobi
+|           3 - El Trono del Mundo Anillo.mobi
+|           4 - Hijos del Mundo Anillo.mobi
+|           
++---Lars Kepler
+|       El hipnotista .azw
+|       
++---Laura Esquivel
+|       Como agua para chocolate.prc
+|       
++---Laura Gallego Garcia
+|   |   Alas de Fuego.prc
+|   |   
+|   +---Cronicas de la Torre
+|   |       00 - Fenris, el elfo.prc
+|   |       01 - El valle de los lobos.prc
+|   |       02 - La Maldicion del Maestro.prc
+|   |       03 - La Llamada de los Muertos.prc
+|   |       
+|   \---Memorias De Idhun
+|           1- La Resistencia.prc
+|           2 - La Triada.prc
+|           3 - Panteon.prc
+|           
++---Laura Joh Rowland
+|       Sano Ichiro 07, Diario �ntimo de la Cortesana.prc
+|       
++---Laura Restrepo
+|       Delirio.prc
+|       Demasiados heroes.azw
+|       
++---Laurent Gaude
+|       El Legado del Rey Tsongor.prc
+|       El Sol de los Scorta.prc
+|       
++---Lawrence Durrel
+|       01 El cuarteto de Alejandria, Justine.mobi
+|       02 El Cuarteto de Alejandria, Balthazar.mobi
+|       03 El cuarteto de Alejandria, Mountolive.mobi
+|       04 El cuarteto de Alejandria, Clea.mobi
+|       
++---Leigh Brackett
+|   |   La Espada De Rhiannon.prc
+|   |   La sacerdotisa escarlata de la luna loca.prc
+|   |   
+|   \---Libro de Skaith
+|           1 - La Estrella Escarlata.prc
+|           
++---Lem Stanislaw
+|       Solaris.mobi
+|       
++---Len Deighton
+|       El juego de Berlin .prc
+|       
++---Leon Uris
+|       Armageddon.mobi
+|       �xodo.mobi
+|       
++---Leonardo Padura
+|       Adios Hemingway .mobi
+|       
++---Leonid Andreyev
+|       Los espectros.mobi
+|       
++---Leopoldo Abadia
+|       La Crisis Ninja y otros misterios.mobi
+|       La hora de los sensatos.mobi
+|       
++---Leslie Waltkins
+|       Alternativa 3.mobi
+|       
++---Lewis Carroll
+|       Alicia a traves del espejo [ESP].mobi
+|       Alicia en el pais de las Maravillas [ESP].mbp
+|       Alicia en el pais de las Maravillas [ESP].mobi
+|       
++---Leon Tolstoi
+|       Ana Karenina.prc
+|       Guerra y paz.prc
+|       Narrativa breve.prc
+|       
++---Lincoln Child
+|       Infierno helado.azw
+|       
++---Lindsey Davis
+|   \---Falco
+|           01 - La Plata De Britania.mobi
+|           02 - La estatua de bronce.mobi
+|           03 - La Venus de cobre.mobi
+|           04 - La mano de hierro de Marte.mobi
+|           05 - El oro de Poseidon.mobi
+|           06 - Ultimo acto en Palmira.mobi
+|           07 - Tiempo para escapar.mobi
+|           08 - Una conjura en Hispania.mobi
+|           09 - Tres manos en la fuente.mobi
+|           10 - A los leones.mobi
+|           11 - Una virgen de mas.mobi
+|           12 - Oda a un banquero.mobi
+|           13 - Un cadaver en los ba�os.mobi
+|           14 - El Mito de Jupiter.mobi
+|           15 - Los fiscales.mobi
+|           16 - En Busca De Infamia.mobi
+|           17 - Ver Delfos y morir.mobi
+|           18 - Las saturnales.mobi
+|           19 - Alejandria.mobi
+|           
++---Lisa Scottoline
+|       Falsa Identidad.mobi
+|       
++---Lois Lowry
+|       El Dador [ESP].mobi
+|       
++---Lois Mcmaster Bujold
+|   +---Chalion
+|   |       01 - Los cuervos del Zangre.prc
+|   |       02 - El legado de los cinco dioses.mbp
+|   |       02 - El legado de los cinco dioses.prc
+|   |       03 - Paladin de almas.prc
+|   |       
+|   \---Miles Vorkosigan
+|           01 - En Caida Libre.prc
+|           02 - Fragmentos de honor.prc
+|           03 - Barrayar.prc
+|           04 - El Aprendiz de Guerrero.mbp
+|           04 - El Aprendiz de Guerrero.prc
+|           05 - Fronteras del Infinito.prc
+|           06 - El Juego de los Vor.prc
+|           07 - Cetaganda.prc
+|           08 - Ethan de Athos.prc
+|           09 - Hermanos de armas.prc
+|           10 - Danza De Espejos.prc
+|           11 - Recuerdos.prc
+|           12 - Komarr.prc
+|           13 - Una Campana Civil.prc
+|           14 - Inmunidad diplom*tica.prc
+|           15 - Regalos de Feria de Invierno.prc
+|           Nota.txt
+|           
++---Lorenzo Silva
+|   |   Del Rif a Yebela .mobi
+|   |   Sereno en el peligro.mobi
+|   |   
+|   \---Bevilacqua
+|           0 - Nadie vale mas que otro.mobi
+|           1 - El lejano pais de los estanques.mobi
+|           2 - El Alquimista Impaciente.mobi
+|           3 - La Niebla y la Doncella.mobi
+|           4 - La Reina Sin Espejo.mobi
+|           5 - La Estrategia Del Agua.mobi
+|           
++---Louis-Ferdinand Celine
+|       Viaje al fin de la noche.mobi
+|       
++---Louise Cooper
+|   |   Espejismo.mobi
+|   |   
+|   +---El Se�or del Tiempo
+|   |       El Se�or del Tiempo I - El iniciado.mobi
+|   |       El Se�or del Tiempo II - El orden y el caos.mobi
+|   |       El Se�or del Tiempo III - El proscrito.mobi
+|   |       
+|   +---Indigo
+|   |       1 - Nemesis.prc
+|   |       2 - Infierno.prc
+|   |       3 - Infanta.prc
+|   |       4 - Nocturno.prc
+|   |       5 - Troika.prc
+|   |       6 - Avatar.prc
+|   |       7 - Espectros.prc
+|   |       8 - Anghara.prc
+|   |       
+|   \---La Puerta del Caos
+|           1 - La Impostora.prc
+|           2 - La Usurpadora.prc
+|           3 - La Vengadora.prc
+|           La Puerta del Caos (Compilado).mobi
+|           
++---Luis Garcia Jambrina
+|       El manuscrito de piedra.mobi
+|       
++---Luis Mateo Diez
+|       El animal piadoso.azw
+|       
++---Luis Molinos
+|       Luis Molinos - La Perla de al-Andalus.mobi
+|       
++---Luis Piedrahita
+|       Cada cuanto tiempo hay que echar a lavar un pijama.mobi
+|       Dios hizo el mundo en siete dias... y se nota.mobi
+|       
++---Luis Velez de Guevara
+|       El Diablo Cojuelo.mobi
+|       
++---Luisa Axpe
+|       Alamos.prc
+|       Casa De Munecas.prc
+|       Cronica.prc
+|       Desnudez.prc
+|       El Angel Despierto.prc
+|       Extravio.prc
+|       Grutas.prc
+|       La Maquina.prc
+|       Las Ca�as.prc
+|       Microcuentos De Cien Palabras.prc
+|       Muestras De Fatiga.prc
+|       Perro Azul.prc
+|       Principio Y Fin.prc
+|       Reto�os.prc
+|       
++---Luther Blisset
+|       Q.mobi
+|       
++---Mahfuz Naguib
+|       Akhenaton El Rey Hereje.mbp
+|       Akhenaton El Rey Hereje.mobi
+|       
++---Manda Scott
+|       La calavera de cristal.mobi
+|       
++---Manel Loureiro
+|       Apocalipsis Z - Los dias oscuros.mobi
+|       Apocalipsis Z.mobi
+|       
++---Manuel de Pedrolo
+|       Mecanoscrito del segundo origen.mobi
+|       
++---Manuel Montero
+|       Historia del Pais Vasco. De los origenes a nuestros dias.mobi
+|       
++---Manuel Mujica Lainez
+|       Bomarzo.mobi
+|       Misteriosa Buenos Aires [ESP].mobi
+|       
++---Manuel V*zquez Montalb*n
++---Marc Levy
+|       Las Cosas que No Nos Dijimos.mobi
+|       Mis Amigos, Mis Amores.mobi
+|       Ojal* Fuera Cierto.mobi
+|       
++---Marc Pastor
+|       La mala mujer.mobi
+|       
++---Marcel Proust
+|   \---En Busca del Tiempo Perdido
+|           1 - Por el Camino de Swann.mobi
+|           2 - A la Sombra de las Muchachas en Flor - Marcel Proust.mobi
+|           3 - El Mundo de Guermantes.mobi
+|           4 - Sodoma y Gomorra.mobi
+|           5 - La Prisionera.mobi
+|           6 - Albertina Desaparecida.mbp
+|           6 - Albertina Desaparecida.mobi
+|           7 - El Tiempo Recobrado.mobi
+|           
++---Marcelo Birmajer
+|       Eso no.azw
+|       
++---Marco A. Almazan
+|       Episodios Nacionales en Salsa Verde.mobi
+|       
++---Margaret Weis &amp; Tracy Hickman
+|   +---Ciclo de la Puerta de la Muerte
+|   |       01 - Ala de Dragon - Vol. 1.prc
+|   |       02 - La Estrella de los Elfos - Vol. 1.prc
+|   |       02 - La Estrella de los Elfos - Vol. 2.mbp
+|   |       02 - La Estrella de los Elfos - Vol. 2.prc
+|   |       03 - El mar de fuego - Vol. 1.prc
+|   |       03 - El Mar de Fuego - Vol. 2.mbp
+|   |       03 - El Mar de Fuego - Vol. 2.prc
+|   |       04 - El mago de la serpiente 1.prc
+|   |       04 - El mago de la serpiente 2.mbp
+|   |       04 - El mago de la serpiente 2.prc
+|   |       05 - La mano del Caos - Vol. 1.mbp
+|   |       05 - La mano del Caos - Vol. 1.prc
+|   |       05 - La mano del Caos - Vol. 2.prc
+|   |       06 - En el Laberinto - Vol. 1.prc
+|   |       06 - En el Laberinto - Vol. 2.prc
+|   |       07 - La Septima Puerta.prc
+|   |       
+|   +---La Espada de Joram
+|   |       01 - La Forja.prc
+|   |       02 - La Profecia.prc
+|   |       03 - El Triunfo.prc
+|   |       04 - El Legado de la Espada Arcana.prc
+|   |       
+|   \---La Rosa del Profeta
+|           1 - La voluntad del Dios Errante.mbp
+|           1 - La voluntad del Dios Errante.prc
+|           2 - El Paladin De La Noche.prc
+|           3 - El Profeta De Akhran.mbp
+|           3 - El Profeta De Akhran.prc
+|           
++---Marguerite Yourcenar
+|       Memorias De Adriano.mobi
+|       
++---Marie Lebert
+|       Del libro impreso al libro digital.mobi
+|       El Internet y los idiomas.mobi
+|       Una corta historia del eBook.mobi
+|       
++---Mario Benedetti
+|       La borra del cafe.prc
+|       La Tregua.prc
+|       Primavera con una esquina rota.prc
+|       
++---Mario Conde
+|       Memorias De Un Preso.mobi
+|       
++---Mario Escobar
+|       El Secreto De Los Assassini.mobi
+|       
++---Mario Levrero
+|       Espacios libres.prc
+|       
++---Mario Luna
+|       Sex Code.mobi
+|       
++---Mario Puzo
+|       El Padrino.azw
+|       El �ltimo Don.mobi
+|       La cuarta K.mobi
+|       Los Borgia.mobi
+|       Omerta.mobi
+|       
++---Mario Vargas Llosa
+|       Conversacion en la catedral [ESP].mobi
+|       El hablador [ESP].mobi
+|       El loco de los balcones [ESP].mobi
+|       El Paraiso en la otra esquina [ESP].mobi
+|       El pez en el agua [ESP].mobi
+|       El Sue�o del Celta.mobi
+|       El Viaje a la Ficcion.mobi
+|       Elogio de la Madrastra [ESP].mobi
+|       Historia de Mayta [ESP].mobi
+|       Historia secreta de una novela.mobi
+|       La casa verde.mobi
+|       La ciudad y los perros.mobi
+|       La Fiesta del Chivo.mobi
+|       La guerra del fin del mundo.mobi
+|       La tia Julia y el escribidor.mobi
+|       La verdad de las mentiras, ensayos sobre.mobi
+|       Lituma en los Andes.mobi
+|       Los cuadernos de don Rigoberto.mobi
+|       Los Jefes. Los cachorros.mobi
+|       Pantaleon y las visitadoras.mobi
+|       Quien mato a Palomino Molero.mobi
+|       Travesuras de la ni�a mala.prc
+|       
++---Marion Zimmer Bradley
+|   +---Darkover
+|   |       01 - Ciudad de Brujeria.prc
+|   |       02 - La Casa de Thendara.prc
+|   |       03 - La Herencia de los Hastur.prc
+|   |       04 - La Torre Prohibida.prc
+|   |       
+|   \---Las Nieblas de Avalon
+|           01 - Experta en Magia.prc
+|           02 - La Reina Suprema.prc
+|           03 - El Rey Ciervo.prc
+|           04 - El prisionero en el roble.prc
+|           
++---Mark Haddon
+|       El curioso incidente del perro a medianoche.azw
+|       
++---Mark Twain
+|       Autobiografia.mobi
+|       El bobo wilson.mobi
+|       El forastero misterioso.mobi
+|       El hombre que corrompio Hadleyburg.mobi
+|       El principe y el mendigo.mobi
+|       El robo del elefante blanco.mobi
+|       La celebre rana saltadora.mobi
+|       La historia del invalido.mobi
+|       Las Aventuras De Huckleberry Finn.mobi
+|       Las aventuras de Tom Sawyer.mobi
+|       Los McWilliams y el timbre de alarma.mobi
+|       Narrativa breve.mobi
+|       Sobre la decadencia del arte de mentir.mobi
+|       Tom Sawyer, detective.mobi
+|       Un yanki en la corte del rey Arturo.mobi
+|       
++---Markus Zusak
+|       La Ladrona De Libros.mobi
+|       
++---Mary Higgins Clark
+|       Acuerdate de mi [ESP].mobi
+|       Camino hacia el pasado [ESP].mobi
+|       Dos Ni�as vestidas de Azul [ESP].mobi
+|       El Ladron de la Navidad [ESP].mobi
+|       El pasado secreto de Suzanne Reardon [ESP].mobi
+|       
++---Mary Jungstedt
+|       Nadie lo ha visto - Jungstedt_ Mari.mobi
+|       
++---Mary Renault
+|       Alejandro Magno 1. Fuego del Paraiso.mobi
+|       Alejandro Magno 2. El Muchacho Persa.mobi
+|       Alejandro Magno 3. Juegos Funerarios.mobi
+|       Alejandro Magno.mobi
+|       Alexias De Atenas.mobi
+|       La Mascara De Apolo.mobi
+|       Teseo 1. El rey debe morir.mobi
+|       Teseo 2. Teseo Rey de Atenas.mobi
+|       
++---Mary Wollstonecraft Shelley
+|       Frankenstein.mobi
+|       
++---Maria Due�as
+|       El tiempo entre costuras.mobi
+|       Mision Olvido.mobi
+|       
++---Maria Teresa alvarez
+|       Ellas mismas. Mujeres que han hecho historia.mobi
+|       
++---Masanobu Fukuoka
+|       La Revolucion de una Brizna de Paja.mobi
+|       
++---Mathias Malgieu
+|       La Mecanica del Corazon [ESP].prc
+|       
++---Matilde Asensi
+|       El origen perdido.prc
+|       El Salon de ambar.prc
+|       El ultimo Caton.prc
+|       Tierra Firme [ESP].mobi
+|       Todo bajo el cielo [ESP].mobi
+|       Venganza en Sevilla [ESP].mobi
+|       
++---Matthew G. Lewis
+|       El Monje [ESP].mobi
+|       
++---Matthew Pearl
+|       La sombra de Poe.mobi
+|       
++---Matthew Reilly
+|       Antartida Estacion Polar.mobi
+|       
++---Maurice Druon
+|       Reyes Malditos 1. El rey de hierro.mobi
+|       Reyes Malditos 2. La reina estrangulada.mobi
+|       Reyes Malditos 3. Los venenos de la corona.mobi
+|       Reyes Malditos 4. La ley de los varones.mobi
+|       Reyes Malditos 5. La loba de Francia.mobi
+|       Reyes malditos 6. La flor de lis y el leon.mobi
+|       Reyes Malditos 7. De como un rey perdio Francia.mobi
+|       
++---Maurice Maeterlinck
+|       La Vida de las Abejas.mobi
+|       
++---Max Brooks
+|       Guerra Mundial Z.azw
+|       Zombi -  Guia de supervivencia.mobi
+|       
++---Mercedes Abad
+|       Ligeros Libertinajes Sabaticos.mobi
+|       
++---Michael Ashley
+|       La Era Del Cambio.prc
+|       Legados Macabros.prc
+|       Los mejores relatos de ciencia ficcion. La era del cambio 1956-1965.prc
+|       
++---Michael Baigent
+|       El enigma sagrado.mobi
+|       
++---Michael Bishop
+|       Colaboracion.prc
+|       Con una ayudita de sus amigos.prc
+|       El eslabon perdido.prc
+|       En la calle de las sierpes.prc
+|       La ascension secreta.prc
+|       La odisea de Catadonia.prc
+|       La vivificacion.prc
+|       Solo un enemigo, el tiempo.azw
+|       
++---Michael Connelly
+|       Cauces de maldad.mobi
+|       Ciudad de huesos.mobi
+|       Echo Park.mobi
+|       El eco negro.mobi
+|       El observatorio.mobi
+|       El poeta.mobi
+|       El veredico.mobi
+|       El vuelo del *ngel.mobi
+|       El ultimo coyote.mobi
+|       Hielo negro.mobi
+|       La rubia de hormigon.mobi
+|       Llamada perdida.mobi
+|       Luna funesta.mobi
+|       Luz perdida.mobi
+|       M*s oscuro que la noche.mobi
+|       Pasaje al paraiso.mobi
+|       �ltimo recurso.mobi
+|       
++---Michael Crichton
+|       Acoso [ESP].mobi
+|       Congo.mobi
+|       Devoradores de Cadaveres [ESP].mobi
+|       El Gran Robo del Tren [ESP].mobi
+|       El Hombre Terminal [ESP].mobi
+|       El Mundo Perdido [ESP].mobi
+|       Esfera [ESP].mobi
+|       Estado de Miedo [ESP].mobi
+|       La Amenaza de Andromeda [ESP].mobi
+|       Latitudes Piratas [ESP].mobi
+|       Next.mobi
+|       Presa [ESP].mobi
+|       Punto Critico [ESP].mobi
+|       Rescate en el tiempo (1999-1357) [ESP].mobi
+|       Sol Naciente [ESP].mobi
+|       Twister [ESP].mobi
+|       Un Caso de Urgencia [ESP].mobi
+|       
++---Michael Flynn
+|       Eifelheim.mobi
+|       El Naufragio de El Rio de las Estrellas.mobi
+|       
++---Michael Jecks
+|       El mercader y la bruja.mobi
+|       La venganza templaria.mobi
+|       
++---Michael Lewis
+|       El Poquer del Mentiroso.mobi
+|       
++---Michael Marshall Smith
+|       Ciudad .azw
+|       Clones.azw
+|       Sue�os.mobi
+|       
++---Michael Moorcock
+|   \---Elric de Melnibone
+|           1 - Elric de Melnibone.prc
+|           2 - La Fortaleza de la Perla.prc
+|           3 - Marinero de los Mares del Destino.prc
+|           4 - El Misterio del Lobo Blanco.prc
+|           5 - La Torre Evanescente.prc
+|           6 - La venganza de la Rosa.prc
+|           7 - La Maldicion de la Espada Negra.prc
+|           8 - Portadora de Tormentas.prc
+|           
++---Michael Peinkofer
+|       La Llama de Alejandria.mobi
+|       La maldicion de Thot.azw
+|       
++---Miguel de Cervantes Saavedra
+|       Don Quijote - Parte I.mobi
+|       Don Quijote - Parte II.mobi
+|       
++---Miguel Delibes
+|       Cartas de un sexagenario voluptuoso.mobi
+|       Cinco horas con Mario.mobi
+|       Diario de un cazador.mobi
+|       El camino.mobi
+|       El Hereje.mobi
+|       La hoja roja.prc
+|       Las ratas.prc
+|       Los santos inocentes.mobi
+|       Se�ora de rojo sobre fondo gris.prc
+|       
++---Miguel angel Asturias
+|       El se�or presidente.mobi
+|       
++---Mijail Bakunin
+|       Dios y el Estado.mobi
+|       
++---Mika Waltari
+|       El Angel Sombrio.mobi
+|       El Etrusco La Leyenda De Los Inmortales.mobi
+|       Marco El Romano.mobi
+|       Sinhue, El Egipcio.mobi
+|       
++---Milan Kundera
+|       El arte de la novela .mobi
+|       El libro de los amores ridiculos.prc
+|       La inmortalidad.prc
+|       
++---Mitch Albom
+|       Martes con mi viejo profesor.mobi
+|       
++---Morris West
+|       Arlequin [ESP].mbp
+|       Arlequin [ESP].mobi
+|       Dios salve su alma [ESP].mobi
+|       El abogado del diablo [ESP].mobi
+|       El caso orgagna [ESP].mobi
+|       El navegante [ESP].mobi
+|       El verano del lobo rojo [ESP].mobi
+|       Eminencia [ESP].mobi
+|       Hija del silencio [ESP].mobi
+|       Jugada maestra [ESP].mobi
+|       La salamandra [ESP].mobi
+|       La segunda victoria [ESP].mobi
+|       La torre de Babel [ESP].mobi
+|       La ultima confesion [ESP].mobi
+|       Las sandalias del pescador [ESP].mobi
+|       Los bufones de Dios [ESP].mobi
+|       Proteo [ESP].mobi
+|       
++---Musso Guillaume
+|       Y Despues.mobi
+|       
++---Natsume Soseki
+|       Botchan.mobi
+|       Soy un gato.mobi
+|       
++---Neal Stephenson
+|       Criptonimicon 1.mobi
+|       criptonomicon 2.mobi
+|       criptonomicon 3.mobi
+|       Snow Crash.azw
+|       
++---Neil Gaiman
+|       American Gods [ESP].mbp
+|       American Gods [ESP].mobi
+|       El Libro Del Cementerio.mobi
+|       Los Hijos De Anansi [ESP].mobi
+|       Neverwhere [ESP].mobi
+|       Nieve, Cristal, Manzanas [ESP].mobi
+|       Stardust [ESP].mobi
+|       
++---Nelson Bond
+|       El hombre que atravesaba el cristal.prc
+|       Factor Vital.prc
+|       La Voz Del Extrano Cubo.prc
+|       Miren El Pajaro.prc
+|       Ningun Tiempo Como El Futuro.prc
+|       
++---Nicholas Guild
+|       El Asirio.mobi
+|       El Macedonio.mobi
+|       La Estrella de Sangre.mobi
+|       
++---Nicholas Wilcox
+|       Trilogia Templaria 1. Los Falsos Peregrinos.mobi
+|       Trilogia Templaria 2. Las Trompetas de Jerico.mobi
+|       Trilogia Templaria 3. La Sangre de Dios.mobi
+|       
++---Nick Hornby
+|       Todo por una chica.mobi
+|       Un gran chico.mobi
+|       
++---Nick Sagan
+|       Codigo genetico.mobi
+|       
++---Nicol*s Maquiavelo
+|       El Principe.mobi
+|       
++---Nieves Hidalgo
+|       Luna de Oriente.mobi
+|       
++---Noah Gordon
+|       Chaman.mobi
+|       El Medico 2.mobi
+|       El Medico.mobi
+|       El Rabino.mobi
+|       El Rabino.prc
+|       El ultimo Judio.prc
+|       La doctora cole.mobi
+|       
++---Nora Roberts
+|       Verdades y Mentiras.mobi
+|       
++---Norbert R. Iba�ez
+|       Ciberputeadores en Internet [ESP].prc
+|       
++---Nuria Roca
+|       Los Caracoles No Saben Que Son Caracoles.mobi
+|       Sexualmente.mobi
+|       
++---Orhan Pamuk
+|       El libro negro.prc
+|       Me llamo Rojo.prc
+|       Nieve.azw
+|       
++---Oriana Fallaci
+|       Carta a un nino que nunca nacio.azw
+|       
++---Orson Scott Card
+|       El Juego de Ender [ESP].mobi
+|       Encantamiento.mobi
+|       Ender el Xenocida.mobi
+|       Guerra de Regalos.mobi
+|       Hijos de la Mente.mobi
+|       La Sombra de Ender.mobi
+|       La Sombra del Gigante.mobi
+|       La sombra del Hegemon.mobi
+|       La Voz de los Muertos.mobi
+|       Las naves de la Tierra [ESP].mobi
+|       Maestro Cantor.mobi
+|       Marionetas de la Sombra.mobi
+|       Observadores del Pasado.mobi
+|       
++---Oscar Wilde
+|       De profundis.mobi
+|       El crimen de Lord Arthur Saville.mobi
+|       El fantasma de Canterville.mobi
+|       El retrato de Dorian Gray.prc
+|       
++---Pablo Neruda
+|       Los versos del capitan.mobi
+|       
++---Pablo Tusset
+|       En el nombre del cerdo.mobi
+|       Lo mejor que le puede pasar a un Cruas*n.mobi
+|       Sakamura Corrales y los muertos rientes.azw
+|       
++---Pablo Victoria
+|       El dia que Espa�a derroto a Inglaterra.mobi
+|       
++---Paloma Sanchez Garnica
+|       El Alma De Las Piedras.mobi
+|       
++---Paolo Giordano
+|       La soledad de los numeros primos.prc
+|       
++---Pat O�Shea
+|       Los perros de la Morrigan.azw
+|       
++---Patricia Cornwell
+|       El cuerpo del delito (Dra Scarpetta 02).prc
+|       El RETRATO de un ASESINO.mobi
+|       Post-Mortem (Dra Scarpetta 01).prc
+|       
++---Patrick O'Brian
+|       Aubrey y Maturin 01 - Capitan de Mar y Guerra.mobi
+|       Aubrey y Maturin 02 - Capit*n de navio.mobi
+|       Aubrey y Maturin 03 - La fragata Surprise.mobi
+|       Aubrey y Maturin 04 - Operacion Mauricio.mobi
+|       Aubrey y Maturin 05 - Isla Desolacion.mobi
+|       Aubrey y Maturin 06 - Episodios de una guerra.mobi
+|       Aubrey y Maturin 07 - El ayudante de cirujano.mobi
+|       Aubrey y Maturin 08 - Mision en Jonia.mobi
+|       Aubrey y Maturin 09 - El puerto de la traicion.mobi
+|       Aubrey y Maturin 10 - La costa mas lejana del mundo.mobi
+|       Aubrey y Maturin 11 - El reverso de la medalla.mobi
+|       Aubrey y Maturin 12 - La patente de corso.mobi
+|       Aubrey y Maturin 13 - Trece salvas de honor.mobi
+|       Aubrey y Maturin 14 - La goleta Nutmeg.mobi
+|       Aubrey y Maturin 15 - Clarissa Oakes, polizon a bordo.mobi
+|       Aubrey y Maturin 16 - El mar oscuro como el oporto.mobi
+|       Aubrey y Maturin 17 - El comodoro.mobi
+|       Aubrey y Maturin 18 - Almirante En Tierra.mobi
+|       Aubrey y Maturin 19 - Los cien dias.mobi
+|       Aubrey y Maturin 20 - Azul en la mesana.mobi
+|       
++---Patrick Rothfuss
+|       El Nombre del Viento [ESP].mobi
+|       El temor de un hombre sabio.mobi
+|       
++---Patrick S�skind
+|       El Perfume.prc
+|       La historia del se�or Sommer.prc
+|       
++---Paul Auster
+|       Brooklyn Follies.mobi
+|       Ciudad de cristal.mobi
+|       El Cuaderno Rojo.mobi
+|       El Palacio de la Luna.mobi
+|       El Pais de las �ltimas Cosas.mobi
+|       Invisible.prc
+|       La Habitacion Cerrada.mobi
+|       La Invencion de la Soledad.mobi
+|       Sunset Park.mobi
+|       Tombuctu.mobi
+|       
++---Paul Doherty
+|   |   El Principe de las Tinieblas.mobi
+|   |   Los asesinatos de Horus.mobi
+|   |   
+|   \---Los misterios de Alejandro Magno
+|           01. Alejandro Magno en la casa de la muerte.mobi
+|           02. El Ateo.mobi
+|           03. Las puertas del infierno.mobi
+|           
++---Pauline Gedge
+|       El faraon.mobi
+|       El papiro de Saqqara.mobi
+|       La dama del Nilo.mobi
+|       aguilas y cuervos.mobi
+|       
++---Pauline Reage
+|       Historia de O.mobi
+|       
++---Paulo Coelho
+|       Brida.prc
+|       El alquimista.azw
+|       El camino del arco.mobi
+|       El zahir.prc
+|       La quinta monta�a.prc
+|       
++---Peter Berling
+|       Los hijos del Grial.mobi
+|       
++---Peter F. Hamilton
+|       Judas desencadenado.azw
+|       La estrella de Pandora.azw
+|       
++---Peter Harris
+|       El enigma Vivaldi .mobi
+|       El Secreto Del Peregrino.mobi
+|       La Conspiracion del Templo.mobi
+|       La Serpiente Roja.mobi
+|       
++---Peter Lovesey
+|       Abracadaver.mobi
+|       
++---Peter May
+|       La isla de los cazadores de p*jaros.mobi
+|       
++---Philip J. Farmer
+|       La imagen de la bestia.mobi
+|       Mundo del Rio 01 - A Vuestros Cuerpos Dispersos.mobi
+|       Mundo del Rio 02 - El Fabuloso Barco Fluvial.mobi
+|       Mundo Infierno.mobi
+|       
++---Philip K. Dick
+|       Acto De Novedes.prc
+|       Adios Vincent.prc
+|       Aguardando al ano pasado.prc
+|       Algo Para Nosotros Temponautas.prc
+|       algunas peculiaridades de los ojos.prc
+|       AQUI YACE EL WUB.prc
+|       Automacion.prc
+|       Cadbury el castor que fracaso.prc
+|       Cadenas de aire telaranas de Eter.prc
+|       calavera.prc
+|       canion.prc
+|       Cantata 140.prc
+|       Cargo de suplente_maximo.prc
+|       Colonia.prc
+|       constructor.prc
+|       Coto De Caza.prc
+|       Cuentos completos 5.prc
+|       Cura a mi hija mutante.prc
+|       defensores.prc
+|       Desajuste.prc
+|       Desayuno en el Crepusculo.prc
+|       Detras de la Puerta.prc
+|       Deus irae.prc
+|       Dr Bloodmoney.prc
+|       El Abonado.prc
+|       El Ahorcado.prc
+|       El arma aniquiladora.prc
+|       El artefacto precioso.prc
+|       El Canon.prc
+|       El Caso Rautavaara.prc
+|       El Cliente Perfecto.prc
+|       El Constructor.prc
+|       El Cuento Final De Todos Los Cuentos.prc
+|       El dia en que el senior computadora.prc
+|       El Fabricante De Capuchas.prc
+|       EL FACTOR LETALl.prc
+|       El gran C.prc
+|       El Hombre del castillo.mobi
+|       El hombre dorado.prc
+|       El Hombre Variable.prc
+|       El Informe De La Minoria.prc
+|       El Martillo De Vulcano.prc
+|       El Mundo Contra Reloj.prc
+|       El Mundo De Jon.prc
+|       El Mundo Que Ella Deseaba.prc
+|       El Ojo De La Sibila.prc
+|       El Padre_cosa.prc
+|       El Planeta Imposible.prc
+|       El Precio De La Imitacion.prc
+|       El Rey De Los Elfos.prc
+|       El Tiempo Doblado.prc
+|       El Ultimo Experto.prc
+|       En El Jardin.prc
+|       En Tierra Sombria.prc
+|       Equipo De Ajuste.prc
+|       Equipo De Exploracion.prc
+|       Estabilidad.prc
+|       Extranos Recuerdos De Muerte.prc
+|       Flautistas En El Bosque.prc
+|       Fluyan Mis Lagrimas Dijo El Policia.prc
+|       Foster Estas Muerto.prc
+|       Gestarescala.prc
+|       Humano Es.prc
+|       Impostor.prc
+|       Ir Tirando.prc
+|       James P. Crow.prc
+|       Juego De Guerra.prc
+|       La Arana Acuatica.prc
+|       La Barrera De Cromo.prc
+|       La Calavera.prc
+|       La Cripta De Cristal.prc
+|       La Estratagema.prc
+|       La Fe De Nuestros Padres.prc
+|       La Guerra Contra Los Fnuls.prc
+|       La Hormiga Electrica.prc
+|       La Invasion Divina.prc
+|       La Jugada.prc
+|       La M No Reconstruida.prc
+|       La Maqueta.prc
+|       La Maquina Preservadora.prc
+|       La Mente Alien.prc
+|       La Nave De Ganimedes.prc
+|       La Nave Humana.prc
+|       La Ninera.prc
+|       La Paga Del Duplicador.prc
+|       LA PENULTIMA VERDAD.prc
+|       La Pequena Caja Negra.prc
+|       La Pequenia Rebelion.prc
+|       La Puerta De Salida Lleva Adentro.prc
+|       La Rana Infatigable.prc
+|       La Segunda Variedad.prc
+|       La Transmigracion De Timothy Archer.prc
+|       La Vida Efimera Y Feliz Del Zapato Marron.prc
+|       La Viejecita De Las Galletas.prc
+|       Laberinto De Muerte.prc
+|       Las Prepersonas.prc
+|       Lo Que Dicen Los Muertos.prc
+|       Los Cazadores Cosmicos.prc
+|       Los Clanes De La Luna Alfana.prc
+|       Los Defensores.prc
+|       Los Dias De Preciosa Pat.prc
+|       Los Infinitos.prc
+|       Los Jugadores De Titan.prc
+|       Los Marcianos Llegan En Oleadas.prc
+|       Los Reptadores.prc
+|       Los Simulacros.prc
+|       Los Tres Estigmas De Palmer Eldritch.prc
+|       Loteria Solar.prc
+|       Mary Y El Gigante.prc
+|       Mecanismo De Recuperacion.prc
+|       Munecos Cosmicos.prc
+|       No Por Su Cubierta.prc
+|       Nosotros Los Exploradores.prc
+|       Nuestros Amigos De Frolik 8.prc
+|       Nul-o.prc
+|       Oh Ser Un Blobel.prc
+|       Ojo En El Cielo.prc
+|       Orfeo Con Pies De Arcilla.prc
+|       Partida De Revancha.prc
+|       Pieza De Coleccion.prc
+|       Planeta De Paso.prc
+|       Planetas Morales.prc
+|       Podemos Construirle.prc
+|       Podemos Recordarlo Todo Por Usted.prc
+|       Problemas Con Las Burbujas.prc
+|       Progenie.prc
+|       Proyecto Tierra.prc
+|       Que Haremos Con Ragland Park.prc
+|       Quisiera Llegar Pronto.prc
+|       Radio Libre Albemuth.prc
+|       Roog.prc
+|       Sacrificio.prc
+|       Sagrada Controversia.prc
+|       Ser Un Blobel.prc
+|       Servicio De Reparaciones.prc
+|       Servir Al Amo.prc
+|       Serviralamo.prc
+|       Si Encuentran Ustedes Este Mundo Malo.prc
+|       Si No Existiera Benny Cemoli.prc
+|       Sindrome De Retirada.prc
+|       Sivainvi.prc
+|       Sobre La Desolada Tierra.prc
+|       Sobre Manzanas Marchitas.prc
+|       Su Cita Sera Ayer.prc
+|       Suspension Defectuosa.prc
+|       Tiempo De Marte.prc
+|       Tiempo Desarticulado.prc
+|       Tony Y Los Escarabajos.prc
+|       Torneo Mortal.prc
+|       Ubik.mobi
+|       Un Mundo De Talentos.prc
+|       Un Paraiso Extrano.prc
+|       Un Recuerdo.prc
+|       Un Regalo Para Pat.prc
+|       Una Incursion En La Superficie.prc
+|       Una Mirada A La Oscuridad.prc
+|       Valis.prc
+|       Veterano De Guerra.prc
+|       Vida Efimera Y Feliz Del Zapato Marron.prc
+|       Visita A Un Planeta Extra�o.prc
+|       Y Gira La Rueda.prc
+|       Yo Estoy Vivo y Vosotros Estais Muertos.prc
+|       �Sue�an los androides con ovejas electricas� (Blade runner).prc
+|       
++---Philip Kerr
+|       Berlin Noir 05 - Una Llama Misteriosa - Philip Kerr.prc
+|       Kerr Philip - Berlin Noir 03 - Requiem Aleman - Philip Kerr.mobi
+|       Palido Criminal BN02 Philip Kerr - Philip Kerr.mobi
+|       Si Los Muertos No Resucitan BN06 - Philip Kerr.mobi
+|       Unos Por Otros BN4 - Philip Kerr.prc
+|       Violetas De Marzo BN01 - Philip Kerr.mobi
+|       
++---Philippe Claudel
+|       Almas grises.mobi
+|       El informe de Brodeck.azw
+|       
++---Pierre Boulle
+|       El Buen Leviatan.prc
+|       El Planeta de los Simios.prc
+|       
++---Pierre Dukan
+|       No consigo adelgazar.mobi
+|       
++---Pilar Urbano
+|       Jefe Atta_ El secreto de la Casa Blanca.mobi
+|       
++---Pio Baroja
+|       Zalacain el aventurero.mobi
+|       
++---Poul Anderson
+|   |   A Traves De Los Tiempos.prc
+|   |   Bruma Estelar.prc
+|   |   Cambio De Planes.prc
+|   |   Carne Compartida.prc
+|   |   Cita Galactica.prc
+|   |   Correo Del Caos.prc
+|   |   Cosecha De Estrellas.prc
+|   |   Cuidado Terrestre.prc
+|   |   Cumplimiento Fatal.prc
+|   |   Delenda Est.prc
+|   |   Duelo En Sirte.prc
+|   |   El Avatar.mobi
+|   |   El A�o Del Rescate.prc
+|   |   El Barbaro.prc
+|   |   El Camarada.prc
+|   |   El Campamento.prc
+|   |   El Canto Del Chivo.prc
+|   |   El Cielo En Desintegracion 1953.prc
+|   |   El Cobarde Vivo.prc
+|   |   El Crepusculo Del Mundo.prc
+|   |   El Dia En Llamas.prc
+|   |   El Hombre Queb Llego Temprano.prc
+|   |   El Hombre Sensible.prc
+|   |   El Juego De Saturno.prc
+|   |   El Mundo De Satan.prc
+|   |   El Pesar De Odin El Godo.prc
+|   |   El problema del dolor.prc
+|   |   El Pueblo Del Aire.prc
+|   |   El Pulgar Verde.prc
+|   |   El Quijote y el molino de viento.prc
+|   |   El Saqueador De Estrellas.prc
+|   |   El sheriff De Canyon Gulch.prc
+|   |   El Unico Juego Entre Los Hombres.prc
+|   |   El Valor De Cappen Varra.prc
+|   |   El Viaje Mas Largo.prc
+|   |   En Orbita.prc
+|   |   Epilogo.prc
+|   |   Escudo Invulnerable.prc
+|   |   Estado De Emergencia.prc
+|   |   Estrella del mar.prc
+|   |   Eutopia.prc
+|   |   Extranjeros En La Tierra.prc
+|   |   Fantasmas.prc
+|   |   Fe.prc
+|   |   Fin Del Capitulo.prc
+|   |   Gheto.prc
+|   |   Gitano.prc
+|   |   Guerra De Alados.prc
+|   |   Joe.prc
+|   |   La aventura del sabueso impostor.prc
+|   |   La Caverna De Platon.prc
+|   |   La Espada Rota.mobi
+|   |   La Fiera Y La Bella.prc
+|   |   La Gran Cruzada.prc
+|   |   La Luna Del Cazador.prc
+|   |   La Luz 1957.prc
+|   |   La Nave De Un Millon De Anos.prc
+|   |   La Onda Cerebral.prc
+|   |   La puerta de los cuchillos volantes.prc
+|   |   La Reina Del Aire Y La Oscuridad.prc
+|   |   La Saga De Hrolf Kraki.prc
+|   |   La Ultima Medicina.prc
+|   |   La unica partida en esta ciudad.prc
+|   |   Las Cascadas De Gibraltar.prc
+|   |   Las Estrellas Son De Fuego.prc
+|   |   Lo Mejor De Poul Anderson.prc
+|   |   Los Corredores Del Tiempo.prc
+|   |   Los Hijos Del Ma�ana.prc
+|   |   Marfil Monas Y Pavos Reales.prc
+|   |   Memoria.prc
+|   |   Mensajero Del Futuro.prc
+|   |   Mirkheim.prc
+|   |   Ningun Hombre Escapa A Su Destino.prc
+|   |   No Habra Tregua Para Los Reyes.prc
+|   |   Operacion Genio.prc
+|   |   Patente de corso.prc
+|   |   Piratas espaciales.prc
+|   |   Planeta hermano.prc
+|   |   Punto Decisivo.prc
+|   |   Reina Aire.prc
+|   |   Relatos De Inmortales.prc
+|   |   Sam Hall.prc
+|   |   Seleccion De Relatos Cortos.prc
+|   |   Sin Mundo Propio.prc
+|   |   Tau Cero.prc
+|   |   Tiempo de fuego.prc
+|   |   Tres Corazones Y Tres Leones.prc
+|   |   Un trozo de noche.prc
+|   |   Valiente Para Ser Rey.prc
+|   |   
+|   \---Guardianes Del Tiempo
+|           01 - Guardianes Del Tiempo.prc
+|           02 - Valiente Para Ser Rey.prc
+|           03 - El Unico Juego Entre Los Hombres.prc
+|           04 - Delenda Est.prc
+|           
++---R. A. Salvatore
+|   |   El siervo de la Piedra - Los Mercenarios [ESP].mobi
+|   |   
+|   +---La Guerra de la Reina Ara�a
+|   |       La Guerra De La Reina Arana 01 - Desintegracion - Byers Richard Lee.prc
+|   |       La Guerra De La Reina Arana 02 - Insurrecion - Thomas M. Reid.prc
+|   |       La Guerra De La Reina Arana 03 - Condenacion - Baker Richard.prc
+|   |       La Guerra De La Reina Arana 04 - Extincion - Smedman Lisa.prc
+|   |       La Guerra De La Reina Arana 05 - Aniquilacion - Athans Philip.prc
+|   |       La Guerra De La Reina Arana 06 - Resurreccion - Kemp Paul.prc
+|   |       
+|   +---La sombra carmesi
+|   |       01 - La espada de Bedwyr.prc
+|   |       02 - Jaque al Rey.mbp
+|   |       02 - Jaque al Rey.prc
+|   |       
+|   +---Pentalogia del clerigo
+|   |       01 - Cantico.prc
+|   |       02 - En Los Bosques Silvanos.prc
+|   |       03 - Mascaras De La Noche.prc
+|   |       04 - La fortaleza perdida.prc
+|   |       05 - La maldicion del caos.mbp
+|   |       05 - La maldicion del caos.prc
+|   |       
+|   \---Saga El Elfo Oscuro
+|           01 - La Morada.prc
+|           02 - El Exilio.prc
+|           03 - El Refugio.prc
+|           04 - La Piedra de Cristal.prc
+|           05 - Rios de plata.mobi
+|           06 - La Gema Del Halfling.prc
+|           07 - El Legado.prc
+|           08 - Noche Sin Estrellas.prc
+|           09 - Cerco de Oscuridad.prc
+|           10 - Luz en Las Tinieblas.prc
+|           11 - El estigma de Errtu.prc
+|           12 - La columna del mundo.prc
+|           13 - El Siervo de La Piedra.prc
+|           14 - El mar de las espadas.prc
+|           15 - Los mil orcos.prc
+|           16 - Los Senderos de la Muerte.mobi
+|           17 - Las dos espadas.prc
+|           
++---Rabih Alameddine
+|       El contador de historias.azw
+|       
++---Rafael Alberti
+|       La arboleda perdida.mobi
+|       Marinero en tierra.mobi
+|       
++---Rafael Sabatini
+|       El Capitan Blood.mobi
+|       
++---Ramiro Calle
+|       101 Cuentos Clasicos de la India.mobi
+|       El Faquir.mobi
+|       
++---Ramsey Campbell
+|       Nazareth Hill.azw
+|       
++---Rand Miller &amp; Robyn Miller
+|       Myst.prc
+|       
++---Raphael Lafferty
+|       Salomas Del Espacio.mobi
+|       
++---Raquel S*nchez Silva
+|       Cambio Principe por Lobo Feroz - Raquel Sanchez Silva.mobi
+|       
++---Ray Bradbury
+|       Cronicas marcianas.mobi
+|       El Hombre Ilustrado.mobi
+|       Farenheit 451, El parque de juegos, Y la roca grito.mobi
+|       
++---Raymond Chandler
+|       El Largo Adios [ESP].mobi
+|       El Sue�o Eterno [ESP].mobi
+|       Los Chantajistas no Disparan [ESP].mobi
+|       Tristezas de Bay City [ESP].mobi
+|       
++---Raymond Khoury
+|       La se�al.mobi
+|       Santuario.azw
+|       
++---Reinos Olvidados
+|       01 - Moonshaes I - El pozo de las Tinieblas.mobi
+|       01 - Moonshaes II - El Dios de la Muerte.mobi
+|       01 - Moonshaes III - La Vengaza de Bhaal.mobi
+|       02 - El Tatuaje Azul I.mobi
+|       02 - El Tatuaje Azul II - El Espolon del Wyvern.mobi
+|       02 - El Tatuaje Azul III - El Cantico de los Saurios.mobi
+|       06 - Avatar I - Las Tablas del Destino.mobi
+|       06 - Avatar II - Tantras.mobi
+|       06 - Avatar III - Aguas Profundas.mobi
+|       09 - Maztica I - Yelmos de Hierro.mobi
+|       09 - Maztica II - Erixitl De Palul.mobi
+|       09 - Maztica III - Qotal Y Zaltec.mobi
+|       14 - Puerta De Baldur I.mobi
+|       14 - Puerta De Baldur II - Sombras De Amn.mobi
+|       16 - Los Arpistas I - La Venganza Elfa.mobi
+|       16 - Los Arpistas II - Cancion Elfica.mobi
+|       16 - Los Arpistas III - Sombras de Plata.mobi
+|       16 - Los Arpistas IV - El Baston del Espino.mobi
+|       16 - Los Arpistas V - Las Esferas de Sue�os.mobi
+|       
++---Revista Sucesos
++---Rex Warner
+|       Cesar 1. El joven Cesar.mobi
+|       Cesar 2. Cesar imperial.mobi
+|       Pericles el ateniense.mobi
+|       
++---Reyes Monforte
+|       La rosa escondida.azw
+|       Un burka por amor.azw
+|       
++---Rhonda Byrne
+|       El Secreto.mobi
+|       
++---Richard A. Knaak
+|   \---Reino Dragones
+|           01 - Dragones de fuego.prc
+|           02 - Dragones de hielo.prc
+|           03 - El Devastador.prc
+|           04 - Caballo oscuro.prc
+|           05 - El dragon de cristal.prc
+|           
++---Richard Adams
+|       La Colina de Watership.mobi
+|       
++---Richard Awlinson
+|       01 - Las tablas del destino.prc
+|       02 - Tantras.prc
+|       03 - Aguas profundas.prc
+|       
++---Richard Dawkins
+|       El espejismo de Dios [ESP].mobi
+|       
++---Richard K. Morgan
+|       Carbono alterado.azw
+|       
++---Richard Matheson
+|       El hombre menguante.mobi
+|       La casa infernal.mobi
+|       Las playas del espacio.mobi
+|       M*s all* de los sue�os.mobi
+|       Soy leyenda.azw
+|       
++---Richard Scott Bakker
+|       Principe de la nada 1 - En el principio fue la oscuridad.mobi
+|       
++---Rober Arthur
+|       [LTI 01] El misterio del castillo del terror.mobi
+|       [LTI 02] El misterio del loro tartamudo.mobi
+|       [LTI 03] El misterio de la momia.mobi
+|       [LTI 04] El misterio del fantasma verde.mobi
+|       [LTI 05] El misterio del tesoro desaparecido.mobi
+|       [LTI 06] El misterio de la isla del esqueleto.mobi
+|       [LTI 07] El misterio del ojo de fuego.mobi
+|       [LTI 09] El misterio del reloj chillon.mobi
+|       [LTI 10] El Misterio de la Cueva de los Lamentos.mobi
+|       
++---Robert A. Heinlein
+|       Amos de titeres.prc
+|       Caballeros Permanezcan Sentados.prc
+|       Cadete del Espacio.prc
+|       Cita en la eternidad.prc
+|       Ciudadano De La Galaxia.prc
+|       Colon era un cretino.prc
+|       Consigue Un Traje Espacial Viajaras.prc
+|       El a�o final.prc
+|       El dia de pasado ma�ana.prc
+|       El Gato que Atraviesa las Paredes.prc
+|       El Holgazan.prc
+|       El numero de la bestia.prc
+|       Estrella doble.prc
+|       Forastero en tierra extra�a.prc
+|       Hagase La Luz.prc
+|       Hija De Marte.prc
+|       Historia del futuro 1.prc
+|       Historia del futuro 2.prc
+|       Historia del futuro 3.prc
+|       Historia del futuro 4.prc
+|       Historia del hombre que era demasiado perezoso para fracasar.prc
+|       Horizontes futuros.prc
+|       Huerfanos del espacio.prc
+|       Job, una comedia de justicia [ESP].mobi
+|       Jones el hombre estelar.prc
+|       La bestia estelar.prc
+|       La desagradable profesion de Jonathan Hoag.mobi
+|       La hora de las estrellas.prc
+|       La larga guardia.prc
+|       La Linea de la Vida.prc
+|       La luna es una cruel amante.prc
+|       La puerta del tiempo.prc
+|       Las 100 Vidas de Lazarus Long.prc
+|       Las Verdes Colinas De La Tierra.prc
+|       Los dominios de Farnham.prc
+|       Los Hijos de Matusalen.prc
+|       Los Negros Fosos De La Luna.prc
+|       Magic Inc.prc
+|       Mas alla del horizonte.prc
+|       Mundo futuro.prc
+|       Podkayne de Marte.prc
+|       Por sus propios medios.prc
+|       Puerta al verano.prc
+|       Rebelion en el espacio.prc
+|       Revuelta En El 2100.prc
+|       Ruta de gloria.prc
+|       Seleccion de relatos cortos.prc
+|       Solucion Insatisfactoria.prc
+|       Tambien Paseamos Perros.prc
+|       Tiempo para amar.prc
+|       Todos Ustedes Zombis.prc
+|       Tropas del espacio Starship troopers.prc
+|       Tunel En El Espacio.prc
+|       Una pecera con peces de colores.prc
+|       Una Puerta Al Verano.prc
+|       Universo.prc
+|       Viaje Mas Alla del Crepusculo.prc
+|       Viernes.prc
+|       
++---Robert Bloch
+|       Amanecer.prc
+|       Atentamente Suyo.mbp
+|       Atentamente Suyo.prc
+|       Cierra.prc
+|       Cria Cuervos.prc
+|       Cuaderno Hallado En Una Casa Deshabitada.prc
+|       Cuestion De Etiqueta.prc
+|       Dulces Para Esa Dulzura.prc
+|       El Aprendiz De Brujo.prc
+|       El Beso Siniestro.prc
+|       El Cuarto De Goma.prc
+|       El Demonio En La Tierra.prc
+|       El Dios Sin Cara.prc
+|       El Extra�o Vuelo De Richard Clayton.prc
+|       El Homunculo.prc
+|       El Horror Que Nos Acecha.prc
+|       Enoch.prc
+|       Ensayo.prc
+|       Espejismo.prc
+|       Fruto Negro.prc
+|       Gente De Cine.prc
+|       Hierba Gatera.prc
+|       Hombre Con Manias.prc
+|       Juliette.prc
+|       La Capa.prc
+|       La Casa Del Hacha.prc
+|       La Guada�a.prc
+|       La Mueca Del Monstruo.prc
+|       La Noche del Destripador.mobi
+|       La Risa Del Vampiro.prc
+|       La Sombra Que Huyo Del Chapitel.prc
+|       Las Figurillas De Barro.prc
+|       Las Lentes Enganosas.prc
+|       Los Ojos De La Momia.prc
+|       Los Yugoslavos.prc
+|       Madre De Serpientes 1964.prc
+|       Mi Monstruo De Ojos Saltones.prc
+|       Piromano.prc
+|       Psicosis.prc
+|       Que Viene El Lobo.prc
+|       Sucedio Manana.prc
+|       Talento.prc
+|       Terror Hollywood.prc
+|       Terror.prc
+|       Un Crimen Fuera De Lo Corriente.prc
+|       Un hombre con una aficion.prc
+|       Una Botella De Gin.prc
+|       Una Cuestion De Identidad.prc
+|       
++---Robert Carter
+|   \---Lenguaje de las Piedras
+|           01 - El lenguaje de las piedras.prc
+|           02 - La Danza de los Gigantes.prc
+|           
++---Robert Charles Wilson
+|       Solo una muerte en Lisboa.mobi
+|       Testigos de las estrellas .azw
+|       
++---Robert E. Howard
+|   |   Almuric.prc
+|   |   Cancion de las espadas2.prc
+|   |   El Dios del Cuenco.prc
+|   |   El Hombre Oscuro.prc
+|   |   El jardin del miedo.prc
+|   |   En el bosque de villefere.prc
+|   |   Exilio De Atlantis.prc
+|   |   Gusanos de la Tierra.prc
+|   |   Hombres de las sombras.prc
+|   |   La cosa en el tejado.prc
+|   |   La Hija Del Gigante Helado.prc
+|   |   La piedra negra.prc
+|   |   La raza perdida.prc
+|   |   La Torre del Elefante.prc
+|   |   Las Aventuras de Solomon Kane.mobi
+|   |   Palomos Del Infierno.prc
+|   |   Reino de las sombras.prc
+|   |   Rey Kull.prc
+|   |   Reyes de la noche.prc
+|   |   Sonya la roja.prc
+|   |   
+|   \---Los caminantes de Valhalla
+|           El valle del gusano.prc
+|           
++---Robert Graves
+|       Claudio el dios.mobi
+|       El conde Belisario, el ultimo general romano.mobi
+|       El vellocino de oro.mobi
+|       La guerra de Troya.mobi
+|       Los mitos griegos 1.mobi
+|       Los mitos griegos 2.mobi
+|       Rey Jesus.mobi
+|       Yo Claudio.mobi
+|       �ltimas aventuras del sargento Lamb.mobi
+|       
++---Robert Harris
+|       Conspiracion.mobi
+|       El hijo de Stalin.azw
+|       El poder en la sombra.mobi
+|       Enigma.prc
+|       Imperium.mobi
+|       Patria.prc
+|       Pompeya.mobi
+|       
++---Robert J. Sawyer
+|       Cambio de esquemas.mobi
+|       Como en los viejos tiempos.mobi
+|       Corriente de conciencia.mobi
+|       El calculo de Dios.mobi
+|       Factor de humanidad.mobi
+|       Mindscan.azw
+|       Paralaje Neanderthal 01 - Hominidos.mobi
+|       Paralaje Neanderthal 02 - Humanos.mobi
+|       Paralaje Neanderthal 03 - Hibridos.mobi
+|       Recuerdos del futuro (Flashforward ).azw
+|       
++---Robert Jordan
+|       La rueda del tiempo 00 - Nueva primavera.prc
+|       La rueda del tiempo 01 - El ojo del mundo.prc
+|       La rueda del tiempo 02 -  El despertar de los heroes.mobi
+|       La rueda del tiempo 03 - El dragon renacido.mobi
+|       La rueda del tiempo 04 - Los portales de piedra.mobi
+|       La rueda del tiempo 05 - El yermo de Aiel.mobi
+|       La rueda del tiempo 06 - La torre blanca.mobi
+|       La rueda del tiempo 07 - Cielo en llamas.mobi
+|       La rueda del tiempo 08 - El se�or del caos.mobi
+|       La rueda del tiempo 09 - Los Asha'man.mobi
+|       La rueda del tiempo 10 - El cuenco de los vientos.mobi
+|       La rueda del tiempo 11 - La corona de espadas.mobi
+|       La rueda del tiempo 12 - El Camino de dagas.mobi
+|       La rueda del tiempo 13 - Nuevas alianzas.mobi
+|       La rueda del tiempo 14 - El corazon del invierno.mobi
+|       La rueda del tiempo 15 - La Hija De Las Nueve Lunas.mobi
+|       La rueda del tiempo 16 - Encrucijada en el crepusculo.mobi
+|       La rueda del tiempo 17 - Asedio a Tar Valon.mobi
+|       La rueda del tiempo 18 - Cuchillo de sue�os.mobi
+|       
++---Robert Louis Stevenson
+|       El Diablo en la Botella y Otros Cuentos [ESP].mobi
+|       El Extra�o Caso del Dr. Jekyll y Mr. Hyde [ESP].mobi
+|       
++---Robert Ludlum
+|       El caso Bourne [ESP].mobi
+|       El mito de Bourne.mobi
+|       El Ultimatum de Bourne.mobi
+|       
++---Robert Merle
+|       Malevil.azw
+|       
++---Robert Musil
+|       Las tribulaciones del estudiante Torless.prc
+|       Tres mujeres.prc
+|       
++---Robert Reed
+|       Medula.mobi
+|       
++---Robert Silverberg
+|       La torre de cristal.mobi
+|       Tiempo de cambios.mobi
+|       
++---Robert van Gulik
+|       El Biombo Lacado [ESP].mbp
+|       El Biombo Lacado [ESP].mobi
+|       El Pabellon Rojo [ESP].mobi
+|       Los Asesinos de la Campana China [ESP].mobi
+|       Tres Cuentos Chinos [ESP].mobi
+|       
++---Roberto Arlt
+|       Los siete locos.prc
+|       
++---Roberto Bola�o
+|       2666.azw
+|       La pista de hielo.prc
+|       Llamadas telefonicas.prc
+|       Los detectives salvajes.mobi
+|       Putas asesinas.prc
+|       
++---Roberto Fontanarrosa
+|       No se si he sido Claro [ESP].mobi
+|       
++---Roberto Saviano
+|       Gomorra.mobi
+|       
++---Robin Cook
+|       Abduccion.mobi
+|       Ceguera Asesina.mobi
+|       Cerebro.mobi
+|       Coma.mobi
+|       Como si Fuera Dios.mobi
+|       Contagio.mobi
+|       Convulsion.mobi
+|       Cromosoma 6.mobi
+|       Epidemia.mobi
+|       Fiebre.mobi
+|       Intencion criminal.mobi
+|       Invasion.mobi
+|       La esfinge.mobi
+|       La manipulacion de las mentes.mobi
+|       Los archivos de Salem.mobi
+|       Miedo mortal.mobi
+|       Mutacion.mobi
+|       Riesgo aceptable.mobi
+|       Shock.mobi
+|       Signos vitales.mobi
+|       Terminal.mobi
+|       Toxina.mobi
+|       Tratamiento letal.mobi
+|       Vector.mobi
+|       
++---Robinson Rojas
+|       �stos mataron a Kennedy.azw
+|       
++---Rodolfo Martinez
+|       Sherlock Holmes y la sabiduria de los muertos.mobi
+|       
++---Roger Zelazny
+|   \---Los Principes de Ambar
+|           01 - Los nueve Principes de Ambar.prc
+|           02 - Las armas de Avalon.mbp
+|           02 - Las armas de Avalon.prc
+|           03 - El signo del unicornio.prc
+|           04 - La mano de Oberon.prc
+|           05 - Las cortes del caos.prc
+|           
++---Rosa Montero
+|       Amado amo.mobi
+|       Amantes y enemigos.mobi
+|       Bella y oscura.mobi
+|       El corazon del t*rtaro.mobi
+|       Historia del rey transparente.mobi
+|       La hija del canibal.mobi
+|       La loca de la casa.mobi
+|       
++---Ruben Dario
+|       Poemas.mobi
+|       
++---Ruth Rendell
+|       Algunos mienten, otros mueren.mbp
+|       Algunos mienten, otros mueren.mobi
+|       Dedicatoria mortal.mobi
+|       Despues del asesinato.mobi
+|       El precio de la vanidad.mobi
+|       En la oscuridad del bosque.mobi
+|       Falsa identidad.mobi
+|       La casa secreta de la muerte.mobi
+|       La estampa del diablo.mobi
+|       Lobo para el matadero.mobi
+|       Los hilos del azar.mobi
+|       Un cadaver para la boda.mobi
+|       Uno horizontal, dos vertical.mobi
+|       
++---Ryunosuke Akutagawa
+|       En el bosque.mobi
+|       Rashomon.mobi
+|       Sennin.mobi
+|       
++---S. D. Perry
+|   \---Resident Evil
+|           00-Hora Cero.prc
+|           01-La Conspiracion Umbrella.prc
+|           02-La Ensenada Caliban.prc
+|           03-La Ciudad de los Muertos.prc
+|           04-Inframundo.prc
+|           05-Nemesis.prc
+|           06-Codigo Veronica.prc
+|           
++---Salvador Freixedo
+|       !Defendamonos de los Dioses!.mobi
+|       
++---Salvador Salazar Arrue
+|       Cuento de Cipotes.mobi
+|       
++---Sam Bourne
+|       El Testamento Final.mobi
+|       Los 36 Hombres Justos.mobi
+|       
++---Sam Savage
+|       Firmin [ESP].mobi
+|       
++---Samuel R. Delany
+|       Babel-17.mobi
+|       
++---Sandra Brown
+|       Anhelos Ocultos.prc
+|       Caricias Ardientes.prc
+|       Charada.prc
+|       Cuando el rio suena.prc
+|       Del Infierno Al Paraiso.prc
+|       El precio de la victoria.prc
+|       Imagen En El Espejo.prc
+|       La Coartada Imposible.prc
+|       La Entrevista.prc
+|       La Exclusiva.prc
+|       Los Secretos Mejor Guardados.prc
+|       Odio En El Paraiso.prc
+|       Romance Silencioso.prc
+|       Sedas De Francia.prc
+|       Testigo.prc
+|       Todo Por Honor.prc
+|       Un Largo Atardecer.prc
+|       Un Nuevo Amanecer.prc
+|       
++---Sandra Viglione
+|   \---El Trigono
+|           1 -  Los guardianes del trigono - Viglione, Sandra_2079.prc
+|           2 -  La llave del Tiempo - Viglione, Sandra_2080.prc
+|           
++---Santiago Camacho
+|       Biografia no autorizada del Vaticano.mobi
+|       
++---Santiago Fisas
+|       historia de reyes y reinas de los austrias.mobi
+|       intimidades de la historia.mobi
+|       
++---Santiago Posteguillo
+|       Africanus. el hijo del consul.mobi
+|       La traicion de Roma.mobi
+|       Las legiones malditas.mobi
+|       
++---Sarah Shun-lien Bynum
+|       Las cronicas de la senorita Hempel.mobi
+|       
++---Saul Bellow
+|       Carpe Diem.prc
+|       
++---Sebastian Haffner
+|       Historia de un aleman (Memorias 1914-193 - Sebastian Haffner.mobi
+|       
++---Seierstad Asne
+|       El librero de Kabul.mobi
+|       
++---Sergiusz Piasecki
+|       El enamorado de la Osa Mayor.mobi
+|       
++---Seth Grahame-Smith
+|       Orgullo y prejuicio y zombis.mobi
+|       
++---Sharon Kay Penman
+|       La guerra de las rosas I. El sol en esplendor.mobi
+|       
++---Shusaku Endo
+|       El samur*i.mobi
+|       
++---Simon Beckett
+|       Entre las Cenizas.mobi
+|       La Quimica de la Muerte.mobi
+|       
++---Simon Green R
+|       Nocturnia.mobi
+|       
++---Simon Levack
+|       La Sombra De Los Dioses.mobi
+|       
++---Simon Scarrow
+|       01 El aguila del imperio [ESP].mbp
+|       01 El aguila del imperio [ESP].mobi
+|       02 Roma vincit [ESP].mobi
+|       03 Las garras del aguila [ESP].mobi
+|       04 Los lobos del aguila [ESP].mobi
+|       05 El aguila abandona Britania [ESP].mobi
+|       06 La profecia del aguila [ESP].mobi
+|       07 El aguila en el desierto [ESP].mobi
+|       08 Centurion [ESP].mobi
+|       09 El Gladiador [ESP].mobi
+|       
++---Spencer Johnson
+|       Quien se ha llevado mi queso.mobi
+|       
++---Stanley G. Weinbaum
+|       Lo Mejor de Stanley G. Weinbaum.prc
+|       
++---Star Trek
+|   +---Frontera final
+|   |       00 - Introduccion a Star Trek Final Frontier.prc
+|   |       01 - Dia de la Federacion 01.prc
+|   |       02 - Dia de la Federacion 02.prc
+|   |       03 - En la plenitud de mi vision.prc
+|   |       04 - Duro aprendizaje.prc
+|   |       05 - Parallax.prc
+|   |       06 - Las alturas de la vida.prc
+|   |       07 - En las tinieblas del engano.prc
+|   |       08 - Mas alla de los mitos.prc
+|   |       09 - En los campos de los senores.prc
+|   |       10 - La espera.prc
+|   |       11 - Historias de angeles y bestias.prc
+|   |       12 - Acto academico 01.prc
+|   |       13 - Acto academico 02.prc
+|   |       14 - Materia oscura.prc
+|   |       
+|   +---La nueva generacion
+|   |       03 - Supervivientes.prc
+|   |       06 - Zona de conflicto.prc
+|   |       
+|   \---Star Trek
+|           01 - El Efecto Entropia.prc
+|           02 - El Gambito De Los Klingon.prc
+|           03 - El Pacto De La Corona.prc
+|           04 - El proyecto Prometeo.prc
+|           05 - La Morada De La Vida.prc
+|           06 - Cooper Sonni - Fuego negro.prc
+|           07 - La telara�a de los Romulanos.prc
+|           08 - Triangulo.prc
+|           09 - El Hijo Del Ayer.prc
+|           10 - Por prescripcion facultativa.prc
+|           11 - Una bandera tachonada de estrellas.prc
+|           12 - El renegado.prc
+|           13 - Motin en la Enterprise.prc
+|           
++---Star Wars
+|       000 - [100.000 a 7000 ABY] - Formacion de la republica.prc
+|       001 - [10.000-8000 ABY] - La nueva cronologia esencial.prc
+|       002 - [3998-3996 ABY] - Luz y Sombra.prc
+|       003 - [3.998 ABY] - Caballeros de la Antigua Republica.prc
+|       004 - [1000 ABY] - Oscuridad compartida.prc
+|       005 - [1000 ABY] - Bane y la perdicion de los Sith.prc
+|       006 - [45 ABY] - El resurgir de la Fuerza.mobi
+|       007 - [45 ABY] - 02 - El rival oscuro.mobi
+|       008 - [44 ABY] - 03 - El pasado oculto.mobi
+|       009 - [44 ABY] - 04 - La marca de la corona.mobi
+|       010 - [44 ABY] - 05 - Los defensores de los muertos.mobi
+|       011 - [44 ABY] - 06 - Sendero desconocido.mobi
+|       012 - [44 ABY] - 07 - Cautivos del templo.mobi
+|       013 - [44 ABY] - 08 - Ajuste de cuentas.mobi
+|       014 - [43 ABY] - 09 - La lucha por la verdad.mobi
+|       015 - [42 ABY] - 10 - El fin de la paz.mobi
+|       016 - [42 ABY] - 11 - Caza letal.prc
+|       017 - [42 ABY] - 12 - Experimento maligno.prc
+|       018 - [42 ABY] - 13 - Rescate Peligroso.prc
+|       019 - [42 ABY] - 14 - Lazos que atan.prc
+|       020 - [41 ABY] - 15 - Muere la esperanza.prc
+|       021 - [41 ABY] - 16 - La llamada de la venganza.prc
+|       022 - [41 ABY] - 01 - Traiciones.prc
+|       023 - [40 ABY] - 17 - El unico testigo.prc
+|       024 - [39 ABY] - 2 - Los discipulos.prc
+|       025 - [34 ABY] - El monstruo.prc
+|       026 - [33 ABY] - Saboteador.prc
+|       027 - [33 ABY] - Velo de Traiciones.prc
+|       028 - [33 ABY] - El alzamiento del imperio - En busca de la jedi perdida.prc
+|       029 - [33 ABY] - El alzamiento del imperio - Los asesinos Bartokk.prc
+|       030 - [33 ABY] - La trampa del caza.prc
+|       031 - [32.5 ABY] - El alzamiento del imperio - Darth Maul el cazador en las tinieblas.prc
+|       032 - [32 ABY] - Episodio 1 - La Amenaza Fantasma.prc
+|       033 - [30 ABY] - El Planeta Misterioso.prc
+|       034 - [27 ABY] - Vuelo de Expansion.prc
+|       035 - [22 ABY] - Boba Fett 01 - La lucha para sobrevivir.prc
+|       036 - [23 ABY] - Ascension y caida de Darth Vader.prc
+|       037 - [22.5 ABY] - La llegada de la Tormenta.prc
+|       038 - [22 ABY] - Las Guerras Clon - Duelo.prc
+|       039 - [22 ABY] - Sacrificio en Pengalan.prc
+|       040 - [22 ABY] - Avisos de la Flota Tormenta.prc
+|       041 - [22 ABY] - Escuadron Omega Objetivos.prc
+|       042 - [22 ABY] - Punto de ruptura.prc
+|       043 - [22 ABY] - Equipo.prc
+|       044 - [22 ABY] - Las Guerras Clon - Mision Corellia.prc
+|       045 - [22 ABY] - Episodio II - El Ataque de los Clones.prc
+|       046 - [22 ABY] - Muerte en las catacumbas.prc
+|       047 - [22 ABY] - Liga de espias.prc
+|       048 - [22 ABY] - Sacrificio en Pengalan.prc
+|       049 - [21 ABY] - El alzamiento del imperio - Las guerras clon - Traicion en Cestus Revisado -.prc
+|       050 - [21 ABY] - El Legado de los Jedi.prc
+|       051 - [21 ABY] - Emisiones Sombra de la CSI.prc
+|       052 - [21 ABY] - Gaceta de las Sombras de la CSI.prc
+|       053 - [21 ABY] - Noticias de la HoloRed de la Republica.prc
+|       054 - [21 ABY] - La Colmena.prc
+|       055 - [21 ABY] - El heroe de Cartao.prc
+|       056 - [20 ABY] - La Prueba del Jedi.prc
+|       057 - [20 ABY] - El Laberinto del Mal.doc.prc
+|       058 - [20 ABY] - Episodio III - La Venganza de los Sith.prc
+|       059 - [20 ABY] - Intermezzo.prc
+|       060 - [20 ABY] - Temporada de Cambio.prc
+|       061 - [19 ABY] - Vendetta Oscura.prc
+|       062 - [19 ABY] - El alzamiento del imperio - Las guerras clon - Darth Vader el senor oscuro.prc
+|       063 - [19 ABY] - El alzamiento del imperio - Encuentro en la niebla.prc
+|       064 - [18 ABY] - 01 - Mision desesperada.prc
+|       065 - [18 ABY] - 02- Advertencia oscura.prc
+|       066 - [18 ABY] - 03 - Submundo.prc
+|       067 - [18 ABY] - 04 - Muerte en Naboo.prc
+|       068 - [18 ABY] - 05 - Una Red Enredada.prc
+|       069 - [18 ABY] - 06 - El Retorno del Lado Oscuro.prc
+|       070 - [18 ABY] - 07 - Arma Secreta.prc
+|       071 - [18 ABY] - 08 - Contra el Imperio.prc
+|       072 - [18 ABY] - 09 - Maestro del engano.prc
+|       073 - [18 ABY] - El Fantasma de los Sith.prc
+|       074 - [10 ABY] - 01 - La Trampa del Paraiso.prc
+|       075 - [05 ABY] - 02 - La maniobra Hutt.prc
+|       076 - [05 ABY] - 01 - Lando Calrissian y el arpa mental de los Sharu.prc
+|       077 - [03 ABY] - 01 - Mas alla de las estrellas.prc
+|       078 - [02 ABY] - 02 -  La Venganza de Han Solo.prc
+|       079 - [02 ABY] - Vagabundo de mundos.prc
+|       080 - [01 ABY] - 03 - Amanecer rebelde.prc
+|       081 - [01 ABY] - 03 - Han Solo y el legado perdido.prc
+|       082 - [00 ABY] - La ultima mano.prc
+|       083 - [00 DBY] - La sopa esta lista El relato del fumador de pipa.prc
+|       084 - [00 DBY] - Reunion de Intercambio.prc
+|       085 - [00 DBY] - La guerra de las galaxias.prc
+|       086 - [00 DBY] - Interludio en Darkknell.prc
+|       087 - [00 DBY] - Lealtad Completo.prc
+|       088 - [01 DBY] - Sin desintegraciones por favor.prc
+|       089 - [01 DBY] - Perlas en la Arena.prc
+|       090 - [01 DBY] - Perlas en la Arena.prc
+|       091 - [02 DBY] - El ojo de la mente.prc
+|       092 - [02 DBY] - Cruce doble en Ord Mantell.prc
+|       093 - [02 DBY] - X-wing - La Documentacin Farlander.prc
+|       094 - [03 DBY] - Episodio V -  El Imperio Contraataca.prc
+|       095 - [03 DBY] - Uhl Eharl Khoehng.prc
+|       096 - [03 DBY] - El Trofeo del Emperador.prc
+|       097 - [03 DBY] - Las Cronicas de Stele.prc
+|       098 - [03.5 DBY] - La rebelion - Sombras del imperio.prc
+|       099 - [04 DBY] - Episodio VI - El Regreso del Jedi.prc
+|       100 - [04 DBY] - Dia de la Noche Sepulcral.prc
+|       101 - [04 DBY] - La Tregua de Bakura.prc
+|       102 - [04 DBY] - La Tregua de Bakura.prc
+|       103 - [04 DBY] - La caida mas larga.prc
+|       104 - [05 DBY] - Reunion de sombras.prc
+|       105 - [05 DBY] - Lumiya estrella oscura del Imperio.prc
+|       106 - [05 DBY] - Gamer 2 - Un credito por tus pensamientos.prc
+|       107 - [65  DBY] - Ala-X 01 - El Escuadron Rebelde.prc
+|       108 - [65  DBY] - Ala-X 02 - La Apuesta de Wedge.prc
+|       109 - [65  DBY] - Ala-X 03 - La Trampa de Krytos.prc
+|       110 - [65  DBY] - Ala-X 04 - La guerra del bacta.prc
+|       111 - [07 DBY] - La nueva republica - Conflicto de intereses.prc
+|       112 - [08 DBY] - Al escondite hutt.prc
+|       113 - [08 DBY] - Interludio En Corphelion.prc
+|       114 - [08 DBY] - El cortejo de la princesa Leia.prc
+|       115 - [09 DBY] - 01 - Heredero del imperio.prc
+|       116 - [09 DBY] - 02  - El resurgir de la fuerza oscura.prc
+|       117 - [09 DBY] - 03 - La ultima orden.prc
+|       118 - [11 DBY] - 01 - La busqueda del Jedi.prc
+|       119 - [11 DBY] - 02 - El discipulo de la fuerza oscura.prc
+|       120 - [11 DBY] - 03 - Campeones de la fuerza.prc
+|       121 - [11 DBY] - Yo Jedi Incompleto solo 63 paginas.prc
+|       122 - [12 DBY] - La espada oscura.prc
+|       123 - [12 DBY] - Trucos simples.prc
+|       124 - [12 DBY] - Trilogia de Callista 1 - Los hijos de los Jedi.prc
+|       125 - [13 DBY] - Planeta de penumbra.prc
+|       126 - [16 DBY] - 01 - Antes de la tormenta.prc
+|       127 - [16 DBY] - 02 - Escudo de mentiras.prc
+|       128 - [16 DBY] - 03 - La prueba del tirano.prc
+|       129 - [17 DBY] - La Nueva Rebelion.prc
+|       130 - [17 DBY] - Solitario de Jade.prc
+|       131 - [18 DBY] - Trilogia de Corellia 1 - Emboscada en Corellia.prc
+|       132 - [18 DBY] - Trilogia de Corellia 2 - Ofensiva en Selonia.prc
+|       133 - [18 DBY] - Trilogia de Corellia 3 - Ajuste de Cuentas en Centralia.prc
+|       134 - [19 DBY] - La Mano de Thrawn 01 - Espectro del Pasado.prc
+|       135 - [19 DBY] - La Mano de Thrawn 02 - Vision del Futuro.prc
+|       136 - [20 DBY] - Pacto Subrepticio.prc
+|       137 - [22 DBY] - Cielo Rojo Llama Azul.prc
+|       138 - [22 DBY] - La peticion del Juez.prc
+|       139 - [23 DBY] - 01- Herederos de la fuerza.prc
+|       140 - [23 DBY] - 02 - La academia de la sombra.prc
+|       141 - [23 DBY] - 03 - Los perdidos.prc
+|       142 - [23 DBY] - 04 - Espadas de luz.prc
+|       143 - [23 DBY] - 05 - El Jedi mas oscuro.prc
+|       144 - [23 DBY] - 06 - Jedi bajo asedio.prc
+|       145 - [24 DBY] - El Cristal.prc
+|       146 - [25 DBY] - La Nueva Orden Jedi 01 - Vector Prime.prc
+|       147 - [25 DBY] - La Nueva Orden Jedi 02 - Marea Oscura I - Ofensiva.prc
+|       148 - [25 DBY] - La Nueva Orden Jedi 03 - Marea Oscura II - Desastre.prc
+|       149 - [25 DBY] - La Nueva Orden Jedi 04 - Agentes del Caos I - La Prueba del Heroe.prc
+|       150 - [25 DBY] - La Nueva Orden Jedi 05 - Agentes del Caos II - Eclipse Jedi.prc
+|       151 - [26 DBY] - La Nueva Orden Jedi 06 - Punto de equilibrio.prc
+|       152 - [26 DBY] - La Nueva Orden Jedi 07 - Recuperacion.prc
+|       153 - [26 DBY] - La Nueva Orden Jedi 08 - Al filo de la victoria I - Conquista.prc
+|       154 - [26 DBY] - La Nueva Orden Jedi 09 - Al filo de la victoria II - Renacimiento.prc
+|       155 - [27 DBY] - La nueva orden Jedi 11 - Elaine Cunningham Jornada oscura.prc
+|       156 - [28 DBY] - La Nueva Orden Jedi - Ylesia.prc
+|       157 - [40 DBY] - El legado de la fuerza 01 - Traicion.prc
+|       158 - [40 DBY] - El legado de la fuerza 02 - Lineas de sangre.prc
+|       Cronologia.prc
+|       Enciclopedia De Droides.prc
+|       Enciclopedia De Naves 1.prc
+|       Enciclopedia De Naves 2.prc
+|       Enciclopedia De Naves 3.prc
+|       Grandes Almirantes Imperiales.prc
+|       Gurps Star Wars Encyclopedia Galactica 1.prc
+|       Gurps Star Wars Encyclopedia Galactica 2.prc
+|       La Historia De Los Mandalor.prc
+|       
++---Stef Penney
+|       La ternura de los lobos.azw
+|       
++---Stefan Zweig
+|       Castalion Contra Calvino.mobi
+|       
++---Stella Gibbons
+|       La Hija De Robert Poste.mobi
+|       
++---Stephen Baxter
+|       Las naves del tiempo.azw
+|       
++---Stephen Hawking
+|       Agujeros Negros y Pequenos Universos.prc
+|       El Principio Antropico.prc
+|       El universo en una cascara de nuez [ESP].prc
+|       Historia Del Tiempo.mobi
+|       
++---Stephen King
+|       Almorzando en el Cafe Gotham [ESP].prc
+|       Apocalipsis Libro 1.prc
+|       Apocalipsis Libro 2.prc
+|       Buick 8, Un Coche Perverso [ESP].mobi
+|       Carretera Maldita [ESP].mobi
+|       Carrie [ESP].mobi
+|       Cell [ESP].mobi
+|       Cementerio de animales.mobi
+|       Christine [ESP].mobi
+|       Colorado Kid.mobi
+|       Cujo [ESP].mobi
+|       Desesperacion [ESP].mobi
+|       Dolores Claiborne [ESP].mobi
+|       El Cazador de Sue�os [ESP].mobi
+|       El ciclo del hombre lobo [ESP].mobi
+|       El Fugitivo [ESP].mobi
+|       El Misterio de Salem's Lot [ESP].mobi
+|       El Pasillo de la Muerte [ESP].mobi
+|       El Resplandor [ESP].mobi
+|       El Umbral de la Noche.mobi
+|       Historias Fantasticas [ESP].mobi
+|       Insomnio [ESP].mobi
+|       It [ESP].mobi
+|       La Chica que Amaba a Tom Gordon [ESP].mobi
+|       La Cupula [ESP].mobi
+|       La historia de Lisey [ESP].mobi
+|       La Larga Marcha [ESP].mobi
+|       La mitad siniestra [ESP].prc
+|       La Niebla [ESP].mobi
+|       La Tienda [ESP].mobi
+|       La Tormenta Del Siglo.prc
+|       La Torre Oscura 01 - La Hierba del Diablo.mobi
+|       La Torre Oscura 02 - La invocacion.mobi
+|       La Torre Oscura 03 - Las Tierras Baldias.mobi
+|       La Torre Oscura 04 - La Bola de Cristal.mobi
+|       La Torre Oscura 05 - Lobos del Calla.mobi
+|       La Torre Oscura 06 - Cancion de Susannah.mobi
+|       La Torre Oscura 07 - La Torre Oscura I.mobi
+|       La Torre Oscura 07 - La Torre Oscura II.mobi
+|       La Torre Oscura 07 - La Torre Oscura III.mobi
+|       La Torre Oscura 07 - La Torre Oscura IV.mobi
+|       La Torre Oscura 07 - La Torre Oscura V.mobi
+|       La Zona Muerta.prc
+|       Las 4 Estaciones I - El cuerpo.mobi
+|       Las 4 estaciones II - Oto�o e Invierno.mobi
+|       Los Lagolieros [ESP].mobi
+|       Los Misterios del Gusano [ESP].mobi
+|       Los Ojos del Dragon [ESP].mobi
+|       Los Tommynockers [ESP].mobi
+|       Maleficio [ESP].mobi
+|       Mientras Escribo [ESP].mobi
+|       Misery [ESP].mobi
+|       Ojos de Fuego [ESP].mobi
+|       Pesadillas y alucinaciones [ESP].mobi
+|       Posesion.prc
+|       Rita Hayworth y la Redencion de Shawshank [ESP].mobi
+|       Todo es Eventual [ESP].mobi
+|       Un Saco De Huesos.prc
+|       Ventana Secreta, Jardin Secreto [ESP].mobi
+|       
++---Stephen King &amp; Peter Straub
+|       El talism*n.mobi
+|       
++---Stephen R. Donaldson
+|   \---Mordant
+|           01 - Espejo De Sus Sue�os.prc
+|           02 - Los Muros De Orison.prc
+|           03 - El Acoso De Mordant.prc
+|           04 - El Jinete A Traves Del Espejo.prc
+|           
++---Stephen R. Lawhead
+|       1 - La guerra del paraiso.prc
+|       2 - Mano de plata.prc
+|       3 - La ultima batalla.prc
+|       Pendragon 1 - Taliesin.mobi
+|       Pendragon 2 - Merlin.mobi
+|       Pendragon 3 - Arturo.mobi
+|       Pendragon 4 - Pendragon.mobi
+|       Pendragon 5 - Grial.mobi
+|       
++---Stephen Vincent Benet
+|       Junto a las aguas de Babilonia.prc
+|       Un lugar de los dioses.prc
+|       
++---Stephenie Meyer
+|       Amanecer.azw
+|       Crepusculo.mobi
+|       Eclipse.mobi
+|       La huesped (The Host).mobi
+|       La segunda vida de Bree Tanner.mobi
+|       Luna nueva.mobi
+|       
++---Steve Alten
+|       El Lago.mobi
+|       El Testamento Maya.mobi
+|       La Resurreccion Maya.mobi
+|       MEG 2 La Fosa .prc
+|       Meg.mobi
+|       
++---Steve Berry
+|       El club de Paris.mobi
+|       La habitacion de *mbar.azw
+|       
++---Steven Gould
+|       Jumper.mobi
+|       
++---Steven Pressfield
+|       La campa�a afgana.mobi
+|       La conquista de Alejandro Magno.mobi
+|       Puertas de Fuego.mobi
+|       Vientos de guerra.mobi
+|       
++---Stieg Larsson
+|       Millennium I, Los hombres que no amaban a las mujeres.prc
+|       Millennium II, La chica que sonaba con una cerilla y un bidon de Gasolina.mobi
+|       Millennium III, La reina en el palacio de las corrientes de aire.mobi
+|       
++---Sun Tzu
+|       El Arte de la Guerra [ESP].mobi
+|       
++---Sunao Yoshida
+|       La estrella de la desolacion.azw
+|       
++---Susan Carroll
+|       El buscador de novia - Susan Carroll.mobi
+|       
++---Susan Cooper
+|       1 - Sobre el mar, bajo la tierra.prc
+|       2 - Los seis signos de la luz.prc
+|       3 - Brujaverde.prc
+|       4 - El rey gris.prc
+|       5 - El arbol de plata.prc
+|       
++---Susana Fortes
+|       Esperando a Robert Capa.azw
+|       
++---Suzanne Collins
+|       En llamas.mobi
+|       Los juegos del hambre.mobi
+|       
++---S*ndor M*rai
+|       Confesiones de un Burgues.prc
+|       El ultimo encuentro.prc
+|       La amante de Bolzano.prc
+|       La hermana.prc
+|       
++---T. H. White
+|       1 - La Espada en la Piedra.prc
+|       2 - La Reina del Aire y las Tinieblas.prc
+|       3 - El Caballero Malhecho.prc
+|       4 - Una Vela al Viento.prc
+|       El Libro de Merlin.prc
+|       
++---T. Lobsang Rampa
+|       El m�dico de Lhasa.mobi
+|       El tercer ojo.mobi
+|       
++---Tad Williams
+|   \---A�oranzas y Pesares
+|           01 - El Trono de Huesos de Dragon I.prc
+|           02 - El Trono de Huesos de Dragon II.prc
+|           03 - La Roca del Adios I.prc
+|           04 - La Roca del Adios II.mbp
+|           04 - La Roca del Adios II.prc
+|           05 - A Traves del Nido de Grants I.prc
+|           06 - A traves del nido de Ghants II.prc
+|           07 - La Torre del Angel Verde.prc
+|           
++---Tami Hoag
+|       El Incinerador.mobi
+|       
++---Tana French
+|       En piel ajena.mobi
+|       
++---*******
+|       *******, El Libro [ESP].prc
+|       
++---Terry Bisson
+|       Cantico Por Miller.prc
+|       Estan Hechos De Carne 1991.prc
+|       Macs.prc
+|       Primer Fuego 1998.prc
+|       
++---Terry Brooks
+|   +---Los herederos de Shannara
+|   |       01 - Los Vastagos De Shannara 1.prc
+|   |       01 - Los Vastagos De Shannara 2.prc
+|   |       02 - El Druida De Shannara 1.prc
+|   |       02 - El Druida De Shannara 2.prc
+|   |       03 - La Reina Elfica De Shannara 1.prc
+|   |       03 - La Reina Elfica De Shannara 2.prc
+|   |       04 - Los Talismanes De Shannara 1.prc
+|   |       04 - Los Talismanes De Shannara 2.prc
+|   |       
+|   \---Shannara
+|           01 - La Espada De Shannara.prc
+|           02 - Las Piedras Elficas De Shannara.prc
+|           03 - El Cantar De Shannara 1.prc
+|           04 - El Cantar De Shannara 2.prc
+|           
++---Terry Goodkind
+|       01 - El libro de las sombras contadas.prc
+|       02 - Las cajas del destino.prc
+|       03 - La piedra de las lagrimas.prc
+|       04 - La amenaza del custodio.prc
+|       05 - La sangre de la virtud.prc
+|       06 - El caminante de los suenos.prc
+|       07 - La profecia de la luna roja.prc
+|       08 - El templo de los vientos.prc
+|       09 - El espiritu del fuego.prc
+|       10 - El gemelo de la montana.prc
+|       
++---Terry Pratchett
+|   |   Buenos Presagios.mobi
+|   |   Estratos.mobi
+|   |   Nacion.mobi
+|   |   
+|   +---El exodo de los gnomos
+|   |       01 - Camioneros.mobi
+|   |       02 - Cavadores.mobi
+|   |       03 - La nave.mobi
+|   |       
+|   +---La ciencia de Mundodisco
+|   |       01 - La Ciencia de Mundodisco.mobi
+|   |       03 - El reloj de Darwin.mobi
+|   |       
+|   \---Mundodisco
+|       |   01 - El color de la magia.mobi
+|       |   02 - La luz fant*stica.mobi
+|       |   03 - Ritos iguales.mobi
+|       |   04 - Mort.mobi
+|       |   05 - Rechicero.mobi
+|       |   06 - Brujerias.mobi
+|       |   07 - Piromides.mobi
+|       |   08 - *Guardias! �Guardias'.mobi
+|       |   09 - Eric.mobi
+|       |   10 - Im*genes en accion.mobi
+|       |   11 - El Segador.mobi
+|       |   12 - Brujas de viaje.mobi
+|       |   13 - Dioses menores.mobi
+|       |   14 - Lores y damas.mobi
+|       |   15 - Hombres de armas.mobi
+|       |   16 - Soul music.mobi
+|       |   17 - Tiempos interesantes.mobi
+|       |   18 - Mascarada.mobi
+|       |   19 - Pies de barro.mobi
+|       |   20 - Pap* Puerco.mobi
+|       |   21 - *Voto a Brios!.mobi
+|       |   22 - El pais del fin del mundo.mobi
+|       |   23 - Carpe Jugulum.mobi
+|       |   24 - El quinto elefante.mobi
+|       |   25 - La Verdad.mobi
+|       |   26 - Ladron del tiempo.mobi
+|       |   27 - El ultimo heroe.mobi
+|       |   28 - El Asombroso Maurice y sus Educados Roedores.mobi
+|       |   29 - Ronda de noche.mobi
+|       |   30 - Los peque�os hombres libres.mobi
+|       |   31 - Regimiento Monstruoso.mobi
+|       |   32 - Un Sombrero lleno de Cielo.mobi
+|       |   34 - Thud! (Garrotazo!).mobi
+|       |   
+|       +---- Faltan
+|       |       33 - El Correo.txt
+|       |       
+|       \---Relatos cortos
+|               El Mar y los Pececitos.mobi
+|               El puente del troll.mobi
+|               
++---Theodor Plievier
+|       Trilog II G. Mundial (1945). Stalingrado.mobi
+|       Trilog II G. Mundial (1952). Moscu.mobi
+|       Trilog II G. Mundial (1954). Berlin.mobi
+|       
++---Thomas Gifford
+|       Los Assassini.mobi
+|       
++---Thomas Mann
+|       La monta�a m*gica.prc
+|       La muerte en Venecia.prc
+|       Mario y el mago.prc
+|       
++---Thomas Pynchon
+|       Contraluz.mobi
+|       
++---Thor Heyerdahl
+|       La Expedicion de la Kon-Tiki.mobi
+|       
++---Thornton Wilder
+|       Los idus de marzo.mobi
+|       
++---Tim Powers
+|       En Costas Extra�as [ESP].mobi
+|       La Fuerza de su Mirada.mobi
+|       La Ultima Partida.mobi
+|       Las puertas de Anubis.mobi
+|       
++---Tom Clancy
+|       Deuda de honor.azw
+|       El cardenal del Kremlin.azw
+|       El oso y el dragon.azw
+|       Juegos de patriotas.azw
+|       La caza del octubre rojo.azw
+|       Los dientes del tigre.azw
+|       Net force 1.azw
+|       Net force 2 - Prioridades ocultas.azw
+|       OpCenter 1 - Jaque al poder.azw
+|       OpCenter 2 - El silencio del Kremlin.azw
+|       OpCenter 3 - Juegos de estado.azw
+|       OpCenter 4 - Actos de guerra.azw
+|       OpCenter 5 - Equilibrio de poder.azw
+|       OpCenter 6 - Estado de sitio.azw
+|       OpCenter 7 - Divide y conquistaras.azw
+|       Operacion rainbow.azw
+|       Ordenes ejecutivas - Vol1.azw
+|       Ordenes ejecutivas - Vol2.azw
+|       Panico nuclear.azw
+|       Peligro inminente.azw
+|       Red rabbit.azw
+|       Sin remordimientos.azw
+|       Tormenta roja.azw
+|       
++---Tom Dillehay &amp; Patricia Netherly
+|       La Frontera Del Estado Inca.prc
+|       
++---Tom Holland
+|       Banquete de sangre.mobi
+|       El se�or de los muertos.mobi
+|       Fuego persa.mobi
+|       Rubicon. Auge y caida de la republica romana.mobi
+|       
++---Tom Rob Smith
+|       El ni�o 44.prc
+|       
++---Tom Sharpe
+|       Becas Flacas [ESP].mobi
+|       El Bastardo Recalcitrante [ESP].mobi
+|       El Temible Blott [ESP].mobi
+|       Las Tribulaciones De Wilt [ESP].mobi
+|       Lo Peor de cada Casa [ESP].mobi
+|       Reunion Tumultuosa [ESP].mobi
+|       Vicios Ancestrales [ESP].mobi
+|       Wilt no se aclara [ESP].mobi
+|       Wilt [ESP].mobi
+|       Zafarrancho En Cambridge [ESP].mobi
+|       animo Wilt [ESP].mobi
+|       
++---Tom Wolfe
+|       Soy Charlotte Simmons .prc
+|       
++---Torcuato Luca de Tena
+|       Los Renglones torcidos de Dios.mobi
+|       
++---Toti Martinez de Lezea
+|       El Mensajero del Rey.mobi
+|       La Calle de la Juderia.mobi
+|       La Comunera.mobi
+|       La Flor de la Argoma.mobi
+|       La Universal.mobi
+|       Las Torres de Sancho.mobi
+|       Los Grafitis de Mam*.mobi
+|       Se�or de la Guerra.mobi
+|       
++---Trevanian
+|       El Main.azw
+|       
++---Trudi Canavan
+|       El Gremio de los Magos.prc
+|       La aprendiz.mobi
+|       
++---Truman Capote
+|       A sangre fria.mobi
+|       Cuentos completos.prc
+|       
++---Umberto Eco
+|       El cementerio de Praga.mobi
+|       El Nombre de La Rosa [ESP].mobi
+|       El Pendulo de Foucault.prc
+|       La misteriosa llama de la reina Loana.prc
+|       
++---Valerio Massimo Manfredi
+|       Alexandros I - El hijo del sue�o [ESP].mobi
+|       Alexandros II - Las arenas de Amon [ESP].mobi
+|       Alexandros III - El confin del mundo [ESP].mobi
+|       El caballero invisible.prc
+|       El Imperio de los Dragones.mobi
+|       El Tirano.prc
+|       Imperio.prc
+|       La Conjura De Las Reinas.prc
+|       La Ultima Legion.prc
+|       Los idus de marzo.azw
+|       Paladion.prc
+|       Quimaira.prc
+|       Talos de Esparta.mobi
+|       
++---Vanessa Montfort
+|       El Ingrediente Secreto.mobi
+|       
++---Varios autores
+|       Prohibido a los nerviosos (recopilacion de Alfred Hitchcock).mobi
+|       Relatos de terror.mobi
+|       Relatos de vampiros.mobi
+|       
++---Vicente Aleixandre
+|       Espadas como labios.mobi
+|       La destruccion o el amor.mobi
+|       
++---Vicente Blasco Iba�ez
+|       Arroz y Tartana.mobi
+|       La Catedral.mobi
+|       Los Cuatro Jinetes del Apocalipsis.mobi
+|       
++---Victor Hugo
+|       Los Miserables.prc
+|       
++---Vincent Cronin
+|       Napoleon, una biografia intima.mobi
+|       
++---Virginia C. Andrews
+|       Flores en el atico.prc
+|       Jardin sombrio.prc
+|       Petalos al viento.prc
+|       Semillas del ayer.prc
+|       Si Hubiera Espinas.prc
+|       
++---Virginia Woolf
+|       Al Faro.mbp
+|       Al Faro.prc
+|       
++---Vladimir Nabokov
+|       Ada o el ardor [ESP].prc
+|       Cuentos completos.mobi
+|       La defensa Luzhin.mobi
+|       La verdadera vida de Sebastian Knight.mobi
+|       Lolita [ESP].mobi
+|       Palido fuego.mobi
+|       Pnin.mobi
+|       
++---W. Michael Gear &amp; Kathleen O�Neal Gear
+|       La Tribu 1. La tribu del lobo.mobi
+|       La Tribu 2. La tribu del fuego.mobi
+|       La Tribu 3. La tribu de los lagos.mobi
+|       
++---Walter Mosley
+|       Beso Canela.mobi
+|       Betty la Negra.mobi
+|       De pesca.mobi
+|       El Caso Brown.mobi
+|       El Demonio Vestido de Azul [ESP].mobi
+|       Mariposa blanca.mobi
+|       Muerte Escarlata [ESP].mobi
+|       Rubia Peligrosa.mobi
+|       Un Perro Amarillo [ESP].mobi
+|       
++---Walter Scott
+|       ivanhoe.mobi
+|       La camara de los tapices.mobi
+|       La viuda de las monta�as.mobi
+|       Rob Roy.mobi
+|       
++---Warren Fahy
+|       Henders.mobi
+|       
++---Wilbur Smith
+|       El Canto del Elefante.mobi
+|       
++---William Dietrich
+|       El Reich de Hielo.mobi
+|       La Clave Rosetta.mobi
+|       Las pir*mides de Napoleon.mobi
+|       
++---William Faulkner
+|       El ruido y la furia.prc
+|       Luz de Agosto.prc
+|       Mientras agonizo.prc
+|       
++---William Gibson
+|       La m*quina diferencial.azw
+|       Mona Lisa Acelerada.mobi
+|       Neuromante.azw
+|       
++---William Golding
+|       El se�or de las moscas.mobi
+|       
++---William Goldman
+|       La Princesa Prometida [ESP].mobi
+|       
++---William Hodgson
+|       La Casa en el Confin de la Tierra.mobi
+|       
++---William Irish
+|       Fue Anoche.mobi
+|       No Quisiera Estar En Sus Zapatos.mobi
+|       Papa Benjamin.mobi
+|       
++---William Le Queux
+|       El tesoro misterioso.mobi
+|       
++---William Napier
+|       Atila 01 - Atila. El fin del mundo vendr* del este.mobi
+|       Atila 02 - Los hunos a las puertas de Roma.mobi
+|       Atila 03 - El juicio final.mobi
+|       
++---William Ospina
+|       El Pais de la Canela.prc
+|       
++---William Peter Blatty
+|       El exorcista.azw
+|       
++---Wladyslaw Szpilman
+|       El Pianista del Gueto de Varsovia.prc
+|       
++---Wolfgang Jeschke
+|       El ultimo dia de la Creacion.azw
+|       
++---Wu Chengen
+|       Viaje al Oeste - Las Aventuras del Rey Mono - Vol. I.mobi
+|       Viaje al Oeste - Las Aventuras del Rey Mono - Vol. II.mobi
+|       
++---Yasunari Kawabata
+|       Lo bello y lo triste.prc
+|       Pais de nieve .prc
+|       
++---Yrsa Sigurdardottir
+|       Ceniza.mobi
+|       
++---Yukio Mishima
+|       El Marinero que Perdio la Gracia del Mar.mobi
+|       La Perla.mobi
+|       Los siete puentes.mobi
+|       Nieve en primavera(El mar de la fertilidad-1).mobi
+|       
++---alvaro Bermejo
+|       El evangelio del Tibet.mobi
+|       
++---angel Arango
+|       Robotomaquia.prc
+|       Un Inesperado Visitante.prc
+|       
