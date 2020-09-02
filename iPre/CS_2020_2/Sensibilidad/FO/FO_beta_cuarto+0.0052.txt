@@ -1,0 +1,459 @@
+beta [*] :=
+Cuarto  0.00520
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 274192101.22920
+
+beta [*] :=
+Cuarto  0.01040
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 261217855.57118
+
+beta [*] :=
+Cuarto  0.01560
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 255423258.91501
+
+beta [*] :=
+Cuarto  0.02080
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 252123928.33694
+
+beta [*] :=
+Cuarto  0.02600
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 250132668.97134
+
+beta [*] :=
+Cuarto  0.03120
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 248510924.90097
+
+beta [*] :=
+Cuarto  0.03640
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 247362494.87522
+
+beta [*] :=
+Cuarto  0.04160
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 246345838.34755
+
+beta [*] :=
+Cuarto  0.04680
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 245579718.11424
+
+beta [*] :=
+Cuarto  0.05200
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 244785501.94988
+
+beta [*] :=
+Cuarto  0.05720
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 244096785.94266
+
+beta [*] :=
+Cuarto  0.06240
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 243555394.31698
+
+beta [*] :=
+Cuarto  0.06760
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 243176309.28127
+
+beta [*] :=
+Cuarto  0.07280
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 242755151.37504
+
+beta [*] :=
+Cuarto  0.07800
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 242378073.84088
+
+beta [*] :=
+Cuarto  0.08320
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 242037993.12235
+
+beta [*] :=
+Cuarto  0.08840
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 241734134.54230
+
+beta [*] :=
+Cuarto  0.09360
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 241454224.22980
+
+beta [*] :=
+Cuarto  0.09880
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 241120664.70318
+
+beta [*] :=
+Cuarto  0.10400
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 240911352.61183
+
+beta [*] :=
+Cuarto  0.10920
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 240707260.95939
+
+beta [*] :=
+Cuarto  0.11440
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 240520093.12862
+
+beta [*] :=
+Cuarto  0.11960
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 240347706.92228
+
+beta [*] :=
+Cuarto  0.12480
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 240188305.82906
+
+beta [*] :=
+Cuarto  0.13000
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 240040375.62294
+
+beta [*] :=
+Cuarto  0.13520
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239902685.27351
+
+beta [*] :=
+Cuarto  0.14040
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239774759.69550
+
+beta [*] :=
+Cuarto  0.14560
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239655748.81277
+
+beta [*] :=
+Cuarto  0.15080
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239544797.26991
+
+beta [*] :=
+Cuarto  0.15600
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239441202.27934
+
+beta [*] :=
+Cuarto  0.16120
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239344258.35515
+
+beta [*] :=
+Cuarto  0.16640
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239253345.00347
+
+beta [*] :=
+Cuarto  0.17160
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239167916.28518
+
+beta [*] :=
+Cuarto  0.17680
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239087491.32562
+
+beta [*] :=
+Cuarto  0.18200
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 239011642.26902
+
+beta [*] :=
+Cuarto  0.18720
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238939990.98023
+
+beta [*] :=
+Cuarto  0.19240
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238872208.29892
+
+beta [*] :=
+Cuarto  0.19760
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238807991.41607
+
+beta [*] :=
+Cuarto  0.20280
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238747067.15301
+
+beta [*] :=
+Cuarto  0.20800
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238689200.20213
+
+beta [*] :=
+Cuarto  0.21320
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238634168.89927
+
+beta [*] :=
+Cuarto  0.21840
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238581769.93565
+
+beta [*] :=
+Cuarto  0.22360
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238531818.90152
+
+beta [*] :=
+Cuarto  0.22880
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238484148.19524
+
+beta [*] :=
+Cuarto  0.23400
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238438605.51926
+
+beta [*] :=
+Cuarto  0.23920
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238395051.91682
+
+beta [*] :=
+Cuarto  0.24440
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238353359.61085
+
+beta [*] :=
+Cuarto  0.24960
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238313412.64779
+
+beta [*] :=
+Cuarto  0.25480
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238275102.90505
+
+beta [*] :=
+Cuarto  0.26000
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238238332.02170
+
+beta [*] :=
+Cuarto  0.26520
+Entero  0.18000
+ Medio  0.04200
+Octavo  0.00178
+;
+
+FO = 238203009.11771
+

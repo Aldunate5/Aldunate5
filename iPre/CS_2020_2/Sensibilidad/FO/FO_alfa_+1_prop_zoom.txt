@@ -1,0 +1,459 @@
+alfa [*] :=
+Cuarto  0.00000
+Entero  0.00000
+ Medio  0.00000
+Octavo  0.00000
+;
+
+FO = -0.00013
+
+alfa [*] :=
+Cuarto   4.00000
+Entero  16.00000
+ Medio   8.00000
+Octavo   2.00000
+;
+
+FO = 14472.72578
+
+alfa [*] :=
+Cuarto   8.00000
+Entero  32.00000
+ Medio  16.00000
+Octavo   4.00000
+;
+
+FO = 57891.02074
+
+alfa [*] :=
+Cuarto  12.00000
+Entero  48.00000
+ Medio  24.00000
+Octavo   6.00000
+;
+
+FO = 130193.61711
+
+alfa [*] :=
+Cuarto  16.00000
+Entero  64.00000
+ Medio  32.00000
+Octavo   8.00000
+;
+
+FO = 230453.86296
+
+alfa [*] :=
+Cuarto  20.00000
+Entero  80.00000
+ Medio  40.00000
+Octavo  10.00000
+;
+
+FO = 356503.27214
+
+alfa [*] :=
+Cuarto  24.00000
+Entero  96.00000
+ Medio  48.00000
+Octavo  12.00000
+;
+
+FO = 505965.68716
+
+alfa [*] :=
+Cuarto   28.00000
+Entero  112.00000
+ Medio   56.00000
+Octavo   14.00000
+;
+
+FO = 675706.44584
+
+alfa [*] :=
+Cuarto   32.00000
+Entero  128.00000
+ Medio   64.00000
+Octavo   16.00000
+;
+
+FO = 862162.84836
+
+alfa [*] :=
+Cuarto   36.00000
+Entero  144.00000
+ Medio   72.00000
+Octavo   18.00000
+;
+
+FO = 1064038.07645
+
+alfa [*] :=
+Cuarto   40.00000
+Entero  160.00000
+ Medio   80.00000
+Octavo   20.00000
+;
+
+FO = 1278970.55542
+
+alfa [*] :=
+Cuarto   44.00000
+Entero  176.00000
+ Medio   88.00000
+Octavo   22.00000
+;
+
+FO = 1504237.18949
+
+alfa [*] :=
+Cuarto   48.00000
+Entero  192.00000
+ Medio   96.00000
+Octavo   24.00000
+;
+
+FO = 1739814.99999
+
+alfa [*] :=
+Cuarto   52.00000
+Entero  208.00000
+ Medio  104.00000
+Octavo   26.00000
+;
+
+FO = 1985703.83247
+
+alfa [*] :=
+Cuarto   56.00000
+Entero  224.00000
+ Medio  112.00000
+Octavo   28.00000
+;
+
+FO = 2241903.88887
+
+alfa [*] :=
+Cuarto   60.00000
+Entero  240.00000
+ Medio  120.00000
+Octavo   30.00000
+;
+
+FO = 2508414.99914
+
+alfa [*] :=
+Cuarto   64.00000
+Entero  256.00000
+ Medio  128.00000
+Octavo   32.00000
+;
+
+FO = 2793707.80250
+
+alfa [*] :=
+Cuarto   68.00000
+Entero  272.00000
+ Medio  136.00000
+Octavo   34.00000
+;
+
+FO = 3105750.75507
+
+alfa [*] :=
+Cuarto   72.00000
+Entero  288.00000
+ Medio  144.00000
+Octavo   36.00000
+;
+
+FO = 3444326.40133
+
+alfa [*] :=
+Cuarto   76.00000
+Entero  304.00000
+ Medio  152.00000
+Octavo   38.00000
+;
+
+FO = 3814189.46058
+
+alfa [*] :=
+Cuarto   80.00000
+Entero  320.00000
+ Medio  160.00000
+Octavo   40.00000
+;
+
+FO = 4228269.02496
+
+alfa [*] :=
+Cuarto   84.00000
+Entero  336.00000
+ Medio  168.00000
+Octavo   42.00000
+;
+
+FO = 4687285.04866
+
+alfa [*] :=
+Cuarto   88.00000
+Entero  352.00000
+ Medio  176.00000
+Octavo   44.00000
+;
+
+FO = 5194679.13864
+
+alfa [*] :=
+Cuarto   92.00000
+Entero  368.00000
+ Medio  184.00000
+Octavo   46.00000
+;
+
+FO = 5789247.01307
+
+alfa [*] :=
+Cuarto   96.00000
+Entero  384.00000
+ Medio  192.00000
+Octavo   48.00000
+;
+
+FO = 6495710.92194
+
+alfa [*] :=
+Cuarto  100.00000
+Entero  400.00000
+ Medio  200.00000
+Octavo   50.00000
+;
+
+FO = 7314492.90746
+
+alfa [*] :=
+Cuarto  104.00000
+Entero  416.00000
+ Medio  208.00000
+Octavo   52.00000
+;
+
+FO = 8246600.86606
+
+alfa [*] :=
+Cuarto  108.00000
+Entero  432.00000
+ Medio  216.00000
+Octavo   54.00000
+;
+
+FO = 9294900.62107
+
+alfa [*] :=
+Cuarto  112.00000
+Entero  448.00000
+ Medio  224.00000
+Octavo   56.00000
+;
+
+FO = 10625630.34350
+
+alfa [*] :=
+Cuarto  116.00000
+Entero  464.00000
+ Medio  232.00000
+Octavo   58.00000
+;
+
+FO = 11942852.81020
+
+alfa [*] :=
+Cuarto  120.00000
+Entero  480.00000
+ Medio  240.00000
+Octavo   60.00000
+;
+
+FO = 13806889.07753
+
+alfa [*] :=
+Cuarto  124.00000
+Entero  496.00000
+ Medio  248.00000
+Octavo   62.00000
+;
+
+FO = 16255209.61645
+
+alfa [*] :=
+Cuarto  128.00000
+Entero  512.00000
+ Medio  256.00000
+Octavo   64.00000
+;
+
+FO = 18143520.39777
+
+alfa [*] :=
+Cuarto  132.00000
+Entero  528.00000
+ Medio  264.00000
+Octavo   66.00000
+;
+
+FO = 20267032.71408
+
+alfa [*] :=
+Cuarto  136.00000
+Entero  544.00000
+ Medio  272.00000
+Octavo   68.00000
+;
+
+FO = 22284550.27008
+
+alfa [*] :=
+Cuarto  140.00000
+Entero  560.00000
+ Medio  280.00000
+Octavo   70.00000
+;
+
+FO = 24424229.19040
+
+alfa [*] :=
+Cuarto  144.00000
+Entero  576.00000
+ Medio  288.00000
+Octavo   72.00000
+;
+
+FO = 26693421.81426
+
+alfa [*] :=
+Cuarto  148.00000
+Entero  592.00000
+ Medio  296.00000
+Octavo   74.00000
+;
+
+FO = 29092812.14014
+
+alfa [*] :=
+Cuarto  152.00000
+Entero  608.00000
+ Medio  304.00000
+Octavo   76.00000
+;
+
+FO = 32425308.05014
+
+alfa [*] :=
+Cuarto  156.00000
+Entero  624.00000
+ Medio  312.00000
+Octavo   78.00000
+;
+
+FO = 35120121.28309
+
+alfa [*] :=
+Cuarto  160.00000
+Entero  640.00000
+ Medio  320.00000
+Octavo   80.00000
+;
+
+FO = 38033296.75924
+
+alfa [*] :=
+Cuarto  164.00000
+Entero  656.00000
+ Medio  328.00000
+Octavo   82.00000
+;
+
+FO = 41048631.19629
+
+alfa [*] :=
+Cuarto  168.00000
+Entero  672.00000
+ Medio  336.00000
+Octavo   84.00000
+;
+
+FO = 44143227.47866
+
+alfa [*] :=
+Cuarto  172.00000
+Entero  688.00000
+ Medio  344.00000
+Octavo   86.00000
+;
+
+FO = 47447480.68925
+
+alfa [*] :=
+Cuarto  176.00000
+Entero  704.00000
+ Medio  352.00000
+Octavo   88.00000
+;
+
+FO = 50867121.33670
+
+alfa [*] :=
+Cuarto  180.00000
+Entero  720.00000
+ Medio  360.00000
+Octavo   90.00000
+;
+
+FO = 54277687.77828
+
+alfa [*] :=
+Cuarto  184.00000
+Entero  736.00000
+ Medio  368.00000
+Octavo   92.00000
+;
+
+FO = 57788527.45046
+
+alfa [*] :=
+Cuarto  188.00000
+Entero  752.00000
+ Medio  376.00000
+Octavo   94.00000
+;
+
+FO = 61507816.05771
+
+alfa [*] :=
+Cuarto  192.00000
+Entero  768.00000
+ Medio  384.00000
+Octavo   96.00000
+;
+
+FO = 65264460.22716
+
+alfa [*] :=
+Cuarto  196.00000
+Entero  784.00000
+ Medio  392.00000
+Octavo   98.00000
+;
+
+FO = 69029619.64961
+
+alfa [*] :=
+Cuarto  200.00000
+Entero  800.00000
+ Medio  400.00000
+Octavo  100.00000
+;
+
+FO = 72856533.89090
+

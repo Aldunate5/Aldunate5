@@ -1,0 +1,459 @@
+hold [*] :=
+Cuarto  0.87500
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 274192101.22920
+
+hold [*] :=
+Cuarto  1.75000
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 273787666.76232
+
+hold [*] :=
+Cuarto  2.62500
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 273492606.06991
+
+hold [*] :=
+Cuarto  3.50000
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 273225991.88206
+
+hold [*] :=
+Cuarto  4.37500
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 272972493.34907
+
+hold [*] :=
+Cuarto  5.25000
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 272725042.92627
+
+hold [*] :=
+Cuarto  6.12500
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 272489031.65697
+
+hold [*] :=
+Cuarto  7.00000
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 272726120.77531
+
+hold [*] :=
+Cuarto  7.87500
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 272585233.05515
+
+hold [*] :=
+Cuarto  8.75000
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 272459658.99140
+
+hold [*] :=
+Cuarto  9.62500
+Entero  2.00000
+ Medio  1.45000
+Octavo  0.45000
+;
+
+FO = 272470304.35812
+
+hold [*] :=
+Cuarto  10.50000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 272375951.97102
+
+hold [*] :=
+Cuarto  11.37500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 272285358.27882
+
+hold [*] :=
+Cuarto  12.25000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 272196066.27584
+
+hold [*] :=
+Cuarto  13.12500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 272108392.80493
+
+hold [*] :=
+Cuarto  14.00000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 272022333.23115
+
+hold [*] :=
+Cuarto  14.87500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 272002271.22552
+
+hold [*] :=
+Cuarto  15.75000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271950549.56013
+
+hold [*] :=
+Cuarto  16.62500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271883739.92325
+
+hold [*] :=
+Cuarto  17.50000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271860633.99917
+
+hold [*] :=
+Cuarto  18.37500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271802164.03465
+
+hold [*] :=
+Cuarto  19.25000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271742842.89730
+
+hold [*] :=
+Cuarto  20.12500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271684733.32943
+
+hold [*] :=
+Cuarto  21.00000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271627891.42418
+
+hold [*] :=
+Cuarto  21.87500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271572320.15956
+
+hold [*] :=
+Cuarto  22.75000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271753927.67043
+
+hold [*] :=
+Cuarto  23.62500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271725932.27177
+
+hold [*] :=
+Cuarto  24.50000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271716456.15263
+
+hold [*] :=
+Cuarto  25.37500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271695454.10431
+
+hold [*] :=
+Cuarto  26.25000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271674938.05669
+
+hold [*] :=
+Cuarto  27.12500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271654909.62929
+
+hold [*] :=
+Cuarto  28.00000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271635367.61786
+
+hold [*] :=
+Cuarto  28.87500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271616336.28394
+
+hold [*] :=
+Cuarto  29.75000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271692587.96952
+
+hold [*] :=
+Cuarto  30.62500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271681124.93412
+
+hold [*] :=
+Cuarto  31.50000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271655246.65016
+
+hold [*] :=
+Cuarto  32.37500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271644922.61385
+
+hold [*] :=
+Cuarto  33.25000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271764705.28615
+
+hold [*] :=
+Cuarto  34.12500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271763402.73138
+
+hold [*] :=
+Cuarto  35.00000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271762188.05405
+
+hold [*] :=
+Cuarto  35.87500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271761061.23729
+
+hold [*] :=
+Cuarto  36.75000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271760022.27656
+
+hold [*] :=
+Cuarto  37.62500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271759071.16382
+
+hold [*] :=
+Cuarto  38.50000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271758207.89041
+
+hold [*] :=
+Cuarto  39.37500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271757848.34659
+
+hold [*] :=
+Cuarto  40.25000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271757847.28952
+
+hold [*] :=
+Cuarto  41.12500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271757847.28425
+
+hold [*] :=
+Cuarto  42.00000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271757847.28334
+
+hold [*] :=
+Cuarto  42.87500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271757848.34662
+
+hold [*] :=
+Cuarto  43.75000
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271757848.33615
+
+hold [*] :=
+Cuarto  44.62500
+Entero   2.00000
+ Medio   1.45000
+Octavo   0.45000
+;
+
+FO = 271757848.33586
+
