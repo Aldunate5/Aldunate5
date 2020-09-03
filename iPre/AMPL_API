@@ -1,0 +1,100 @@
+import amplpy
+ampl=amplpy.AMPL(amplpy.Environment(r'C:\Users\diego\Documents\Diego_Aldunate\iPre\AMPL'))
+
+#Directamente con AMPL
+#amplpy.AMPL.eval()
+#amplpy.AMPL.read()
+#amplpy.AMPL.readData()
+
+#Generar un Entity Map
+#amplpy.AMPL.getVariables() gets the map of all the defined variables
+#amplpy.AMPL.getConstraints() gets the map of all the defined constraints
+#amplpy.AMPL.getObjectives() gets the map of all the defined objectives
+#amplpy.AMPL.getSets() gets the map of all the defined sets
+#amplpy.AMPL.getParameters() gets the map of all the defined parameters
+
+"""
+ampl.eval('var x{1..2, 4..5, 7..8};')
+x = ampl.getVariable('x')
+
+# Option 1:
+instance = x[1, 4, 7]
+print(instance)
+# Option 2:
+instance = x.get(1, 4, 7)
+print(instance)
+
+index = (1, 4, 7)
+# Option 3:
+instance = x[index]
+print(instance)
+# Option 4:
+instance = x.get(index)
+print(instance)
+"""
+
+
+"""
+ampl.eval('var x;')
+ampl.eval('maximize z: x;')
+ampl.eval('subject to c: x<=10;')
+x = ampl.getVariable('x')
+
+# At this point x.value() evaluates to 0
+print(x.value())  # prints 0
+
+ampl.solve()
+
+# At this point x.value() evaluates to 10
+print(x.value())  # prints 10
+"""
+
+"""
+ampl.eval('set A := 1..1000; param c{i in A} default 0; var x{i in 1..1000} := c[i];')
+#se genera un vector de c de 1000 y de x de 1000
+# Enumerate through all the instances of c and set their values
+c = ampl.getParameter("c");
+
+for i in range(1, c.numInstances()+1):
+    c[i] = i*1.1
+# Enumerate through all the instances and print their values
+x = ampl.getVariable("x")
+#for index, xi in x:
+    #print(xi.value())
+"""
+"""
+df = amplpy.DataFrame(index='A', columns='c')
+for i in range(1, 1000+1):
+    df.addRow(i, i*1.1)
+
+ampl.eval('set A; param c{i in A} default 0; var x{i in A} := c[i];')
+# Assign data to the set A and the parameter c in one line
+ampl.setData(df, 'A')
+
+x = ampl.getVariable('x')
+# From the following line onwards, df is uncoupled from the
+# modelling system,
+df = x.getValues()
+
+# Prints all the values
+for row in df:
+    print(row)
+
+# Retrieve all rows
+rows = [tuple(row) for row in df]
+
+# Prints all the values in the DataFrame
+print(df)
+"""
+
+
+ampl.eval('var x{i in 1..3} := i;')
+ampl.eval('param p symbolic := "test";')
+ampl.eval('param pp := 4;')
+# x2 will have the value 2
+print(ampl.getValue("x[2]"))
+# p will have the value "test"
+print(ampl.getValue('p'))
+# pp will have the value 4
+print(ampl.getValue('pp'))
+#amplpy.AMPL.close()
