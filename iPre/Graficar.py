@@ -46,7 +46,7 @@ def funcion_objetivo_hold(funcion,df):
     plt.plot(tiempo,Entero, label='Entero')
     plt.plot(tiempo,Medio, label='Medio')
     plt.plot(tiempo,Octavo, label='Octavo')
-    plt.axis([0, 200, 0, 8])  # genera largo de ejes
+    plt.axis([0, 100, 0, 8])  # genera largo de ejes
     plt.legend(loc="center left",bbox_to_anchor=(1, 0.5))  # se genera un key de manera de identificar cada simulacion segun color
     plt.tight_layout()  # se ajusta legend al ancho de la pantalla
 

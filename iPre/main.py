@@ -11,6 +11,8 @@ ampl.setOption('solver','knitro')
 #print(ampl.getOption('solver'))
 
 hold = ampl.getParameter('hold').getValues().toPandas()
+
+
 Generar_Dataframe.Generar(hold)
 
 
@@ -21,7 +23,7 @@ ampl.solve()
 fo = ampl.getObjective('FO').value()
 funcion_objetivo.append((fo, 0))
 
-for simulacion in range(200):
+for simulacion in range(1):
     print(simulacion)
     """
     Variables
@@ -40,11 +42,13 @@ for simulacion in range(200):
     fo = ampl.getObjective('FO').value()
     funcion_objetivo.append((fo, simulacion+1))
 
-
+inventario=ampl.getVariable('W').getValues().toPandas()
+Generar_Dataframe.Generar(inventario)
+Generar_Dataframe.Anexo_tiempo(inventario)
 
 #print(funcion_objetivo)
 #Graficar.funcion_objetivo(funcion_objetivo)
-Graficar.funcion_objetivo_hold(funcion_objetivo,Generar_Dataframe.Frame())
+#Graficar.funcion_objetivo_hold(funcion_objetivo,Generar_Dataframe.Frame())
 
 
 
