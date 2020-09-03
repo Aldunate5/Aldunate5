@@ -4,8 +4,12 @@ import Modificar_Parametros
 import Generar_Dataframe
 import Graficar
 
+<<<<<<< HEAD
 
 ampl = amplpy.AMPL(amplpy.Environment(r'C:\Program Files\AMPL'))
+=======
+ampl = amplpy.AMPL(amplpy.Environment(r'C:\Users\diego\Documents\Diego_Aldunate\iPre\AMPL'))
+>>>>>>> fcb872189b41aab4ac42f7c1f2fd8cfaa47c3ae1
 ampl.read(r'C:\Users\diego\Documents\Diego_Aldunate\iPre\CS_2020_2\Modelo_AMPL\modelo_nl_costo.mod')
 ampl.readData(r'C:\Users\diego\Documents\Diego_Aldunate\iPre\CS_2020_2\Modelo_AMPL\datos_precio_Fijo.dat')
 ampl.setOption('solver','knitro')
