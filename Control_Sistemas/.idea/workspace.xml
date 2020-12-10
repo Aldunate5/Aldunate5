@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d1e2ab9-8872-4ff2-b745-b76325088b0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tarea 04-Lazo Abierto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/Tarea 04 - Lazo cerrado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/Tarea 05/interrogacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/Tarea 05/tarea5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/Tarea 05/tarea5_pauta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/Tarea 05/tarea_p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/Tarea 07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/base.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/pauta t4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea 04/tarea7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Educative/ML - Data with Pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Educative/Python - Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Educative/Python - Data Analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Educative/Python - Data Visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Educative/Python - Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Educative/Python - ML - Data maniuplation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quinta/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quinta/mysite/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundo orden" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion_Avanzada/Contenidos/semana-00/ejemplo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion_Avanzada/Contenidos/semana-00/ejemplo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programacion_Avanzada/Contenidos/semana-00/semana00_paths.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Programacion_Avanzada/Contenidos/semana-00/semana00_paths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cutting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iPre/CS_2020_2/Modelo_AMPL/model_nl_PF.run" beforeDir="false" afterPath="$PROJECT_DIR$/../iPre/CS_2020_2/Modelo_AMPL/model_nl_PF.run" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iPre/CS_2020_2/Modelo_AMPL/modelo_nl_costo.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../iPre/CS_2020_2/Modelo_AMPL/modelo_nl_costo.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iPre/cutting" beforeDir="false" afterPath="$PROJECT_DIR$/../iPre/cutting" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kNHtTJ0mJjAj4CWVL3MSNmS1RQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d1e2ab9-8872-4ff2-b745-b76325088b0e" name="Default Changelist" comment="" />
+      <created>1605534344216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605534344216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
